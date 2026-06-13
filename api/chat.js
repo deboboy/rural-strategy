@@ -8,17 +8,16 @@ import {
   touchConversation,
 } from '../lib/chat-db.js';
 import {
-  errorResponse,
-  jsonResponse,
+  getRequestUrl,
   normalizeBody,
   normalizePagePath,
   readJsonBody,
-  requireSession,
+  requireSessionNode,
+  sendError,
+  sendJson,
 } from '../lib/api.js';
 import { buildSystemPrompt } from '../lib/agent/system-prompt.js';
 import { encodeSse, runChatAgent, sseHeaders } from '../lib/agent/openrouter.js';
-
-export const config = { runtime: 'edge' };
 
 function conversationTitle(message) {
   const trimmed = message.trim().replace(/\s+/g, ' ');
@@ -26,35 +25,39 @@ function conversationTitle(message) {
   return `${trimmed.slice(0, 57)}…`;
 }
 
-export default async function handler(request) {
-  const { user, response } = await requireSession(request);
-  if (response) return response;
+export default async function handler(req, res) {
+  const { user, denied } = await requireSessionNode(req, res);
+  if (denied) return;
 
-  if (request.method === 'GET') {
-    const pagePath = normalizePagePath(new URL(request.url).searchParams.get('page_path'));
+  if (req.method === 'GET') {
+    const pagePath = normalizePagePath(getRequestUrl(req).searchParams.get('page_path'));
     if (!pagePath) {
-      return errorResponse('page_path query parameter is required', 400);
+      sendError(res, 'page_path query parameter is required', 400);
+      return;
     }
 
     try {
       const conversations = await listConversations(user.username, pagePath);
-      return jsonResponse({ conversations });
+      sendJson(res, { conversations });
     } catch (error) {
       console.error('Failed to list conversations', error);
-      return errorResponse('Failed to load conversations', 500);
+      sendError(res, 'Failed to load conversations', 500);
     }
+    return;
   }
 
-  if (request.method === 'POST') {
-    const body = await readJsonBody(request);
+  if (req.method === 'POST') {
+    const body = await readJsonBody(req);
     if (!body) {
-      return errorResponse('Invalid JSON body', 400);
+      sendError(res, 'Invalid JSON body', 400);
+      return;
     }
 
     const pagePath = normalizePagePath(body.page_path);
     const message = normalizeBody(body.message);
     if (!pagePath || !message) {
-      return errorResponse('page_path and message are required', 400);
+      sendError(res, 'page_path and message are required', 400);
+      return;
     }
 
     const context = body.context && typeof body.context === 'object' ? body.context : null;
@@ -64,7 +67,8 @@ export default async function handler(request) {
       if (body.conversation_id) {
         conversation = await getConversation(Number(body.conversation_id), user.username);
         if (!conversation) {
-          return errorResponse('Conversation not found', 404);
+          sendError(res, 'Conversation not found', 404);
+          return;
         }
       } else {
         conversation = await createConversation(user.username, pagePath, conversationTitle(message));
@@ -84,56 +88,50 @@ export default async function handler(request) {
         ...buildModelMessages(storedMessages),
       ];
 
-      const stream = new ReadableStream({
-        async start(controller) {
-          const encoder = new TextEncoder();
-          const send = (event, data) => {
-            controller.enqueue(encoder.encode(encodeSse(event, data)));
-          };
+      res.writeHead(200, sseHeaders());
+      const send = (event, data) => {
+        res.write(encodeSse(event, data));
+      };
 
-          try {
-            send('conversation', { conversation });
-            const { persistedMessages } = await runChatAgent({
-              messages: modelMessages,
-              onStatus: (status) => send('status', { message: status }),
+      try {
+        send('conversation', { conversation });
+        const { persistedMessages } = await runChatAgent({
+          messages: modelMessages,
+          onStatus: (status) => send('status', { message: status }),
+        });
+
+        let savedAssistant = null;
+        for (const entry of persistedMessages) {
+          if (entry.role === 'tool') {
+            await addMessage(conversation.id, 'tool', entry.content, {
+              tool_call_id: entry.tool_call_id,
             });
-
-            let savedAssistant = null;
-            for (const entry of persistedMessages) {
-              if (entry.role === 'tool') {
-                await addMessage(conversation.id, 'tool', entry.content, {
-                  tool_call_id: entry.tool_call_id,
-                });
-                continue;
-              }
-
-              savedAssistant = await addMessage(
-                conversation.id,
-                'assistant',
-                entry.content || '',
-                entry.tool_calls ? { tool_calls: entry.tool_calls } : null
-              );
-            }
-
-            await touchConversation(conversation.id);
-
-            send('message', { message: savedAssistant });
-            send('done', { conversationId: conversation.id });
-          } catch (error) {
-            console.error('Chat agent failed', error);
-            send('error', { message: error.message || 'Chat failed' });
-          } finally {
-            controller.close();
+            continue;
           }
-        },
-      });
 
-      return new Response(stream, { headers: sseHeaders() });
+          savedAssistant = await addMessage(
+            conversation.id,
+            'assistant',
+            entry.content || '',
+            entry.tool_calls ? { tool_calls: entry.tool_calls } : null
+          );
+        }
+
+        await touchConversation(conversation.id);
+        send('message', { message: savedAssistant });
+        send('done', { conversationId: conversation.id });
+      } catch (error) {
+        console.error('Chat agent failed', error);
+        send('error', { message: error.message || 'Chat failed' });
+      } finally {
+        res.end();
+      }
     } catch (error) {
       console.error('Failed to start chat', error);
-      return errorResponse('Failed to start chat', 500);
+      sendError(res, 'Failed to start chat', 500);
     }
+    return;
   }
 
-  return errorResponse('Method not allowed', 405);
+  sendError(res, 'Method not allowed', 405);
 }

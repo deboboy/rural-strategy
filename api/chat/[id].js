@@ -4,44 +4,46 @@ import {
   visibleMessages,
 } from '../../lib/chat-db.js';
 import {
-  errorResponse,
-  jsonResponse,
-  requireSession,
+  getRequestUrl,
+  requireSessionNode,
+  sendError,
+  sendJson,
 } from '../../lib/api.js';
 
-export const config = { runtime: 'edge' };
-
-function getConversationId(request) {
-  const match = new URL(request.url).pathname.match(/^\/api\/chat\/(\d+)\/?$/);
+function getConversationId(req) {
+  const match = getRequestUrl(req).pathname.match(/^\/api\/chat\/(\d+)\/?$/);
   return match ? Number(match[1]) : null;
 }
 
-export default async function handler(request) {
-  const { user, response } = await requireSession(request);
-  if (response) return response;
+export default async function handler(req, res) {
+  const { user, denied } = await requireSessionNode(req, res);
+  if (denied) return;
 
-  if (request.method !== 'GET') {
-    return errorResponse('Method not allowed', 405);
+  if (req.method !== 'GET') {
+    sendError(res, 'Method not allowed', 405);
+    return;
   }
 
-  const conversationId = getConversationId(request);
+  const conversationId = getConversationId(req);
   if (!conversationId) {
-    return errorResponse('Invalid conversation id', 400);
+    sendError(res, 'Invalid conversation id', 400);
+    return;
   }
 
   try {
     const conversation = await getConversation(conversationId, user.username);
     if (!conversation) {
-      return errorResponse('Conversation not found', 404);
+      sendError(res, 'Conversation not found', 404);
+      return;
     }
 
     const messages = await listMessages(conversationId);
-    return jsonResponse({
+    sendJson(res, {
       conversation,
       messages: visibleMessages(messages),
     });
   } catch (error) {
     console.error('Failed to load conversation', error);
-    return errorResponse('Failed to load conversation', 500);
+    sendError(res, 'Failed to load conversation', 500);
   }
 }
