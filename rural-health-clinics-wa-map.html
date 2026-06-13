@@ -49,6 +49,7 @@
     const map = new mapboxgl.Map({
       container: 'map',
       style: 'mapbox://styles/mapbox/light-v11',
+      projection: 'mercator',
       center: [-120.7401, 47.7511],
       zoom: 6.15,
       pitch: 0,
@@ -74,7 +75,7 @@
         type: 'symbol',
         source: 'clinics',
         filter: ['has', 'point_count'],
-        layout: { 'text-field': ['get', 'point_count_abbreviated'], 'text-size': 12, 'text-font': ['Mapbox Gl Sans Bold'] },
+        layout: { 'text-field': ['get', 'point_count_abbreviated'], 'text-size': 12, 'text-font': ['DIN Pro Bold', 'Arial Unicode MS Bold'] },
         paint: { 'text-color': '#ffffff' }
       });
       map.addLayer({
