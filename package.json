@@ -1,0 +1,8 @@
+{
+  "name": "rural-strategy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/prepare-deploy.mjs"
+  }
+}
