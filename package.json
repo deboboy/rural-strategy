@@ -4,5 +4,9 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/prepare-deploy.mjs"
+  },
+  "dependencies": {
+    "@vercel/functions": "^2.2.0",
+    "jose": "^6.0.11"
   }
 }

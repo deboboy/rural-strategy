@@ -137,9 +137,11 @@
   <header class="site-header map-header">
     <a class="site-brand" href="/">Washington Rural Strategy</a>
     <nav class="site-nav" aria-label="Main">
+      <span class="nav-user" data-user-label></span>
       <a href="/">Home</a>
       <a href="/rural-health-clinics-wa-map.html" aria-current="page">Map</a>
       <a href="/about.html">About</a>
+      <button type="button" class="nav-logout" data-logout>Logout</button>
     </nav>
   </header>
   <div id="map"></div>
@@ -261,5 +263,6 @@
       return String(value ?? '').replace(/[&<>"']/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[ch]));
     }
   </script>
+  <script src="/js/auth.js"></script>
 </body>
 </html>
