@@ -1,0 +1,249 @@
+.notes-panel-root {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  pointer-events: none;
+}
+
+.notes-panel-root.is-open {
+  pointer-events: auto;
+}
+
+.notes-panel-backdrop {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  background: rgba(15, 23, 42, 0.35);
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.notes-panel-root.is-open .notes-panel-backdrop {
+  opacity: 1;
+}
+
+.notes-panel {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: min(100%, 420px);
+  background: #fff;
+  box-shadow: -8px 0 32px rgba(15, 23, 42, 0.12);
+  display: flex;
+  flex-direction: column;
+  transform: translateX(100%);
+  transition: transform 0.24s ease;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.notes-panel-root.is-open .notes-panel {
+  transform: translateX(0);
+}
+
+.notes-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 14px 16px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.notes-panel-header h2 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.notes-panel-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.notes-panel-actions button {
+  border: 0;
+  background: #f1f5f9;
+  color: #334155;
+  border-radius: 8px;
+  padding: 6px 10px;
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.notes-panel-body {
+  flex: 1;
+  overflow: auto;
+  padding: 16px;
+  display: grid;
+  gap: 16px;
+  align-content: start;
+}
+
+.notes-compose {
+  display: grid;
+  gap: 8px;
+}
+
+.notes-compose textarea,
+.note-edit-form textarea,
+.comment-form textarea {
+  width: 100%;
+  min-height: 88px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 10px 12px;
+  font: inherit;
+  resize: vertical;
+}
+
+.notes-compose button,
+.note-edit-form button,
+.comment-form button,
+.note-card-actions button {
+  justify-self: start;
+  border: 0;
+  border-radius: 8px;
+  background: #2563eb;
+  color: #fff;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.note-card-actions button[data-action="delete"],
+.note-card-actions button[data-action="cancel"] {
+  background: #e2e8f0;
+  color: #334155;
+}
+
+.note-card-actions button[data-action="delete"] {
+  color: #b91c1c;
+}
+
+.notes-empty,
+.notes-status,
+.notes-error {
+  margin: 0;
+  color: #64748b;
+  font-size: 14px;
+}
+
+.notes-error {
+  color: #b91c1c;
+}
+
+.note-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 12px;
+  display: grid;
+  gap: 10px;
+}
+
+.note-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  font-size: 12px;
+  color: #64748b;
+}
+
+.note-card-meta strong {
+  color: #0f172a;
+}
+
+.note-card-body {
+  font-size: 14px;
+  color: #334155;
+  overflow-wrap: anywhere;
+}
+
+.note-card-body p {
+  margin: 0 0 8px;
+}
+
+.note-card-body p:last-child {
+  margin-bottom: 0;
+}
+
+.note-card-body ul,
+.note-card-body ol {
+  margin: 0 0 8px;
+  padding-left: 1.2rem;
+}
+
+.note-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.note-comments {
+  border-top: 1px solid #f1f5f9;
+  padding-top: 10px;
+  display: grid;
+  gap: 10px;
+}
+
+.note-comments h3 {
+  margin: 0;
+  font-size: 13px;
+  color: #475569;
+}
+
+.comment-item {
+  background: #f8fafc;
+  border-radius: 8px;
+  padding: 8px 10px;
+  display: grid;
+  gap: 4px;
+}
+
+.comment-item-meta {
+  font-size: 11px;
+  color: #64748b;
+}
+
+.comment-item-body {
+  font-size: 13px;
+  color: #334155;
+  overflow-wrap: anywhere;
+}
+
+.comment-form {
+  display: grid;
+  gap: 8px;
+}
+
+.nav-notes {
+  border: 0;
+  background: none;
+  padding: 0;
+  font: inherit;
+  color: #2563eb;
+  cursor: pointer;
+}
+
+.nav-notes[aria-expanded="true"] {
+  color: #0f172a;
+  font-weight: 600;
+}
+
+@media (max-width: 639px) {
+  .notes-panel {
+    right: 0;
+    left: 0;
+    top: auto;
+    width: 100%;
+    max-height: min(85vh, 720px);
+    border-radius: 16px 16px 0 0;
+    transform: translateY(100%);
+  }
+
+  .notes-panel-root.is-open .notes-panel {
+    transform: translateY(0);
+  }
+}

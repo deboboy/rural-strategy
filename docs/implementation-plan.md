@@ -282,14 +282,14 @@ Each authenticated page gets:
 - [x] Add `middleware.js` + `login.html`
 - [x] Implement `/api/auth/login`, `/api/auth/logout`, `/api/auth/me`
 - [x] Set Vercel env vars for Frank and Leo
-- [ ] Verify whole-site gate on production
+- [x] Verify whole-site gate on production
 
 ### Phase 2 — Database + notes (estimate: 1–2 days)
 
-- [ ] Provision Vercel Postgres; run `schema.sql`
-- [ ] CRUD API for notes and comments
-- [ ] Sitewide notes panel UI (Markdown write, HTML render)
-- [ ] Mobile-friendly panel layout
+- [x] Provision Vercel Postgres; run `schema.sql`
+- [x] CRUD API for notes and comments
+- [x] Sitewide notes panel UI (Markdown write, HTML render)
+- [x] Mobile-friendly panel layout
 
 ### Phase 3 — Agent + tools (estimate: 2–3 days)
 

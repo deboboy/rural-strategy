@@ -3,9 +3,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/prepare-deploy.mjs"
+    "build": "node scripts/prepare-deploy.mjs",
+    "db:init": "node --env-file=.env.local scripts/init-db.mjs"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
     "@vercel/functions": "^2.2.0",
     "jose": "^6.0.11"
   }

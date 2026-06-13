@@ -24,6 +24,13 @@ export default async function middleware(request) {
   }
 
   if (!session) {
+    if (pathname.startsWith('/api/')) {
+      return new Response(JSON.stringify({ error: 'Unauthorized' }), {
+        status: 401,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+
     const loginUrl = new URL('/login.html', request.url);
     loginUrl.searchParams.set('next', pathname + url.search);
     return Response.redirect(loginUrl);

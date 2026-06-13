@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>Washington Rural Health Clinics</title>
   <link rel="stylesheet" href="/styles/site.css" />
+  <link rel="stylesheet" href="/styles/panels.css" />
   <script src="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.js"></script>
   <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet" />
   <style>
@@ -141,6 +142,7 @@
       <a href="/">Home</a>
       <a href="/rural-health-clinics-wa-map.html" aria-current="page">Map</a>
       <a href="/about.html">About</a>
+      <button type="button" class="nav-notes" data-notes-toggle aria-expanded="false">Notes</button>
       <button type="button" class="nav-logout" data-logout>Logout</button>
     </nav>
   </header>
@@ -263,6 +265,9 @@
       return String(value ?? '').replace(/[&<>"']/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[ch]));
     }
   </script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@15.0.7/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.4/dist/purify.min.js"></script>
   <script src="/js/auth.js"></script>
+  <script src="/js/notes-panel.js"></script>
 </body>
 </html>
