@@ -1,0 +1,3196 @@
+{
+    "type": "FeatureCollection",
+    "name": "WA CMS Rural Health Clinic networks",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH BREWSTER CLINIC",
+          "enrollment_id": "O20230712001869",
+          "npi": "1861112351",
+          "ccn": "503920",
+          "address": "418 W. MAIN ST",
+          "address2": "",
+          "city": "BREWSTER",
+          "county": "Okanogan",
+          "region_scope": "Eastern WA",
+          "zip": "98812",
+          "phone": "5096898900",
+          "geocode_match": "Match",
+          "matched_address": "418 W MAIN, BREWSTER, WA, 98812",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.78200190188,
+            48.099246372235
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH CASHMERE CLINIC",
+          "enrollment_id": "O20230712001979",
+          "npi": "1811617608",
+          "ccn": "503933",
+          "address": "303 COTTAGE AVE",
+          "address2": "",
+          "city": "CASHMERE",
+          "county": "Chelan",
+          "region_scope": "Eastern WA",
+          "zip": "98815",
+          "phone": "5091821541",
+          "geocode_match": "Match",
+          "matched_address": "303 COTTAGE AVE, CASHMERE, WA, 98815",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.465231028464,
+            47.521539567571
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH E WENATCHEE CLINIC",
+          "enrollment_id": "O20230712002567",
+          "npi": "1760102438",
+          "ccn": "503931",
+          "address": "100 HIGHLINE DR",
+          "address2": "",
+          "city": "E WENATCHEE",
+          "county": "Douglas",
+          "region_scope": "Eastern WA",
+          "zip": "98802",
+          "phone": "5098840614",
+          "geocode_match": "Match",
+          "matched_address": "100 HIGHLINE DR, E WENATCHEE, WA, 98802",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.281887993608,
+            47.404781437557
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH EPHRATA CLINIC",
+          "enrollment_id": "O20230712001623",
+          "npi": "1942920616",
+          "ccn": "503927",
+          "address": "314 BASIN ST SW",
+          "address2": "",
+          "city": "EPHRATA",
+          "county": "Grant",
+          "region_scope": "Eastern WA",
+          "zip": "98823",
+          "phone": "5097457186",
+          "geocode_match": "Match",
+          "matched_address": "314 BASIN ST SW, EPHRATA, WA, 98823",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.553888141722,
+            47.317416970241
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH MOSES LAKE CLINIC",
+          "enrollment_id": "O20230712001457",
+          "npi": "1457071235",
+          "ccn": "503934",
+          "address": "840 E HILL AVE",
+          "address2": "",
+          "city": "MOSES LAKE",
+          "county": "Grant",
+          "region_scope": "Eastern WA",
+          "zip": "98837",
+          "phone": "5097646400",
+          "geocode_match": "Match",
+          "matched_address": "840 E HILL AVE, MOSES LAKE, WA, 98837",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.265666923962,
+            47.121390498271
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH OMAK CLINIC",
+          "enrollment_id": "O20230712002053",
+          "npi": "1760102545",
+          "ccn": "503935",
+          "address": "916 KOALA DR",
+          "address2": "",
+          "city": "OMAK",
+          "county": "Okanogan",
+          "region_scope": "Eastern WA",
+          "zip": "98841",
+          "phone": "5098261800",
+          "geocode_match": "Match",
+          "matched_address": "916 KOALA DR, OMAK, WA, 98841",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.505083710363,
+            48.421339016541
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH OROVILLE CLINIC",
+          "enrollment_id": "O20230712001321",
+          "npi": "1134849920",
+          "ccn": "503936",
+          "address": "1617 MAIN ST",
+          "address2": "",
+          "city": "OROVILLE",
+          "county": "Okanogan",
+          "region_scope": "Eastern WA",
+          "zip": "98844",
+          "phone": "5094763631",
+          "geocode_match": "Match",
+          "matched_address": "1617 MAIN ST, OROVILLE, WA, 98844",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.434293160793,
+            48.940347037899
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH ROYAL CITY CLINIC",
+          "enrollment_id": "O20230807003948",
+          "npi": "1932829488",
+          "ccn": "503854",
+          "address": "103 CAMELIA ST NW",
+          "address2": "",
+          "city": "ROYAL CITY",
+          "county": "Grant",
+          "region_scope": "Eastern WA",
+          "zip": "99357",
+          "phone": "5093461447",
+          "geocode_match": "Match",
+          "matched_address": "103 CAMELIA ST, ROYAL CITY, WA, 99357",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.634960515701,
+            46.900181488156
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH TONASKET CLINIC",
+          "enrollment_id": "O20230712001048",
+          "npi": "1386364172",
+          "ccn": "503932",
+          "address": "17 S WESTERN AVE",
+          "address2": "",
+          "city": "TONASKET",
+          "county": "Okanogan",
+          "region_scope": "Eastern WA",
+          "zip": "98855",
+          "phone": "5094862174",
+          "geocode_match": "Match",
+          "matched_address": "17 WESTERN AVE, TONASKET, WA, 98855",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.438404389825,
+            48.708019001602
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH WATERVILLE CLINIC",
+          "enrollment_id": "O20230712001730",
+          "npi": "1306566070",
+          "ccn": "503937",
+          "address": "117 S CHELAN AVE",
+          "address2": "",
+          "city": "WATERVILLE",
+          "county": "Douglas",
+          "region_scope": "Eastern WA",
+          "zip": "98858",
+          "phone": "5097458461",
+          "geocode_match": "Match",
+          "matched_address": "117 S CHELAN AVE, WATERVILLE, WA, 98858",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.071339427545,
+            47.646785017498
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "owner_derived_network_name": "CENTRAL WASHINGTON HEALTH SERVICES ASSOCIATION",
+          "clinic_name": "CONFLUENCE HEALTH WENATCHEE CLINIC",
+          "enrollment_id": "O20230712001556",
+          "npi": "1386364842",
+          "ccn": "503938",
+          "address": "820 N CHELAN AVE",
+          "address2": "",
+          "city": "WENATCHEE",
+          "county": "Chelan",
+          "region_scope": "Eastern WA",
+          "zip": "98801",
+          "phone": "5096638711",
+          "geocode_match": "Match",
+          "matched_address": "820 N CHELAN AVE, WENATCHEE, WA, 98801",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.32233735567,
+            47.433898309001
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CHELAN COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "owner_derived_network_name": "CHELAN COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "clinic_name": "EXPRESS CARE LAKE CHELAN HEALTH",
+          "enrollment_id": "O20140710001062",
+          "npi": "1124438312",
+          "ccn": "508567",
+          "address": "219 E JOHNSON AVE",
+          "address2": "",
+          "city": "CHELAN",
+          "county": "Chelan",
+          "region_scope": "Eastern WA",
+          "zip": "98816",
+          "phone": "5096822511",
+          "geocode_match": "No_Match",
+          "matched_address": "",
+          "geocode_source": "Nominatim address fallback",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.0153318,
+            47.841021
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CHELAN COUNTY PUBLIC HOSPITAL DISTRICT NO. 1",
+          "owner_derived_network_name": "CHELAN COUNTY PUBLIC HOSPITAL DISTRICT NO. 1",
+          "clinic_name": "CASCADE MEDICAL CENTER",
+          "enrollment_id": "O20080206000602",
+          "npi": "1437141215",
+          "ccn": "503992",
+          "address": "817 COMMERCIAL STREET",
+          "address2": "",
+          "city": "LEAVENWORTH",
+          "county": "Chelan",
+          "region_scope": "Eastern WA",
+          "zip": "98826",
+          "phone": "5095483420",
+          "geocode_match": "Match",
+          "matched_address": "817 COMMERCIAL ST, LEAVENWORTH, WA, 98826",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.656258130503,
+            47.596627967996
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CHEWELAH ASSOCIATED PHYSICIANS PS",
+          "owner_derived_network_name": "CHEWELAH ASSOCIATED PHYSICIANS PS",
+          "clinic_name": "CHEWELAH ASSOCIATED PHYSICIANS",
+          "enrollment_id": "O20090513000593",
+          "npi": "1104971365",
+          "ccn": "503868",
+          "address": "410 E KING ST",
+          "address2": "",
+          "city": "CHEWELAH",
+          "county": "Stevens",
+          "region_scope": "Eastern WA",
+          "zip": "99109",
+          "phone": "5099358711",
+          "geocode_match": "Match",
+          "matched_address": "410 E KING AVE, CHEWELAH, WA, 99109",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.712337651518,
+            48.275171544922
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CLALLAM COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "CLALLAM COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "BOGACHIEL CLINIC",
+          "enrollment_id": "O20090522000376",
+          "npi": "1285683052",
+          "ccn": "508520",
+          "address": "390 FOUNDERS WAY",
+          "address2": "",
+          "city": "FORKS",
+          "county": "Clallam",
+          "region_scope": "Western/other WA",
+          "zip": "98331",
+          "phone": "3603746998",
+          "geocode_match": "No_Match",
+          "matched_address": "",
+          "geocode_source": "Nominatim address fallback",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -124.3943023,
+            47.9468936
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CLALLAM COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "CLALLAM COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "CLALLAM BAY MEDICAL CLINIC",
+          "enrollment_id": "O20090323000125",
+          "npi": "1235213034",
+          "ccn": "503975",
+          "address": "74 BOGACHIEL ST",
+          "address2": "",
+          "city": "CLALLAM BAY",
+          "county": "Clallam",
+          "region_scope": "Western/other WA",
+          "zip": "98326",
+          "phone": "3609632202",
+          "geocode_match": "Match",
+          "matched_address": "74 BOGACHIEL ST, CLALLAM BAY, WA, 98326",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -124.26173931565,
+            48.252514856415
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "CLALLAM COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "CLALLAM COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "FORKS FAMILY MEDICAL CLINIC",
+          "enrollment_id": "O20190624000999",
+          "npi": "1285290338",
+          "ccn": "508591",
+          "address": "461 G ST",
+          "address2": "",
+          "city": "FORKS",
+          "county": "Clallam",
+          "region_scope": "Western/other WA",
+          "zip": "98331",
+          "phone": "3603743280",
+          "geocode_match": "Match",
+          "matched_address": "461 G ST, FORKS, WA, 98331",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -124.391069093741,
+            47.944221891283
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "COLUMBIA COUNTY HOSPITAL DISTRICT",
+          "owner_derived_network_name": "COLUMBIA COUNTY HOSPITAL DISTRICT",
+          "clinic_name": "COLUMBIA FAMILY CLINIC",
+          "enrollment_id": "O20101007000021",
+          "npi": "1518044551",
+          "ccn": "503977",
+          "address": "1012 S 3RD ST",
+          "address2": "",
+          "city": "DAYTON",
+          "county": "Columbia",
+          "region_scope": "Eastern WA",
+          "zip": "99328",
+          "phone": "5093823200",
+          "geocode_match": "Match",
+          "matched_address": "1012 S 3RD ST, DAYTON, WA, 99328",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.969128064361,
+            46.312719228046
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "COLUMBIA COUNTY HOSPITAL DISTRICT",
+          "owner_derived_network_name": "COLUMBIA COUNTY HOSPITAL DISTRICT",
+          "clinic_name": "WAITSBURG CLINIC",
+          "enrollment_id": "O20101007000177",
+          "npi": "1215018346",
+          "ccn": "503978",
+          "address": "235 MAIN STREET",
+          "address2": "",
+          "city": "WAITSBURG",
+          "county": "Walla Walla",
+          "region_scope": "Eastern WA",
+          "zip": "99361",
+          "phone": "5093376311",
+          "geocode_match": "Match",
+          "matched_address": "235 MAIN ST, WAITSBURG, WA, 99361",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.154855235711,
+            46.269763908039
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "DEREK S WEAVER DO PLLC",
+          "owner_derived_network_name": "DEREK S WEAVER DO PLLC",
+          "clinic_name": "WEAVER FAMILY MEDICINE",
+          "enrollment_id": "O20160229003053",
+          "npi": "1982081485",
+          "ccn": "503923",
+          "address": "2935 ALLEN RD",
+          "address2": "",
+          "city": "SUNNYSIDE",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98944",
+          "phone": "5098370070",
+          "geocode_match": "Match",
+          "matched_address": "2935 ALLEN RD, SUNNYSIDE, WA, 98944",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.982097973564,
+            46.309570583551
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "DOUGLAS, GRANT, LINCOLN & OKANOGAN COUNTIES PUBLIC HOSPITAL DISTRICT 6",
+          "owner_derived_network_name": "DOUGLAS, GRANT, LINCOLN & OKANOGAN COUNTIES PUBLIC HOSPITAL DISTRICT 6",
+          "clinic_name": "COULEE FAMILY MEDICINE",
+          "enrollment_id": "O20050713000325",
+          "npi": "1457420218",
+          "ccn": "503981",
+          "address": "411 FORTUYN RD",
+          "address2": "",
+          "city": "GRAND COULEE",
+          "county": "Grant",
+          "region_scope": "Eastern WA",
+          "zip": "99133",
+          "phone": "5096331911",
+          "geocode_match": "Match",
+          "matched_address": "411 FORTUYN RD, GRAND COULEE, WA, 99133",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.005646925644,
+            47.942315706024
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "DOUGLAS, GRANT, LINCOLN & OKANOGAN COUNTIES PUBLIC HOSPITAL DISTRICT 6",
+          "owner_derived_network_name": "DOUGLAS, GRANT, LINCOLN & OKANOGAN COUNTIES PUBLIC HOSPITAL DISTRICT 6",
+          "clinic_name": "COULEE MEDICAL CENTER",
+          "enrollment_id": "O20030717000035",
+          "npi": "1720169048",
+          "ccn": "508535",
+          "address": "218 W MAIN ST",
+          "address2": "",
+          "city": "COULEE CITY",
+          "county": "Grant",
+          "region_scope": "Eastern WA",
+          "zip": "99155",
+          "phone": "5096336229",
+          "geocode_match": "Match",
+          "matched_address": "218 W MAIN ST, COULEE CITY, WA, 99115",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.290516611065,
+            47.611194348839
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "FAMILY CARE NETWORK, PLLC",
+          "owner_derived_network_name": "FAMILY CARE NETWORK, PLLC",
+          "clinic_name": "FAMILY CARE NETWORK BIRCH BAY FAMILY MEDICINE",
+          "enrollment_id": "O20051208000962",
+          "npi": "1013049766",
+          "ccn": "503905",
+          "address": "8097 HARBORVIEW RD",
+          "address2": "",
+          "city": "BLAINE",
+          "county": "Whatcom",
+          "region_scope": "Western/other WA",
+          "zip": "98230",
+          "phone": "3603715855",
+          "geocode_match": "Match",
+          "matched_address": "8097 HARBORVIEW RD, BLAINE, WA, 98230",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.748354456061,
+            48.935894547853
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "FAMILY CARE NETWORK, PLLC",
+          "owner_derived_network_name": "FAMILY CARE NETWORK, PLLC",
+          "clinic_name": "FAMILY CARE NETWORK FERNDALE FAMILY MEDICAL CENTER",
+          "enrollment_id": "O20051207000836",
+          "npi": "1841322591",
+          "ccn": "503903",
+          "address": "5580 NORDIC PL",
+          "address2": "",
+          "city": "FERNDALE",
+          "county": "Whatcom",
+          "region_scope": "Western/other WA",
+          "zip": "98248",
+          "phone": "3603841511",
+          "geocode_match": "Match",
+          "matched_address": "5580 NORDIC WAY, FERNDALE, WA, 98248",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.57693894926,
+            48.843762249516
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "FAMILY CARE NETWORK, PLLC",
+          "owner_derived_network_name": "FAMILY CARE NETWORK, PLLC",
+          "clinic_name": "FAMILY CARE NETWORK ISLAND FAMILY PHYSICIANS",
+          "enrollment_id": "O20150108001892",
+          "npi": "1518014281",
+          "ccn": "503863",
+          "address": "2511 M AVE",
+          "address2": "SUITE A",
+          "city": "ANACORTES",
+          "county": "Skagit",
+          "region_scope": "Western/other WA",
+          "zip": "98221",
+          "phone": "3602939813",
+          "geocode_match": "Match",
+          "matched_address": "2511 M AVE, ANACORTES, WA, 98221",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.6173663464,
+            48.501969102788
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "FAMILY CARE NETWORK, PLLC",
+          "owner_derived_network_name": "FAMILY CARE NETWORK, PLLC",
+          "clinic_name": "FAMILY CARE NETWORK LYNDEN FAMILY MEDICINE",
+          "enrollment_id": "O20051206000858",
+          "npi": "1669504312",
+          "ccn": "503902",
+          "address": "1610 GROVER STREET",
+          "address2": "SUITE D1",
+          "city": "LYNDEN",
+          "county": "Whatcom",
+          "region_scope": "Western/other WA",
+          "zip": "98264",
+          "phone": "3603541333",
+          "geocode_match": "Match",
+          "matched_address": "1610 GROVER ST, LYNDEN, WA, 98264",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.468061493791,
+            48.940694254206
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "FERRY COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "FERRY COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "CURLEW MEDICAL CLINIC",
+          "enrollment_id": "O20081027000299",
+          "npi": "1205988219",
+          "ccn": "508533",
+          "address": "9 KETTLE RIVER CT",
+          "address2": "",
+          "city": "CURLEW",
+          "county": "Ferry",
+          "region_scope": "Eastern WA",
+          "zip": "99118",
+          "phone": "5097794049",
+          "geocode_match": "Match",
+          "matched_address": "9 KETTLE RIVER CT, CURLEW, WA, 99118",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.605782711449,
+            48.883412479378
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "FERRY COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "FERRY COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "REPUBLIC MEDICAL CLINIC",
+          "enrollment_id": "O20070920000639",
+          "npi": "1184776916",
+          "ccn": "508522",
+          "address": "10 ROS CIR",
+          "address2": "",
+          "city": "REPUBLIC",
+          "county": "Ferry",
+          "region_scope": "Eastern WA",
+          "zip": "99166",
+          "phone": "5097753153",
+          "geocode_match": "No_Match",
+          "matched_address": "",
+          "geocode_source": "Nominatim city fallback; exact 10 ROS CIR not found",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.737806,
+            48.6482183
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GARFIELD COUNTY MEMORIAL HOSPITAL DISTRICT",
+          "owner_derived_network_name": "GARFIELD COUNTY MEMORIAL HOSPITAL DISTRICT",
+          "clinic_name": "POMEROY MEDICAL CLINIC",
+          "enrollment_id": "O20060505000211",
+          "npi": "1114028693",
+          "ccn": "503982",
+          "address": "446 PATAHA ST",
+          "address2": "",
+          "city": "POMEROY",
+          "county": "Garfield",
+          "region_scope": "Eastern WA",
+          "zip": "99347",
+          "phone": "5098431491",
+          "geocode_match": "Match",
+          "matched_address": "446 PATAHA ST, POMEROY, WA, 99347",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.605518314245,
+            46.473093649968
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRANT COUNTY HOSPITAL DISTRICT NO. 2",
+          "owner_derived_network_name": "GRANT COUNTY HOSPITAL DISTRICT NO. 2",
+          "clinic_name": "QUINCY VALLEY MEDICAL CENTER",
+          "enrollment_id": "O20110513000133",
+          "npi": "1407920218",
+          "ccn": "503976",
+          "address": "908 10TH AVE SW",
+          "address2": "",
+          "city": "QUINCY",
+          "county": "Grant",
+          "region_scope": "Eastern WA",
+          "zip": "98848",
+          "phone": "5097873531",
+          "geocode_match": "Match",
+          "matched_address": "908 10TH AVE SW, QUINCY, WA, 98848",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.869098597944,
+            47.231108582059
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRANT COUNTY PUBLIC HOSPITAL DISTRICT 1",
+          "owner_derived_network_name": "GRANT COUNTY PUBLIC HOSPITAL DISTRICT 1",
+          "clinic_name": "SAMARITAN CLINIC",
+          "enrollment_id": "O20040407001158",
+          "npi": "1619086766",
+          "ccn": "508536",
+          "address": "1550 S PIONEER WAY",
+          "address2": "STE 115",
+          "city": "MOSES LAKE",
+          "county": "Grant",
+          "region_scope": "Eastern WA",
+          "zip": "98837",
+          "phone": "50979397154625",
+          "geocode_match": "Match",
+          "matched_address": "1550 S PIONEER WAY, MOSES LAKE, WA, 98837",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.259743134431,
+            47.112738239917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRANT COUNTY PUBLIC HOSPITAL DISTRICT 1",
+          "owner_derived_network_name": "GRANT COUNTY PUBLIC HOSPITAL DISTRICT 1",
+          "clinic_name": "SAMARITAN CLINIC ON PATTON",
+          "enrollment_id": "O20190926001711",
+          "npi": "1609112739",
+          "ccn": "508592",
+          "address": "8420 ASPI BLVD",
+          "address2": "",
+          "city": "MOSES LAKE",
+          "county": "Grant",
+          "region_scope": "Eastern WA",
+          "zip": "98837",
+          "phone": "50979397154625",
+          "geocode_match": "Match",
+          "matched_address": "8420 ASPI BLVD, MOSES LAKE, WA, 98837",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.312516214467,
+            47.161990555286
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRANT COUNTY PUBLIC HOSPITAL DISTRICT NO. 3",
+          "owner_derived_network_name": "GRANT COUNTY PUBLIC HOSPITAL DISTRICT NO. 3",
+          "clinic_name": "COLUMBIA BASIN FAMILY MEDICINE CLINIC",
+          "enrollment_id": "O20080904000111",
+          "npi": "1457414799",
+          "ccn": "503985",
+          "address": "220 NAT WASHINGTON WAY",
+          "address2": "",
+          "city": "EPHRATA",
+          "county": "Grant",
+          "region_scope": "Eastern WA",
+          "zip": "98823",
+          "phone": "5097543330",
+          "geocode_match": "Match",
+          "matched_address": "220 NAT WASHINGTON WAY, EPHRATA, WA, 98823",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.547108575273,
+            47.315315600206
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRAYS HARBOR COMMUNITY HOSPITAL",
+          "owner_derived_network_name": "GRAYS HARBOR COMMUNITY HOSPITAL",
+          "clinic_name": "GHCH ABERDEEN EAST CLINIC",
+          "enrollment_id": "O20180322000911",
+          "npi": "1821573965",
+          "ccn": "508576",
+          "address": "1006 N H ST",
+          "address2": "",
+          "city": "ABERDEEN",
+          "county": "Grays Harbor",
+          "region_scope": "Western/other WA",
+          "zip": "98520",
+          "phone": "3605376496",
+          "geocode_match": "Match",
+          "matched_address": "1006 N H ST, ABERDEEN, WA, 98520",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.821125506862,
+            46.980687710346
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRAYS HARBOR COMMUNITY HOSPITAL",
+          "owner_derived_network_name": "GRAYS HARBOR COMMUNITY HOSPITAL",
+          "clinic_name": "GHCH MONTESANO CLINIC",
+          "enrollment_id": "O20180322001143",
+          "npi": "1083084677",
+          "ccn": "508575",
+          "address": "319 E PIONEER AVE",
+          "address2": "",
+          "city": "MONTESANO",
+          "county": "Grays Harbor",
+          "region_scope": "Western/other WA",
+          "zip": "98563",
+          "phone": "3602493300",
+          "geocode_match": "Match",
+          "matched_address": "319 PIONEER AVE E, MONTESANO, WA, 98563",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.598124773585,
+            46.979450852569
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRAYS HARBOR COMMUNITY HOSPITAL",
+          "owner_derived_network_name": "GRAYS HARBOR COMMUNITY HOSPITAL",
+          "clinic_name": "THE HOQUIAM CLINIC",
+          "enrollment_id": "O20180321002530",
+          "npi": "1376028373",
+          "ccn": "508577",
+          "address": "815 K ST",
+          "address2": "",
+          "city": "HOQUIAM",
+          "county": "Grays Harbor",
+          "region_scope": "Western/other WA",
+          "zip": "98550",
+          "phone": "3605376430",
+          "geocode_match": "Match",
+          "matched_address": "815 K ST, HOQUIAM, WA, 98550",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.885563191071,
+            46.975743278976
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRAYS HARBOR COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "GRAYS HARBOR COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "ELMA FAMILY MEDICINE",
+          "enrollment_id": "O20101105000276",
+          "npi": "1811025216",
+          "ccn": "508556",
+          "address": "575 E MAIN ST BLDG 2",
+          "address2": "",
+          "city": "ELMA",
+          "county": "Grays Harbor",
+          "region_scope": "Western/other WA",
+          "zip": "98541",
+          "phone": "3604823711",
+          "geocode_match": "Match",
+          "matched_address": "575 E MAIN ST, ELMA, WA, 98541",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.397391717004,
+            47.004815053433
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRAYS HARBOR COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "GRAYS HARBOR COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "MCCLEARY HEALTHCARE CLINIC",
+          "enrollment_id": "O20100802000472",
+          "npi": "1255401683",
+          "ccn": "503998",
+          "address": "105 W SIMPSON AVE",
+          "address2": "",
+          "city": "MCCLEARY",
+          "county": "Grays Harbor",
+          "region_scope": "Western/other WA",
+          "zip": "98557",
+          "phone": "3603462222",
+          "geocode_match": "Match",
+          "matched_address": "105 W SIMPSON AVE, MCCLEARY, WA, 98557",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.265246687467,
+            47.055588615058
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRAYS HARBOR COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "GRAYS HARBOR COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "SUMMIT PACIFIC HEALTH CLINIC",
+          "enrollment_id": "O20210316001628",
+          "npi": "1083202907",
+          "ccn": "508596",
+          "address": "579 E MAIN ST",
+          "address2": "",
+          "city": "ELMA",
+          "county": "Grays Harbor",
+          "region_scope": "Western/other WA",
+          "zip": "98541",
+          "phone": "3603462222",
+          "geocode_match": "Match",
+          "matched_address": "579 E MAIN ST, ELMA, WA, 98541",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.397329447872,
+            47.004821015365
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "GRAYS HARBOR COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "GRAYS HARBOR COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "SUMMIT PACIFIC HEALTHCARE CLINIC",
+          "enrollment_id": "O20130215000030",
+          "npi": "1942554183",
+          "ccn": "508560",
+          "address": "600 E MAIN ST",
+          "address2": "",
+          "city": "ELMA",
+          "county": "Grays Harbor",
+          "region_scope": "Western/other WA",
+          "zip": "98541",
+          "phone": "3603462222",
+          "geocode_match": "Match",
+          "matched_address": "600 E MAIN ST, ELMA, WA, 98541",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.391370877966,
+            47.006395785475
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "owner_derived_network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "clinic_name": "JEFFERSON HEALTHCARE EXPRESS CLINIC",
+          "enrollment_id": "O20180119000676",
+          "npi": "1013421114",
+          "ccn": "508574",
+          "address": "1274 7TH ST",
+          "address2": "STE A",
+          "city": "PORT TOWNSEND",
+          "county": "Jefferson",
+          "region_scope": "Western/other WA",
+          "zip": "98368",
+          "phone": "3603852204",
+          "geocode_match": "Match",
+          "matched_address": "1274 7TH ST, PORT TOWNSEND, WA, 98368",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.791100328769,
+            48.10498870451
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "owner_derived_network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "clinic_name": "JEFFERSON HEALTHCARE PORT LUDLOW CLINIC",
+          "enrollment_id": "O20170818002250",
+          "npi": "1801188073",
+          "ccn": "508572",
+          "address": "89 BREAKER LN",
+          "address2": "",
+          "city": "PORT LUDLOW",
+          "county": "Jefferson",
+          "region_scope": "Western/other WA",
+          "zip": "98365",
+          "phone": "3604375067",
+          "geocode_match": "Match",
+          "matched_address": "89 BREAKER LN, PORT LUDLOW, WA, 98365",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.703737793295,
+            47.920201166901
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "owner_derived_network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "clinic_name": "JEFFERSON HEALTHCARE SHERIDAN CLINIC",
+          "enrollment_id": "O20080514000767",
+          "npi": "1902850753",
+          "ccn": "508526",
+          "address": "915 SHERIDAN ST",
+          "address2": "",
+          "city": "PORT TOWNSEND",
+          "county": "Jefferson",
+          "region_scope": "Western/other WA",
+          "zip": "98368",
+          "phone": "3603798031",
+          "geocode_match": "Match",
+          "matched_address": "915 SHERIDAN ST, PORT TOWNSEND, WA, 98368",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.790411565692,
+            48.10657637247
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "owner_derived_network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "clinic_name": "JEFFERSON HEALTHCARE TOWNSEND CLINIC",
+          "enrollment_id": "O20080514000621",
+          "npi": "1952353369",
+          "ccn": "508524",
+          "address": "934 SHERIDAN ST",
+          "address2": "",
+          "city": "PORT TOWNSEND",
+          "county": "Jefferson",
+          "region_scope": "Western/other WA",
+          "zip": "98368",
+          "phone": "3603855388",
+          "geocode_match": "Match",
+          "matched_address": "934 SHERIDAN ST, PORT TOWNSEND, WA, 98368",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.790241476467,
+            48.106686295057
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "owner_derived_network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "clinic_name": "JEFFERSON HEALTHCARE WATERSHIP CLINIC",
+          "enrollment_id": "O20100825000119",
+          "npi": "1760433049",
+          "ccn": "508525",
+          "address": "1010 SHERIDAN ST",
+          "address2": "STE 101",
+          "city": "PORT TOWNSEND",
+          "county": "Jefferson",
+          "region_scope": "Western/other WA",
+          "zip": "98368",
+          "phone": "3603853500",
+          "geocode_match": "Match",
+          "matched_address": "1010 SHERIDAN ST, PORT TOWNSEND, WA, 98368",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.790254153399,
+            48.107683668104
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "owner_derived_network_name": "JEFFERSON COUNTY PUBLIC HOSPITAL DISTRICT NO 2",
+          "clinic_name": "SOUTH COUNTY MEDICAL CLINIC",
+          "enrollment_id": "O20100927000358",
+          "npi": "1780897074",
+          "ccn": "503997",
+          "address": "294843 US HIGHWAY 101",
+          "address2": "",
+          "city": "QUILCENE",
+          "county": "Jefferson",
+          "region_scope": "Western/other WA",
+          "zip": "98376",
+          "phone": "3607653111",
+          "geocode_match": "Match",
+          "matched_address": "294843 US HWY 101, QUILCENE, WA, 98376",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.877545018622,
+            47.821370154858
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "KITTITAS COUNTY PUBLIC HOSPITAL DIST 1",
+          "owner_derived_network_name": "KITTITAS COUNTY PUBLIC HOSPITAL DIST 1",
+          "clinic_name": "KITTITAS VALLEY HEALTHCARE FAMILY MEDICINE CLE ELUM",
+          "enrollment_id": "O20050831000802",
+          "npi": "1194747774",
+          "ccn": "508541",
+          "address": "201 ALPHA WAY",
+          "address2": "",
+          "city": "CLE ELUM",
+          "county": "Kittitas",
+          "region_scope": "Eastern WA",
+          "zip": "98922",
+          "phone": "5096745331",
+          "geocode_match": "No_Match",
+          "matched_address": "",
+          "geocode_source": "Nominatim address fallback",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.9501358,
+            47.195255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "KITTITAS COUNTY PUBLIC HOSPITAL DIST 1",
+          "owner_derived_network_name": "KITTITAS COUNTY PUBLIC HOSPITAL DIST 1",
+          "clinic_name": "KITTITAS VALLEY HEALTHCARE INTERNAL MEDICINE",
+          "enrollment_id": "O20070912000895",
+          "npi": "1932115391",
+          "ccn": "508545",
+          "address": "700 E MANITOBA AVE",
+          "address2": "",
+          "city": "ELLENSBURG",
+          "county": "Kittitas",
+          "region_scope": "Eastern WA",
+          "zip": "98926",
+          "phone": "5099627398",
+          "geocode_match": "Match",
+          "matched_address": "700 E MANITOBA AVE, ELLENSBURG, WA, 98926",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.538629552745,
+            46.988378929075
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "KITTITAS COUNTY PUBLIC HOSPITAL DIST 1",
+          "owner_derived_network_name": "KITTITAS COUNTY PUBLIC HOSPITAL DIST 1",
+          "clinic_name": "MEDICAL ARTS CENTER CLINIC",
+          "enrollment_id": "O20100819000779",
+          "npi": "1770711764",
+          "ccn": "508553",
+          "address": "100 E JACKSON AVE",
+          "address2": "",
+          "city": "ELLENSBURG",
+          "county": "Kittitas",
+          "region_scope": "Eastern WA",
+          "zip": "98926",
+          "phone": "5099338777",
+          "geocode_match": "Match",
+          "matched_address": "100 E JACKSON AVE, ELLENSBURG, WA, 98926",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.546740665083,
+            46.986027406596
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "KLICKITAT COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "KLICKITAT COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "KVH FAMILY MEDICINE",
+          "enrollment_id": "O20040224000581",
+          "npi": "1407952369",
+          "ccn": "508519",
+          "address": "317 SANDERS WAY",
+          "address2": "",
+          "city": "GOLDENDALE",
+          "county": "Klickitat",
+          "region_scope": "Eastern WA",
+          "zip": "98620",
+          "phone": "5097734017",
+          "geocode_match": "Match",
+          "matched_address": "317 SANDERS WAY, GOLDENDALE, WA, 98620",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.809758482129,
+            45.820523227949
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "L G STECK MEMORIAL CLINIC P S",
+          "owner_derived_network_name": "L G STECK MEMORIAL CLINIC P S",
+          "clinic_name": "STECK MEDICAL GROUP",
+          "enrollment_id": "O20051209000401",
+          "npi": "1710929252",
+          "ccn": "503901",
+          "address": "1299 BISHOP ROAD",
+          "address2": "",
+          "city": "CHEHALIS",
+          "county": "Lewis",
+          "region_scope": "Western/other WA",
+          "zip": "98532",
+          "phone": "3607480211",
+          "geocode_match": "Match",
+          "matched_address": "1299 BISHOP RD, CHEHALIS, WA, 98532",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.941670284027,
+            46.639886549855
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "LEWIS COUNTY HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "LEWIS COUNTY HOSPITAL DISTRICT NO 1",
+          "clinic_name": "ARBOR HEALTH MORTON CLINIC",
+          "enrollment_id": "O20200428002444",
+          "npi": "1952415432",
+          "ccn": "508590",
+          "address": "521 ADAMS AVE",
+          "address2": "STE B",
+          "city": "MORTON",
+          "county": "Lewis",
+          "region_scope": "Western/other WA",
+          "zip": "98356",
+          "phone": "3604965145",
+          "geocode_match": "Match",
+          "matched_address": "521 ADAMS AVE, MORTON, WA, 98356",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.279853589253,
+            46.555881200564
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "LEWIS COUNTY HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "LEWIS COUNTY HOSPITAL DISTRICT NO 1",
+          "clinic_name": "ARBOR HEALTH MOSSYROCK CLINIC",
+          "enrollment_id": "O20120126000601",
+          "npi": "1205110830",
+          "ccn": "508557",
+          "address": "745 WILLIAMS ST",
+          "address2": "",
+          "city": "MOSSYROCK",
+          "county": "Lewis",
+          "region_scope": "Western/other WA",
+          "zip": "98564",
+          "phone": "3609838990",
+          "geocode_match": "Match",
+          "matched_address": "745 WILLIAMS ST, MOSSYROCK, WA, 98564",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.48536625987,
+            46.533623999549
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "LEWIS COUNTY HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "LEWIS COUNTY HOSPITAL DISTRICT NO 1",
+          "clinic_name": "ARBOR HEALTH PACKWOOD CLINIC",
+          "enrollment_id": "O20230302000668",
+          "npi": "1497466494",
+          "ccn": "508597",
+          "address": "13051 US HIGHWAY 12",
+          "address2": "STE 2",
+          "city": "PACKWOOD",
+          "county": "Lewis",
+          "region_scope": "Western/other WA",
+          "zip": "98361",
+          "phone": "3604965112",
+          "geocode_match": "Match",
+          "matched_address": "13051 US HWY 12, PACKWOOD, WA, 98361",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -121.670059008661,
+            46.608298628432
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "LEWIS COUNTY HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "LEWIS COUNTY HOSPITAL DISTRICT NO 1",
+          "clinic_name": "ARBOR HEALTH RANDLE CLINIC",
+          "enrollment_id": "O20030911000009",
+          "npi": "1689604563",
+          "ccn": "508511",
+          "address": "108 KINDLE ROAD",
+          "address2": "",
+          "city": "RANDLE",
+          "county": "Lewis",
+          "region_scope": "Western/other WA",
+          "zip": "98377",
+          "phone": "3604973333",
+          "geocode_match": "Match",
+          "matched_address": "108 KINDLE RD, RANDLE, WA, 98377",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -121.926573418686,
+            46.534563024969
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "LINCOLN COUNTY HOSPITAL DISTRICT 3",
+          "owner_derived_network_name": "LINCOLN COUNTY HOSPITAL DISTRICT 3",
+          "clinic_name": "NORTH BASIN MEDICAL CLINICS",
+          "enrollment_id": "O20080512000261",
+          "npi": "1558309518",
+          "ccn": "508529",
+          "address": "10 NICHOLLS ST",
+          "address2": "",
+          "city": "DAVENPORT",
+          "county": "Lincoln",
+          "region_scope": "Eastern WA",
+          "zip": "99122",
+          "phone": "5097257501",
+          "geocode_match": "Match",
+          "matched_address": "10 NICHOLS ST, DAVENPORT, WA, 99122",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.146456771305,
+            47.657939863876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "LINCOLN COUNTY HOSPITAL DISTRICT 3",
+          "owner_derived_network_name": "LINCOLN COUNTY HOSPITAL DISTRICT 3",
+          "clinic_name": "NORTH BASIN MEDICAL CLINICS",
+          "enrollment_id": "O20080512000523",
+          "npi": "1639113830",
+          "ccn": "508528",
+          "address": "550 E BROADWAY AVE",
+          "address2": "",
+          "city": "REARDAN",
+          "county": "Lincoln",
+          "region_scope": "Eastern WA",
+          "zip": "99029",
+          "phone": "5097962737",
+          "geocode_match": "Match",
+          "matched_address": "550 E BROADWAY AVE, REARDAN, WA, 99029",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.8708771104,
+            47.66960419351
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "LINCOLN COUNTY HOSPITAL DISTRICT 3",
+          "owner_derived_network_name": "LINCOLN COUNTY HOSPITAL DISTRICT 3",
+          "clinic_name": "NORTH BASIN MEDICAL CLINICS",
+          "enrollment_id": "O20081021000398",
+          "npi": "1972547610",
+          "ccn": "508530",
+          "address": "214 SW MAIN ST",
+          "address2": "",
+          "city": "WILBUR",
+          "county": "Lincoln",
+          "region_scope": "Eastern WA",
+          "zip": "99185",
+          "phone": "5096475321",
+          "geocode_match": "Tie",
+          "matched_address": "",
+          "geocode_source": "Nominatim street fallback",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.7022702,
+            47.7578886
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "LINCOLN COUNTY PUBLIC HOSPITAL DISTRICT 1",
+          "owner_derived_network_name": "LINCOLN COUNTY PUBLIC HOSPITAL DISTRICT 1",
+          "clinic_name": "ODESSA CLINIC",
+          "enrollment_id": "O20041221000415",
+          "npi": "1023122520",
+          "ccn": "508501",
+          "address": "510 E AMENDE DR",
+          "address2": "",
+          "city": "ODESSA",
+          "county": "Lincoln",
+          "region_scope": "Eastern WA",
+          "zip": "99159",
+          "phone": "5099822614",
+          "geocode_match": "Match",
+          "matched_address": "510 AMENDE DR E, ODESSA, WA, 99159",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.68047360334,
+            47.331480086783
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "MID-VALLEY COMMUNITY CLINIC PLLC",
+          "owner_derived_network_name": "MID-VALLEY COMMUNITY CLINIC PLLC",
+          "clinic_name": "MID-VALLEY COMMUNITY CLINIC PLLC",
+          "enrollment_id": "O20051011001118",
+          "npi": "1447203104",
+          "ccn": "503907",
+          "address": "700 S 11TH ST",
+          "address2": "",
+          "city": "SUNNYSIDE",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98944",
+          "phone": "5098396822",
+          "geocode_match": "Match",
+          "matched_address": "700 S 11TH ST, SUNNYSIDE, WA, 98944",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.005948158331,
+            46.321496684036
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "N W PEDIATRIC CENTER INC PS",
+          "owner_derived_network_name": "N W PEDIATRIC CENTER INC PS",
+          "clinic_name": "NORTHWEST PEDIATRIC CENTER",
+          "enrollment_id": "O20200903001577",
+          "npi": "1912515917",
+          "ccn": "503928",
+          "address": "1915 COOKS HILL RD",
+          "address2": "",
+          "city": "CENTRALIA",
+          "county": "Lewis",
+          "region_scope": "Western/other WA",
+          "zip": "98531",
+          "phone": "3607366778",
+          "geocode_match": "Match",
+          "matched_address": "1915 COOKS HILL RD, CENTRALIA, WA, 98531",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.985858455073,
+            46.713799130828
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "OKANOGAN COUNTY PUBLIC HOSPITAL DIST NO 4",
+          "owner_derived_network_name": "OKANOGAN COUNTY PUBLIC HOSPITAL DIST NO 4",
+          "clinic_name": "TONASKET FAMILY RHC",
+          "enrollment_id": "O20200810003296",
+          "npi": "1811555931",
+          "ccn": "508594",
+          "address": "118 S WHITCOMB AVE",
+          "address2": "",
+          "city": "TONASKET",
+          "county": "Okanogan",
+          "region_scope": "Eastern WA",
+          "zip": "98855",
+          "phone": "5094863191",
+          "geocode_match": "Match",
+          "matched_address": "118 S WHITCOMB AVE, TONASKET, WA, 98855",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.437770539609,
+            48.706952177135
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "OKANOGAN COUNTY PUBLIC HOSPITAL DISTRICT NO. 3",
+          "owner_derived_network_name": "OKANOGAN COUNTY PUBLIC HOSPITAL DISTRICT NO. 3",
+          "clinic_name": "MID VALLEY MEDICAL GROUP",
+          "enrollment_id": "O20031219000855",
+          "npi": "1558398230",
+          "ccn": "508534",
+          "address": "529 JASMINE ST",
+          "address2": "",
+          "city": "OMAK",
+          "county": "Okanogan",
+          "region_scope": "Eastern WA",
+          "zip": "98841",
+          "phone": "5098261600",
+          "geocode_match": "Match",
+          "matched_address": "529 JASMINE ST, OMAK, WA, 98841",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.540498094314,
+            48.403447204383
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "OKANOGAN DOUGLAS COUNTY HOSPITAL DIST 1",
+          "owner_derived_network_name": "OKANOGAN DOUGLAS COUNTY HOSPITAL DIST 1",
+          "clinic_name": "THREE RIVERS FAMILY MEDICINE",
+          "enrollment_id": "O20190925001756",
+          "npi": "1891347696",
+          "ccn": "508589",
+          "address": "415 HOSPITAL WAY",
+          "address2": "",
+          "city": "BREWSTER",
+          "county": "Okanogan",
+          "region_scope": "Eastern WA",
+          "zip": "98812",
+          "phone": "5096893749",
+          "geocode_match": "Match",
+          "matched_address": "415 HOSPITAL WAY, BREWSTER, WA, 98812",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.781326113346,
+            48.107546832947
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PACIFIC COUNTY HOSPITAL DISTRICT 2",
+          "owner_derived_network_name": "PACIFIC COUNTY HOSPITAL DISTRICT 2",
+          "clinic_name": "WILLAPA MEDICAL CLINIC",
+          "enrollment_id": "O20130816000302",
+          "npi": "1760582522",
+          "ccn": "508562",
+          "address": "826 ALDER ST",
+          "address2": "",
+          "city": "SOUTH BEND",
+          "county": "Pacific",
+          "region_scope": "Western/other WA",
+          "zip": "98586",
+          "phone": "3608755579",
+          "geocode_match": "Match",
+          "matched_address": "826 ALDER ST, SOUTH BEND, WA, 98586",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.812662756572,
+            46.66215140875
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PEND OREILLE COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "owner_derived_network_name": "PEND OREILLE COUNTY PUBLIC HOSPITAL DISTRICT NO 1",
+          "clinic_name": "NEWPORT HEALTH CENTER",
+          "enrollment_id": "O20050706000270",
+          "npi": "1912026360",
+          "ccn": "508500",
+          "address": "714 W PINE ST",
+          "address2": "BLDG C",
+          "city": "NEWPORT",
+          "county": "Pend Oreille",
+          "region_scope": "Eastern WA",
+          "zip": "99156",
+          "phone": "5094474885",
+          "geocode_match": "Match",
+          "matched_address": "714 PINE ST, NEWPORT, WA, 99156",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.048536702118,
+            48.182127071136
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PRIVIA MEDICAL GROUP WASHINGTON PLLC",
+          "owner_derived_network_name": "PRIVIA MEDICAL GROUP WASHINGTON PLLC",
+          "clinic_name": "WALLA WALLA CLINIC",
+          "enrollment_id": "O20110111000930",
+          "npi": "1346441979",
+          "ccn": "503846",
+          "address": "55W TIETAN ST",
+          "address2": "",
+          "city": "WALLA WALLA",
+          "county": "Walla Walla",
+          "region_scope": "Eastern WA",
+          "zip": "99362",
+          "phone": "5095253720",
+          "geocode_match": "Match",
+          "matched_address": "55 W TIETAN ST, WALLA WALLA, WA, 99362",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.331714494061,
+            46.049398317996
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PROSSER PUBLIC HOSPITAL DISTRICT OF BENTON COUNTY",
+          "owner_derived_network_name": "PROSSER PUBLIC HOSPITAL DISTRICT OF BENTON COUNTY",
+          "clinic_name": "BENTON CITY CLINIC",
+          "enrollment_id": "O20100622000300",
+          "npi": "1437199072",
+          "ccn": "508554",
+          "address": "701 DALE AVE",
+          "address2": "",
+          "city": "BENTON CITY",
+          "county": "Benton",
+          "region_scope": "Eastern WA",
+          "zip": "99320",
+          "phone": "5095884075",
+          "geocode_match": "No_Match",
+          "matched_address": "",
+          "geocode_source": "Nominatim street fallback",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.4860041,
+            46.2632793
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PROSSER PUBLIC HOSPITAL DISTRICT OF BENTON COUNTY",
+          "owner_derived_network_name": "PROSSER PUBLIC HOSPITAL DISTRICT OF BENTON COUNTY",
+          "clinic_name": "PROSSER MEMORIAL HEALTH GRANDVIEW CLINIC",
+          "enrollment_id": "O20190222000964",
+          "npi": "1376026237",
+          "ccn": "508588",
+          "address": "1003 WALLACE WAY",
+          "address2": "",
+          "city": "GRANDVIEW",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98930",
+          "phone": "5092031080",
+          "geocode_match": "Match",
+          "matched_address": "1003 WALLACE WAY, GRANDVIEW, WA, 98930",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.921797994376,
+            46.266805403129
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PROSSER PUBLIC HOSPITAL DISTRICT OF BENTON COUNTY",
+          "owner_derived_network_name": "PROSSER PUBLIC HOSPITAL DISTRICT OF BENTON COUNTY",
+          "clinic_name": "PROSSER PMH FAMILY MEDICINE",
+          "enrollment_id": "O20170926001052",
+          "npi": "1477088391",
+          "ccn": "508582",
+          "address": "336 CHARDONNAY AVE",
+          "address2": "STE A",
+          "city": "PROSSER",
+          "county": "Benton",
+          "region_scope": "Eastern WA",
+          "zip": "99350",
+          "phone": "5097861576",
+          "geocode_match": "Match",
+          "matched_address": "336 CHARDONNAY AVE, PROSSER, WA, 99350",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.786942604534,
+            46.218829990028
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PROVIDENCE HEALTH & SERVICES - WASHINGTON",
+          "owner_derived_network_name": "PROVIDENCE HEALTH & SERVICES - WASHINGTON",
+          "clinic_name": "PMG SW WA ROCHESTER FAM MED",
+          "enrollment_id": "O20050602000450",
+          "npi": "1205931508",
+          "ccn": "503839",
+          "address": "18313 PAULSON ST. SW",
+          "address2": "SUITE A",
+          "city": "ROCHESTER",
+          "county": "Thurston",
+          "region_scope": "Western/other WA",
+          "zip": "98579",
+          "phone": "3608278400",
+          "geocode_match": "Match",
+          "matched_address": "18313 PAULSON ST SW, ROCHESTER, WA, 98579",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.085867394917,
+            46.821593842587
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PROVIDENCE HEALTH & SERVICES WASHINGTON",
+          "owner_derived_network_name": "PROVIDENCE HEALTH & SERVICES - WASHINGTON",
+          "clinic_name": "PROVIDENCE FAMILY MEDICINE CHEWELAH",
+          "enrollment_id": "O20221103000988",
+          "npi": "1639892672",
+          "ccn": "503930",
+          "address": "100 W SOUTH AVE",
+          "address2": "",
+          "city": "CHEWELAH",
+          "county": "Stevens",
+          "region_scope": "Eastern WA",
+          "zip": "99109",
+          "phone": "5099358111",
+          "geocode_match": "Match",
+          "matched_address": "100 W SOUTH AVE, CHEWELAH, WA, 99109",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.717078168685,
+            48.270102137163
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PROVIDENCE HEALTH & SERVICES WASHINGTON",
+          "owner_derived_network_name": "PROVIDENCE HEALTH & SERVICES - WASHINGTON",
+          "clinic_name": "PROVIDENCE MEDICAL GROUP SOUTHWEST WASHINGTON",
+          "enrollment_id": "O20220830002329",
+          "npi": "1225763949",
+          "ccn": "503929",
+          "address": "1010 S SCHEUBER RD",
+          "address2": "",
+          "city": "CENTRALIA",
+          "county": "Lewis",
+          "region_scope": "Western/other WA",
+          "zip": "98531",
+          "phone": "3608277966",
+          "geocode_match": "Match",
+          "matched_address": "1010 SCHEUBER RD N, CENTRALIA, WA, 98531",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.99330820815,
+            46.727447095715
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PROVIDENCE HEALTH & SERVICES WASHINGTON",
+          "owner_derived_network_name": "PROVIDENCE HEALTH & SERVICES - WASHINGTON",
+          "clinic_name": "PROVIDENCE NORTHEAST WASHINGTON MEDICAL GROUP",
+          "enrollment_id": "O20130510000593",
+          "npi": "1255685822",
+          "ccn": "503865",
+          "address": "1200 EAST COLUMBIA AVE",
+          "address2": "",
+          "city": "COLVILLE",
+          "county": "Stevens",
+          "region_scope": "Eastern WA",
+          "zip": "99114",
+          "phone": "5096843701",
+          "geocode_match": "Match",
+          "matched_address": "1200 E COLUMBIA AVE, COLVILLE, WA, 99114",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.891042007744,
+            48.541215513262
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PROVIDENCE HEALTH & SERVICES WASHINGTON",
+          "owner_derived_network_name": "PROVIDENCE HEALTH & SERVICES - WASHINGTON",
+          "clinic_name": "PROVIDENCE NORTHEAST WASHINGTON MEDICAL GROUP",
+          "enrollment_id": "O20130510000564",
+          "npi": "1538413109",
+          "ccn": "503860",
+          "address": "840 SOUTH MEYERS STREET",
+          "address2": "",
+          "city": "KETTLE FALLS",
+          "county": "Stevens",
+          "region_scope": "Eastern WA",
+          "zip": "99141",
+          "phone": "5096857848",
+          "geocode_match": "Match",
+          "matched_address": "840 S MEYERS ST, KETTLE FALLS, WA, 99141",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.0558732308,
+            48.605132776955
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DIST NO 1 SKAGIT",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DIST NO 1 SKAGIT",
+          "clinic_name": "CAMANO COMMUNITY HEALTH CLINIC",
+          "enrollment_id": "O20031218001052",
+          "npi": "1508932427",
+          "ccn": "508502",
+          "address": "127 NE CAMANO DR",
+          "address2": "STE A",
+          "city": "CAMANO ISLAND",
+          "county": "Island",
+          "region_scope": "Western/other WA",
+          "zip": "98282",
+          "phone": "3603875398",
+          "geocode_match": "Match",
+          "matched_address": "127 NE CAMANO DR, CAMANO ISLAND, WA, 98282",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.478111142477,
+            48.213580730755
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DIST NO 1 SKAGIT",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DIST NO 1 SKAGIT",
+          "clinic_name": "SKAGIT REGIONAL HEALTH - DARRINGTON FAMILY MEDICINE",
+          "enrollment_id": "O20160603001680",
+          "npi": "1013064575",
+          "ccn": "508509",
+          "address": "1190 RIDDLE ST",
+          "address2": "",
+          "city": "DARRINGTON",
+          "county": "Snohomish",
+          "region_scope": "Western/other WA",
+          "zip": "98241",
+          "phone": "3604361055",
+          "geocode_match": "Match",
+          "matched_address": "1190 RIDDLE ST, DARRINGTON, WA, 98241",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -121.608293796519,
+            48.253006741066
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT 3 OF PACIFIC COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT 3 OF PACIFIC COUNTY",
+          "clinic_name": "NASELLE CLINIC",
+          "enrollment_id": "O20041119000815",
+          "npi": "1881858140",
+          "ccn": "503984",
+          "address": "309 KNAPPTON RD",
+          "address2": "",
+          "city": "NASELLE",
+          "county": "Pacific",
+          "region_scope": "Western/other WA",
+          "zip": "98638",
+          "phone": "3604847161",
+          "geocode_match": "Match",
+          "matched_address": "309 KNAPPTON RD, NASELLE, WA, 98638",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.811065284435,
+            46.365532087553
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT 3 OF PACIFIC COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT 3 OF PACIFIC COUNTY",
+          "clinic_name": "OCEAN BEACH MEDICAL CLINIC",
+          "enrollment_id": "O20041119000763",
+          "npi": "1639165905",
+          "ccn": "503988",
+          "address": "176 1ST AVE N",
+          "address2": "",
+          "city": "ILWACO",
+          "county": "Pacific",
+          "region_scope": "Western/other WA",
+          "zip": "98624",
+          "phone": "3606423747",
+          "geocode_match": "Match",
+          "matched_address": "176 1ST AVE N, ILWACO, WA, 98624",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -124.043273303645,
+            46.311764596682
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT 3 OF PACIFIC COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT 3 OF PACIFIC COUNTY",
+          "clinic_name": "OCEAN BEACH MEDICAL GROUP - OCEAN PARK",
+          "enrollment_id": "O20171115003436",
+          "npi": "1417482191",
+          "ccn": "508578",
+          "address": "1501 BAY AVE",
+          "address2": "STE 201",
+          "city": "OCEAN PARK",
+          "county": "Pacific",
+          "region_scope": "Western/other WA",
+          "zip": "98640",
+          "phone": "3606426387",
+          "geocode_match": "Match",
+          "matched_address": "1501 BAY AVE, OCEAN PARK, WA, 98640",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -124.044155378144,
+            46.491608657519
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "clinic_name": "MASON GENERAL HOSPITAL FAMILY HEALTH",
+          "enrollment_id": "O20160706001095",
+          "npi": "1164876629",
+          "ccn": "508571",
+          "address": "1812 N 13TH LOOP RD",
+          "address2": "",
+          "city": "SHELTON",
+          "county": "Mason",
+          "region_scope": "Western/other WA",
+          "zip": "98584",
+          "phone": "3604263862",
+          "geocode_match": "Match",
+          "matched_address": "1812 N 13TH LOOP RD, SHELTON, WA, 98584",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.112214704269,
+            47.225762940291
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "clinic_name": "MASON GENERAL HOSPITAL OLYMPIC PHYSICIANS",
+          "enrollment_id": "O20131219001469",
+          "npi": "1306274667",
+          "ccn": "508565",
+          "address": "221 PROFESSIONAL WAY",
+          "address2": "",
+          "city": "SHELTON",
+          "county": "Mason",
+          "region_scope": "Western/other WA",
+          "zip": "98584",
+          "phone": "3604262500",
+          "geocode_match": "Match",
+          "matched_address": "221 PROFESSIONAL WAY, SHELTON, WA, 98584",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.112474303813,
+            47.224624855956
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "clinic_name": "MASON GENERAL HOSPITAL OLYMPIC PHYSICIANS",
+          "enrollment_id": "O20131219001411",
+          "npi": "1205264561",
+          "ccn": "508564",
+          "address": "237 PROFESSIONAL WAY",
+          "address2": "",
+          "city": "SHELTON",
+          "county": "Mason",
+          "region_scope": "Western/other WA",
+          "zip": "98584",
+          "phone": "3604262500",
+          "geocode_match": "Match",
+          "matched_address": "237 PROFESSIONAL WAY, SHELTON, WA, 98584",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.112112451641,
+            47.224613476916
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "clinic_name": "MASON HEALTH HOODSPORT PRIMARY CARE",
+          "enrollment_id": "O20131220001296",
+          "npi": "1467881326",
+          "ccn": "508566",
+          "address": "24261 N US HIGHWAY 101",
+          "address2": "",
+          "city": "HOODSPORT",
+          "county": "Mason",
+          "region_scope": "Western/other WA",
+          "zip": "98548",
+          "phone": "3604327781",
+          "geocode_match": "Match",
+          "matched_address": "24261 N US HWY 101, HOODSPORT, WA, 98548",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.140774353049,
+            47.406306575541
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "clinic_name": "MASON HEALTH-EVERGREEN CLINIC",
+          "enrollment_id": "O20130325000440",
+          "npi": "1679803126",
+          "ccn": "508551",
+          "address": "1812 N 13TH LOOP RD",
+          "address2": "",
+          "city": "SHELTON",
+          "county": "Mason",
+          "region_scope": "Western/other WA",
+          "zip": "98584",
+          "phone": "3604262653",
+          "geocode_match": "Match",
+          "matched_address": "1812 N 13TH LOOP RD, SHELTON, WA, 98584",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.112214704269,
+            47.225762940291
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "clinic_name": "MASON HEALTH-MASON CLINIC",
+          "enrollment_id": "O20090827000532",
+          "npi": "1598906455",
+          "ccn": "508549",
+          "address": "1701 N 13TH ST",
+          "address2": "",
+          "city": "SHELTON",
+          "county": "Mason",
+          "region_scope": "Western/other WA",
+          "zip": "98584",
+          "phone": "3604262653",
+          "geocode_match": "Match",
+          "matched_address": "1701 N 13TH ST, SHELTON, WA, 98584",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.113092091699,
+            47.224649085134
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 1 OF MASON COUNTY",
+          "clinic_name": "MASON HEALTH-OAKLAND BAY PRIMARY CARE",
+          "enrollment_id": "O20130325000347",
+          "npi": "1619180213",
+          "ccn": "508527",
+          "address": "247 PROFESSIONAL WAY",
+          "address2": "",
+          "city": "SHELTON",
+          "county": "Mason",
+          "region_scope": "Western/other WA",
+          "zip": "98584",
+          "phone": "3604263102",
+          "geocode_match": "Match",
+          "matched_address": "247 PROFESSIONAL WAY, SHELTON, WA, 98584",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.111886294034,
+            47.224606365016
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 2 SKAGIT COUNTY WASHINGTON",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 2 SKAGIT COUNTY WASHINGTON",
+          "clinic_name": "ANACORTES FAMILY MEDICINE",
+          "enrollment_id": "O20040513000726",
+          "npi": "1649288176",
+          "ccn": "508505",
+          "address": "2511 M AVE STE B",
+          "address2": "",
+          "city": "ANACORTES",
+          "county": "Skagit",
+          "region_scope": "Western/other WA",
+          "zip": "98221",
+          "phone": "3602994211",
+          "geocode_match": "Match",
+          "matched_address": "2511 M AVE, ANACORTES, WA, 98221",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.6173663464,
+            48.501969102788
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 2 SKAGIT COUNTY WASHINGTON",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 2 SKAGIT COUNTY WASHINGTON",
+          "clinic_name": "FIDALGO MEDICAL ASSOCIATES",
+          "enrollment_id": "O20081211000836",
+          "npi": "1245481720",
+          "ccn": "508548",
+          "address": "1213 24TH ST STE 100",
+          "address2": "",
+          "city": "ANACORTES",
+          "county": "Skagit",
+          "region_scope": "Western/other WA",
+          "zip": "98221",
+          "phone": "3602933101",
+          "geocode_match": "Match",
+          "matched_address": "1213 24TH ST, ANACORTES, WA, 98221",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.615920570749,
+            48.502846610535
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 2 SKAGIT COUNTY WASHINGTON",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 2 SKAGIT COUNTY WASHINGTON",
+          "clinic_name": "ISLAND PRIMARY CARE - ORCAS",
+          "enrollment_id": "O20211014001162",
+          "npi": "1245827781",
+          "ccn": "508595",
+          "address": "7 DEYE LN",
+          "address2": "",
+          "city": "EASTSOUND",
+          "county": "San Juan",
+          "region_scope": "Western/other WA",
+          "zip": "98245",
+          "phone": "3603762561",
+          "geocode_match": "Match",
+          "matched_address": "7 DEYE LN, EASTSOUND, WA, 98245",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.903027089529,
+            48.702868093796
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 4 KING COUNTY WASHINGTON",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 4 KING COUNTY WASHINGTON",
+          "clinic_name": "SNOQUALMIE RIDGE MEDICAL CLINIC",
+          "enrollment_id": "O20180213003060",
+          "npi": "1194237131",
+          "ccn": "508580",
+          "address": "35020 SE KINSEY ST",
+          "address2": "",
+          "city": "SNOQUALMIE",
+          "county": "King",
+          "region_scope": "Western/other WA",
+          "zip": "98065",
+          "phone": "4253967682",
+          "geocode_match": "Match",
+          "matched_address": "35020 SE KINSEY ST, SNOQUALMIE, WA, 98065",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -121.872983256853,
+            47.530929205507
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO 4 KING COUNTY WASHINGTON",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO 4 KING COUNTY WASHINGTON",
+          "clinic_name": "SNOQUALMIE VALLEY HOSPITAL CLINIC",
+          "enrollment_id": "O20180209002443",
+          "npi": "1558869289",
+          "ccn": "508579",
+          "address": "9801 FRONTIER AVE SE",
+          "address2": "",
+          "city": "SNOQUALMIE",
+          "county": "King",
+          "region_scope": "Western/other WA",
+          "zip": "98065",
+          "phone": "4258312313",
+          "geocode_match": "Match",
+          "matched_address": "9801 FRONTIER AVE SE, SNOQUALMIE, WA, 98065",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -121.884722942298,
+            47.512263561519
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "PUBLIC HOSPITAL DISTRICT NO. 2, KLICKITAT COUNTY, WASHINGTON",
+          "owner_derived_network_name": "PUBLIC HOSPITAL DISTRICT NO. 2, KLICKITAT COUNTY, WASHINGTON",
+          "clinic_name": "SKYLINE MEDICAL CLINIC",
+          "enrollment_id": "O20171128001945",
+          "npi": "1467961250",
+          "ccn": "508573",
+          "address": "212 NE SKYLINE DR",
+          "address2": "",
+          "city": "WHITE SALMON",
+          "county": "Klickitat",
+          "region_scope": "Eastern WA",
+          "zip": "98672",
+          "phone": "5096372810",
+          "geocode_match": "Match",
+          "matched_address": "212 NE SKYLINE DR, WHITE SALMON, WA, 98672",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -121.470344678133,
+            45.723146750041
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SHC MEDICAL CENTER TOPPENISH",
+          "owner_derived_network_name": "SHC HOLDCO LLC",
+          "clinic_name": "ASTRIA HEALTH",
+          "enrollment_id": "O20190109002710",
+          "npi": "1659809457",
+          "ccn": "508581",
+          "address": "1016 TACOMA AVE",
+          "address2": "",
+          "city": "SUNNYSIDE",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98944",
+          "phone": "5098653105",
+          "geocode_match": "Match",
+          "matched_address": "1016 TACOMA AVE, SUNNYSIDE, WA, 98944",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.006991540695,
+            46.32234023828
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SHC MEDICAL CENTER TOPPENISH",
+          "owner_derived_network_name": "SHC HOLDCO LLC",
+          "clinic_name": "ASTRIA HEALTH CENTER",
+          "enrollment_id": "O20190102003109",
+          "npi": "1013492784",
+          "ccn": "508586",
+          "address": "1420 AHTANUM RIDGE DR",
+          "address2": "",
+          "city": "UNION GAP",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98903",
+          "phone": "5094547700",
+          "geocode_match": "Match",
+          "matched_address": "1420 AHTANUM RIDGE DR, UNION GAP, WA, 98903",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.496908424748,
+            46.556766957617
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SUNNYSIDE COMMUNITY HOSPITAL ASSOCIATION",
+          "owner_derived_network_name": "ASTRIA HEALTH",
+          "clinic_name": "ASTRIA HEALTH CENTER",
+          "enrollment_id": "O20050322000418",
+          "npi": "1689671984",
+          "ccn": "508540",
+          "address": "208 N EUCLID RD",
+          "address2": "",
+          "city": "GRANDVIEW",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98930",
+          "phone": "5098821855",
+          "geocode_match": "Match",
+          "matched_address": "208 EUCLID RD, GRANDVIEW, WA, 98930",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.915663676652,
+            46.254972024934
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SUNNYSIDE COMMUNITY HOSPITAL ASSOCIATION",
+          "owner_derived_network_name": "ASTRIA HEALTH",
+          "clinic_name": "ASTRIA HEALTH CENTER",
+          "enrollment_id": "O20050221000156",
+          "npi": "1740289560",
+          "ccn": "508539",
+          "address": "222 E 2ND ST",
+          "address2": "",
+          "city": "GRANDVIEW",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98930",
+          "phone": "5092036501",
+          "geocode_match": "Match",
+          "matched_address": "222 E 2ND ST, GRANDVIEW, WA, 98930",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.900095609932,
+            46.254752908362
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SUNNYSIDE COMMUNITY HOSPITAL ASSOCIATION",
+          "owner_derived_network_name": "ASTRIA HEALTH",
+          "clinic_name": "ASTRIA HEALTH CENTER",
+          "enrollment_id": "O20070430000513",
+          "npi": "1851397426",
+          "ccn": "508546",
+          "address": "1812 E EDISON AVE",
+          "address2": "",
+          "city": "SUNNYSIDE",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98944",
+          "phone": "5097123295",
+          "geocode_match": "Match",
+          "matched_address": "1812 E EDISON AVE, SUNNYSIDE, WA, 98944",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.998621011471,
+            46.323807505461
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SUNNYSIDE COMMUNITY HOSPITAL ASSOCIATION",
+          "owner_derived_network_name": "ASTRIA HEALTH",
+          "clinic_name": "ASTRIA HEALTH CENTER",
+          "enrollment_id": "O20131106001676",
+          "npi": "1407289184",
+          "ccn": "508569",
+          "address": "2201 E EDISON RD",
+          "address2": "",
+          "city": "SUNNYSIDE",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98944",
+          "phone": "5098373090",
+          "geocode_match": "Match",
+          "matched_address": "2201 E EDISON RD, SUNNYSIDE, WA, 98944",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.99343807036,
+            46.323849005606
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SUNNYSIDE COMMUNITY HOSPITAL ASSOCIATION",
+          "owner_derived_network_name": "ASTRIA HEALTH",
+          "clinic_name": "ASTRIA HEALTH CENTER",
+          "enrollment_id": "O20130725000146",
+          "npi": "1841639119",
+          "ccn": "508563",
+          "address": "2705 E LINCOLN AVE",
+          "address2": "",
+          "city": "SUNNYSIDE",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98944",
+          "phone": "5098371571",
+          "geocode_match": "Match",
+          "matched_address": "2705 E LINCOLN AVE, SUNNYSIDE, WA, 98944",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.987997982318,
+            46.316740464771
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SUNNYSIDE COMMUNITY HOSPITAL ASSOCIATION",
+          "owner_derived_network_name": "SUNNYSIDE COMMUNITY HOSPITAL ASSOCIATION",
+          "clinic_name": "ASTRIA HEALTH CENTER",
+          "enrollment_id": "O20050221000162",
+          "npi": "1679521637",
+          "ccn": "508538",
+          "address": "803 E LINCOLN AVE",
+          "address2": "",
+          "city": "SUNNYSIDE",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98944",
+          "phone": "5098376911",
+          "geocode_match": "Match",
+          "matched_address": "803 E LINCOLN AVE, SUNNYSIDE, WA, 98944",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.009945560746,
+            46.316447915711
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SUNNYSIDE COMMUNITY HOSPITAL ASSOCIATION",
+          "owner_derived_network_name": "ASTRIA HEALTH",
+          "clinic_name": "ASTRIA HEALTH CENTER",
+          "enrollment_id": "O20080721000510",
+          "npi": "1467464396",
+          "ccn": "508547",
+          "address": "803 E LINCOLN AVE",
+          "address2": "",
+          "city": "SUNNYSIDE",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98944",
+          "phone": "5098376911",
+          "geocode_match": "Match",
+          "matched_address": "803 E LINCOLN AVE, SUNNYSIDE, WA, 98944",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.009945560746,
+            46.316447915711
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SUNNYSIDE COMMUNITY HOSPITAL ASSOCIATION",
+          "owner_derived_network_name": "ASTRIA HEALTH",
+          "clinic_name": "ASTRIA URGENT CARE CENTER",
+          "enrollment_id": "O20141230000948",
+          "npi": "1912305905",
+          "ccn": "508570",
+          "address": "355 CHARDONNAY AVE",
+          "address2": "",
+          "city": "PROSSER",
+          "county": "Benton",
+          "region_scope": "Eastern WA",
+          "zip": "99350",
+          "phone": "5097816366",
+          "geocode_match": "Match",
+          "matched_address": "355 CHARDONNAY AVE, PROSSER, WA, 99350",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.786833154998,
+            46.218357969151
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "SWOFFORD & HALMA CLINIC, INC. P.S.",
+          "owner_derived_network_name": "SWOFFORD & HALMA CLINIC, INC. P.S.",
+          "clinic_name": "SWOFFORD & HALMA CLINIC, INC. P.S.",
+          "enrollment_id": "O20051012000213",
+          "npi": "1992758486",
+          "ccn": "503908",
+          "address": "2303  REITH WAY",
+          "address2": "",
+          "city": "SUNNYSIDE",
+          "county": "Yakima",
+          "region_scope": "Eastern WA",
+          "zip": "98944",
+          "phone": "5098373933",
+          "geocode_match": "Match",
+          "matched_address": "2303 REITH WAY, SUNNYSIDE, WA, 98944",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.982155533897,
+            46.325393912257
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "TULALIP TRIBES OF WASHINGTON",
+          "owner_derived_network_name": "TULALIP TRIBES OF WASHINGTON",
+          "clinic_name": "TULALIP HEALTH CLINIC",
+          "enrollment_id": "O20040325000954",
+          "npi": "1770531501",
+          "ccn": "503809",
+          "address": "7520 TOTEM BEACH ROAD",
+          "address2": "",
+          "city": "TULALIP",
+          "county": "Snohomish",
+          "region_scope": "Western/other WA",
+          "zip": "98271",
+          "phone": "3607164511",
+          "geocode_match": "Match",
+          "matched_address": "7520 TOTEM BEACH RD, TULALIP, WA, 98271",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.283143039614,
+            48.064246046109
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "owner_derived_network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "clinic_name": "WHIDBEYHEALTH PRIMARY CARE - CABOT",
+          "enrollment_id": "O20171129003305",
+          "npi": "1982116901",
+          "ccn": "508584",
+          "address": "275 SE CABOT DR",
+          "address2": "STE B101",
+          "city": "OAK HARBOR",
+          "county": "Island",
+          "region_scope": "Western/other WA",
+          "zip": "98277",
+          "phone": "3606756648",
+          "geocode_match": "Match",
+          "matched_address": "275 SE CABOT DR, OAK HARBOR, WA, 98277",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.654329790642,
+            48.295762033656
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "owner_derived_network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "clinic_name": "WHIDBEYHEALTH PRIMARY CARE - CLINTON",
+          "enrollment_id": "O20030417000036",
+          "npi": "1154361590",
+          "ccn": "508506",
+          "address": "11245 STATE ROUTE 525",
+          "address2": "",
+          "city": "CLINTON",
+          "county": "Island",
+          "region_scope": "Western/other WA",
+          "zip": "98236",
+          "phone": "3603415252null",
+          "geocode_match": "Match",
+          "matched_address": "11245 STATE RTE 525, CLINTON, WA, 98236",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.400738591735,
+            47.995424407336
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "owner_derived_network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "clinic_name": "WHIDBEYHEALTH PRIMARY CARE - COUPEVILLE",
+          "enrollment_id": "O20180925001445",
+          "npi": "1679115810",
+          "ccn": "508583",
+          "address": "77 N MAIN ST",
+          "address2": "",
+          "city": "COUPEVILLE",
+          "county": "Island",
+          "region_scope": "Western/other WA",
+          "zip": "98239",
+          "phone": "3606822814",
+          "geocode_match": "Match",
+          "matched_address": "77 N MAIN ST, COUPEVILLE, WA, 98239",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.686032420485,
+            48.213882476476
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "owner_derived_network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "clinic_name": "WHIDBEYHEALTH PRIMARY CARE - FREELAND",
+          "enrollment_id": "O20171129002936",
+          "npi": "1164934188",
+          "ccn": "508585",
+          "address": "5486 HARBOR AVE",
+          "address2": "",
+          "city": "FREELAND",
+          "county": "Island",
+          "region_scope": "Western/other WA",
+          "zip": "98249",
+          "phone": "3603315060",
+          "geocode_match": "Match",
+          "matched_address": "5486 HARBOR RD, FREELAND, WA, 98249",
+          "geocode_source": "Census geocoder",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.527267619754,
+            48.010115002427
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "owner_derived_network_name": "WHIDBEY ISLAND PUBLIC HOSPITAL DISTRICT",
+          "clinic_name": "WHIDBEYHEALTH PRIMARY CARE - GOLDIE ST.",
+          "enrollment_id": "O20030417000034",
+          "npi": "1467497636",
+          "ccn": "503996",
+          "address": "1300 NE GOLDIE ST",
+          "address2": "",
+          "city": "OAK HARBOR",
+          "county": "Island",
+          "region_scope": "Western/other WA",
+          "zip": "98277",
+          "phone": "3606795590",
+          "geocode_match": "No_Match",
+          "matched_address": "",
+          "geocode_source": "Nominatim address fallback",
+          "source": "CMS RHC Enrollments 2026-04-01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.6433962,
+            48.3091622
+          ]
+        }
+      }
+    ]
+  }

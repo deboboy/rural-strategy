@@ -293,11 +293,11 @@ Each authenticated page gets:
 
 ### Phase 3 — Agent + tools (estimate: 2–3 days)
 
-- [ ] Server-side data loaders for clinics + `docs/`
-- [ ] Tool executors + system prompt
-- [ ] `/api/chat` streaming via OpenRouter
-- [ ] Chat panel UI; conversation list + persistence
-- [ ] Map context wiring (viewport + selected clinic)
+- [x] Server-side data loaders for clinics + `docs/`
+- [x] Tool executors + system prompt
+- [x] `/api/chat` streaming via OpenRouter
+- [x] Chat panel UI; conversation list + persistence
+- [x] Map context wiring (viewport + selected clinic)
 
 ### Phase 4 — Fusion + polish (estimate: 1 day)
 

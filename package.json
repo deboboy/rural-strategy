@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/prepare-deploy.mjs",
-    "db:init": "node --env-file=.env.local scripts/init-db.mjs"
+    "db:init": "node --env-file=.env.local scripts/init-db.mjs",
+    "data:extract-clinics": "node scripts/extract-clinics.mjs"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.1.0",

@@ -1,0 +1,2969 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37207,
+          47.1213100000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "County": "Adams",
+        "Facility": "Ritzville Medical Clinic",
+        "Address": "903 South Adams",
+        "City": "Ritzville",
+        "Zip": 99169,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -118.37207,
+        "Latitude": 47.12131,
+        "GeoDate": 1476806241000,
+        "LINK": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.31118,
+          46.75079
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "County": "Adams",
+        "Facility": "Washtucna Medical Clinic",
+        "Address": "545 S.E. Church St.",
+        "City": "Washtucna",
+        "Zip": 99371,
+        "Source": "StreetName Centroid",
+        "Score": 50,
+        "Accuracy": "Very Approximate",
+        "Longitude": -118.31118,
+        "Latitude": 46.75079,
+        "GeoDate": 1476806241000,
+        "LINK": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.48449,
+          46.2635400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "County": "Benton",
+        "Facility": "PMH Family Medicine",
+        "Address": "701 Dale Ave",
+        "City": "Benton City",
+        "Zip": 99320,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.48449,
+        "Latitude": 46.26354,
+        "GeoDate": 1476806241000,
+        "LINK": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.78686,
+          46.2182800000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "County": "Benton",
+        "Facility": "Sunnyside Community Hospital and Clinics Medical Plaza",
+        "Address": "355 Chardonnay Ave",
+        "City": "Prosser",
+        "Zip": 99250,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.78686,
+        "Latitude": 46.21828,
+        "GeoDate": 1476806242000,
+        "LINK": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.46493,
+          47.5217400000002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "County": "Chelan",
+        "Facility": "Confluence Health - Cashmere",
+        "Address": "303 Cottage Ave",
+        "City": "Cashmere",
+        "Zip": 98815,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.46493,
+        "Latitude": 47.52174,
+        "GeoDate": 1476806242000,
+        "LINK": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.32279,
+          47.4335600000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "County": "Chelan",
+        "Facility": "Confluence Health Wenatchee Clinic",
+        "Address": "820 North Chelan Ave",
+        "City": "Wenatchee",
+        "Zip": 98801,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.32279,
+        "Latitude": 47.43356,
+        "GeoDate": 1476806242000,
+        "LINK": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.01533,
+          47.8409300000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "County": "Chelan",
+        "Facility": "Lake Chelan Clinic",
+        "Address": "219 E. Johnson",
+        "City": "Chelan",
+        "Zip": 98816,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.01533,
+        "Latitude": 47.84093,
+        "GeoDate": 1476806242000,
+        "LINK": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.66088,
+          47.5943600000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "County": "Chelan ",
+        "Facility": "Cascade Medical Center",
+        "Address": "817 Commercial St",
+        "City": "Leavenworth",
+        "Zip": 98826,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.66088,
+        "Latitude": 47.59436,
+        "GeoDate": 1476806242000,
+        "LINK": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.39247,
+          47.9460100000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "County": "Clallam",
+        "Facility": "Bogachiel Clinic",
+        "Address": "530 Bogachiel Way",
+        "City": "Forks",
+        "Zip": 98331,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -124.39247,
+        "Latitude": 47.94601,
+        "GeoDate": 1476806243000,
+        "LINK": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.26189,
+          48.2533000000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "County": "Clallam",
+        "Facility": "Clallam Bay Medical Clinic",
+        "Address": "74 Bogachiel Way",
+        "City": "Clallam Bay",
+        "Zip": 98326,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -124.26189,
+        "Latitude": 48.2533,
+        "GeoDate": 1476806243000,
+        "LINK": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.38147,
+          47.9529000000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "County": "Clallam",
+        "Facility": "Forks Women's Clinic",
+        "Address": "231 Lupine Way",
+        "City": "Forks",
+        "Zip": 98331,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -124.38147,
+        "Latitude": 47.9529,
+        "GeoDate": 1476806243000,
+        "LINK": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.3906,
+          47.9443600000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "County": "Clallam",
+        "Facility": "Harrison Health Partners Family Medical Center",
+        "Address": "461 G St. SW",
+        "City": "Forks",
+        "Zip": 98331,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -124.3906,
+        "Latitude": 47.94436,
+        "GeoDate": 1476806243000,
+        "LINK": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11307,
+          48.0899300000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "County": "Clallam",
+        "Facility": "Pacific Primary Care Clinic of Sequim",
+        "Address": "800 N 5th St., Ste 101",
+        "City": "Sequim",
+        "Zip": 98302,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.11307,
+        "Latitude": 48.08993,
+        "GeoDate": 1476806244000,
+        "LINK": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.41646,
+          48.1152700000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "County": "Clallam",
+        "Facility": "Peninsula Children's Clinic, Inc.",
+        "Address": "902 E. Caroline St",
+        "City": "Port Angeles",
+        "Zip": 98362,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.41646,
+        "Latitude": 48.11527,
+        "GeoDate": 1476806244000,
+        "LINK": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96938,
+          46.31294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "County": "Columbia ",
+        "Facility": "Columbia Family Clinic",
+        "Address": "1012 S. 3rd St",
+        "City": "Dayton",
+        "Zip": 99328,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -117.96938,
+        "Latitude": 46.31294,
+        "GeoDate": 1476806244000,
+        "LINK": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.071,
+          47.6467400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "County": "Douglas",
+        "Facility": "Confluence Health - Waterville",
+        "Address": "117 S. Chelan Ave",
+        "City": "Waterville",
+        "Zip": 98858,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.071,
+        "Latitude": 47.64674,
+        "GeoDate": 1476806244000,
+        "LINK": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.28231,
+          47.4044400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "County": "Douglas",
+        "Facility": "Confluence Health East Wenatchee Clinic",
+        "Address": "100 Highline Drive",
+        "City": "East Wenatchee",
+        "Zip": 98802,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.28231,
+        "Latitude": 47.40444,
+        "GeoDate": 1476806244000,
+        "LINK": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.60501,
+          48.8835700000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "County": "Ferry ",
+        "Facility": "Curlew Medical Clinic",
+        "Address": "9 Kettle River Rd",
+        "City": "Curlew",
+        "Zip": 99118,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -118.60501,
+        "Latitude": 48.88357,
+        "GeoDate": 1476806244000,
+        "LINK": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.71663,
+          48.7076800000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "County": "Ferry ",
+        "Facility": "Republic Medical Clinic",
+        "Address": "10 Ros Circle",
+        "City": "Republic",
+        "Zip": 99166,
+        "Source": "Zip+4 Centroid",
+        "Score": 60,
+        "Accuracy": "Very Approximate",
+        "Longitude": -118.71663,
+        "Latitude": 48.70768,
+        "GeoDate": 1476806245000,
+        "LINK": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.60549,
+          46.4730800000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "County": "Garfield ",
+        "Facility": "Pomeroy Medical Clinic",
+        "Address": "446 Pataha Street",
+        "City": "Pomeroy",
+        "Zip": 99347,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -117.60549,
+        "Latitude": 46.47308,
+        "GeoDate": 1476806245000,
+        "LINK": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26556,
+          47.12185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "County": "Grant",
+        "Facility": "Confluence Health Moses Lake Clinic",
+        "Address": "840  East Hill Ave",
+        "City": "Moses Lake",
+        "Zip": 98837,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.26556,
+        "Latitude": 47.12185,
+        "GeoDate": 1476806245000,
+        "LINK": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.62868,
+          46.90013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "County": "Grant",
+        "Facility": "Confluence Health Royal City Clinic",
+        "Address": "103 Camelia St NW\r",
+        "City": "Royal City",
+        "Zip": 99357,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.62868,
+        "Latitude": 46.90013,
+        "GeoDate": 1476806246000,
+        "LINK": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.86798,
+          47.2309500000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "County": "Grant",
+        "Facility": "Quincy Valley Medical Center Sageview Clinic",
+        "Address": "908 10th Ave SW",
+        "City": "Quincy",
+        "Zip": 98848,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.86798,
+        "Latitude": 47.23095,
+        "GeoDate": 1476806246000,
+        "LINK": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26635,
+          47.1185100000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "County": "Grant",
+        "Facility": "Samaritan Clinic",
+        "Address": "1150 S. Pioneer Way",
+        "City": "Moses Lake",
+        "Zip": 98837,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.26635,
+        "Latitude": 47.11851,
+        "GeoDate": 1476806246000,
+        "LINK": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5455,
+          47.3142900000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "County": "Grant ",
+        "Facility": "Columbia Basin Family Medicine",
+        "Address": "220 Southeast Blvd",
+        "City": "Ephrata",
+        "Zip": 98823,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.5455,
+        "Latitude": 47.31429,
+        "GeoDate": 1476806246000,
+        "LINK": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.28607,
+          47.61147
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "County": "Grant ",
+        "Facility": "Coulee City Medical Clinic",
+        "Address": "130 N. Adams St",
+        "City": "Coulee City",
+        "Zip": 99115,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.28607,
+        "Latitude": 47.61147,
+        "GeoDate": 1476806246000,
+        "LINK": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.00559,
+          47.9423400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "County": "Grant ",
+        "Facility": "Coulee Family Medicine Clinic",
+        "Address": "411 Fortuyn Road",
+        "City": "Grand Coulee",
+        "Zip": 99133,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.00559,
+        "Latitude": 47.94234,
+        "GeoDate": 1476806246000,
+        "LINK": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.27438,
+          47.1273300000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "County": "Grant ",
+        "Facility": "Parkview Pediatrics",
+        "Address": "615 S. Division St.",
+        "City": "Moses Lake",
+        "Zip": 98837,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.27438,
+        "Latitude": 47.12733,
+        "GeoDate": 1476806247000,
+        "LINK": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.82033,
+          46.9808900000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "County": "Grays Harbor",
+        "Facility": "East Campus Internal Medicine",
+        "Address": "1006 North H St",
+        "City": "Aberdeen",
+        "Zip": 98520,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.82033,
+        "Latitude": 46.98089,
+        "GeoDate": 1476806247000,
+        "LINK": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.81979,
+          46.9822800000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "County": "Grays Harbor",
+        "Facility": "Highland Pediatrics",
+        "Address": "615 N. F Street",
+        "City": "Aberdeen",
+        "Zip": 98520,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.81979,
+        "Latitude": 46.98228,
+        "GeoDate": 1476806247000,
+        "LINK": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.88406,
+          46.9756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "County": "Grays Harbor",
+        "Facility": "The Hoquiam Clinic",
+        "Address": "815 K St",
+        "City": "Hoquiam",
+        "Zip": 98550,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.88406,
+        "Latitude": 46.9756,
+        "GeoDate": 1476806247000,
+        "LINK": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.39266,
+          47.0052200000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "County": "Grays Harbor",
+        "Facility": "Elma Family Medicine",
+        "Address": "575 E. Main St",
+        "City": "Elma",
+        "Zip": 98541,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.39266,
+        "Latitude": 47.00522,
+        "GeoDate": 1476806247000,
+        "LINK": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.39226,
+          47.00583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "County": "Grays Harbor",
+        "Facility": "Summit Pacific Healthcare Clinic",
+        "Address": "600 E. Main St",
+        "City": "Elma",
+        "Zip": 98541,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.39226,
+        "Latitude": 47.00583,
+        "GeoDate": 1476806248000,
+        "LINK": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.26054,
+          47.0554700000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "County": "Grays Harbor",
+        "Facility": "Mark Reed Healthcare Clinic",
+        "Address": "322 South Birch Street",
+        "City": "Mc Cleary",
+        "Zip": 98557,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.26054,
+        "Latitude": 47.05547,
+        "GeoDate": 1476806248000,
+        "LINK": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47768,
+          48.21582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "County": "Island",
+        "Facility": "Skagit Regional Clinics Camano Island",
+        "Address": "127 N. East Camano Dr.",
+        "City": "Camano",
+        "Zip": 98282,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.47768,
+        "Latitude": 48.21582,
+        "GeoDate": 1476806248000,
+        "LINK": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64384,
+          48.3089000000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "County": "Island",
+        "Facility": "North Whidbey Community Clinic",
+        "Address": "1300 Goldie Rd.",
+        "City": "Oak Harbor",
+        "Zip": 98277,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.64384,
+        "Latitude": 48.3089,
+        "GeoDate": 1476806248000,
+        "LINK": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39864,
+          47.9924100000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "County": "Island",
+        "Facility": "South Whidbey Community Clinic",
+        "Address": "11245 State Route 525",
+        "City": "Clinton",
+        "Zip": 98236,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.39864,
+        "Latitude": 47.99241,
+        "GeoDate": 1476806249000,
+        "LINK": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79027,
+          48.1055600000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "County": "Jefferson",
+        "Facility": "Jefferson General Medical Group",
+        "Address": "834 Sheridan Avenue",
+        "City": "Port Townsend",
+        "Zip": 98368,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.79027,
+        "Latitude": 48.10556,
+        "GeoDate": 1476806249000,
+        "LINK": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7898,
+          48.1072800000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "County": "Jefferson",
+        "Facility": "Jefferson Healthcare Family Medicine",
+        "Address": "1010 Sheridan Ave, Suite 101",
+        "City": "Port Townsend",
+        "Zip": 98368,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.7898,
+        "Latitude": 48.10728,
+        "GeoDate": 1476806249000,
+        "LINK": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78979,
+          48.1069000000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "County": "Jefferson",
+        "Facility": "Jefferson Healthcare Internal Medicine",
+        "Address": "934 Sheridan Avenue",
+        "City": "Port Townsend",
+        "Zip": 98368,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.78979,
+        "Latitude": 48.1069,
+        "GeoDate": 1476806249000,
+        "LINK": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88684,
+          47.85415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "County": "Jefferson",
+        "Facility": "Jefferson Healthcare South County Medical Group",
+        "Address": "292483 Highway 101",
+        "City": "Quilcene",
+        "Zip": 98376,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.88684,
+        "Latitude": 47.85415,
+        "GeoDate": 1476806250000,
+        "LINK": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5373,
+          46.9882100000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "County": "Kittitas",
+        "Facility": "KVH Family Medicine",
+        "Address": "716 E. Manitoba",
+        "City": "Ellensburg",
+        "Zip": 98926,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.5373,
+        "Latitude": 46.98821,
+        "GeoDate": 1476806250000,
+        "LINK": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.95012,
+          47.1968700000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "County": "Kittitas",
+        "Facility": "KVH Family Medicine - Cle Elum",
+        "Address": "201 Alpha Way",
+        "City": "Cle Elum",
+        "Zip": 98922,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.95012,
+        "Latitude": 47.19687,
+        "GeoDate": 1476806250000,
+        "LINK": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.53837,
+          46.988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "County": "Kittitas",
+        "Facility": "KVH Internal Medicine",
+        "Address": "700 E. Manitoba, Suite 101",
+        "City": "Ellensburg",
+        "Zip": 98926,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.53837,
+        "Latitude": 46.988,
+        "GeoDate": 1476806250000,
+        "LINK": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.53709,
+          46.98671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "County": "Kittitas ",
+        "Facility": "Ellensburg Pediatrics",
+        "Address": "611 South Chestnut #E",
+        "City": "Ellensburg",
+        "Zip": 98926,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.53709,
+        "Latitude": 46.98671,
+        "GeoDate": 1476806250000,
+        "LINK": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.54579,
+          46.9848700000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "County": "Kittitas ",
+        "Facility": "Family Health Care - Ellensburg",
+        "Address": "107 E Mt View Ave Ste #1",
+        "City": "Ellensburg",
+        "Zip": 98926,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.54579,
+        "Latitude": 46.98487,
+        "GeoDate": 1476806251000,
+        "LINK": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.80986,
+          45.8205800000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "County": "Klickitat",
+        "Facility": "Klickitat Valley Health Family Medicine",
+        "Address": "317 Sanders Way",
+        "City": "Goldendale",
+        "Zip": 98620,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.80986,
+        "Latitude": 45.82058,
+        "GeoDate": 1476806251000,
+        "LINK": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.46957,
+          45.7222700000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "County": "Klickitat ",
+        "Facility": "NorthShore Medical Group",
+        "Address": "212 Skyline Drive",
+        "City": "White Salmon",
+        "Zip": 98672,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -121.46957,
+        "Latitude": 45.72227,
+        "GeoDate": 1476806251000,
+        "LINK": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.982,
+          46.71405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "County": "Lewis",
+        "Facility": "Centralia Specialty Clinic",
+        "Address": "1707 Cooks Hill Road",
+        "City": "Centralia",
+        "Zip": 98531,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.982,
+        "Latitude": 46.71405,
+        "GeoDate": 1476806251000,
+        "LINK": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98609,
+          46.7141700000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "County": "Lewis",
+        "Facility": "Northwest Pediatric Center",
+        "Address": "1911 Cooks Hill Rd",
+        "City": "Centralia",
+        "Zip": 98531,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.98609,
+        "Latitude": 46.71417,
+        "GeoDate": 1476806251000,
+        "LINK": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96051,
+          46.6595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "County": "Lewis",
+        "Facility": "Chehalis Children",
+        "Address": "370 S. Market Blvd.",
+        "City": "Chehalis",
+        "Zip": 98532,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.96051,
+        "Latitude": 46.6595,
+        "GeoDate": 1476806252000,
+        "LINK": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.82263,
+          46.54303
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "County": "Lewis",
+        "Facility": "Mary's Corner Medical Clinic",
+        "Address": "4254 Jackson Hwy",
+        "City": "Chehalis",
+        "Zip": 98532,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.82263,
+        "Latitude": 46.54303,
+        "GeoDate": 1476806252000,
+        "LINK": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96236,
+          46.6602400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "County": "Lewis",
+        "Facility": "Northwest Pediatric Center",
+        "Address": "193 S. Market Blvd.",
+        "City": "Chehalis",
+        "Zip": 98532,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.96236,
+        "Latitude": 46.66024,
+        "GeoDate": 1476806252000,
+        "LINK": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94173,
+          46.6401900000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "County": "Lewis",
+        "Facility": "Steck Medical Group",
+        "Address": "1299 Bishop Rd.",
+        "City": "Chehalis",
+        "Zip": 98532,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.94173,
+        "Latitude": 46.64019,
+        "GeoDate": 1476806252000,
+        "LINK": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28023,
+          46.5559100000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "County": "Lewis",
+        "Facility": "Morton Medical Center, PLLC",
+        "Address": "531 Adams St",
+        "City": "Morton",
+        "Zip": 98356,
+        "Source": "NavteqStreets",
+        "Score": 91,
+        "Accuracy": "Close",
+        "Longitude": -122.28023,
+        "Latitude": 46.55591,
+        "GeoDate": 1476806252000,
+        "LINK": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.90723,
+          46.5411700000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "County": "Lewis",
+        "Facility": "Randle Clinic",
+        "Address": "196 Young Rd",
+        "City": "Randle",
+        "Zip": 98377,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -121.90723,
+        "Latitude": 46.54117,
+        "GeoDate": 1476806253000,
+        "LINK": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48589,
+          46.5338800000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "County": "Lewis",
+        "Facility": "Riffe Medical Center",
+        "Address": "745 Williams St.",
+        "City": "Mossyrock",
+        "Zip": 98564,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.48589,
+        "Latitude": 46.53388,
+        "GeoDate": 1476806253000,
+        "LINK": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.14487,
+          47.6570400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "County": "Lincoln ",
+        "Facility": "Davenport Clinic",
+        "Address": "100 Third Street",
+        "City": "Davenport",
+        "Zip": 99122,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -118.14487,
+        "Latitude": 47.65704,
+        "GeoDate": 1476806253000,
+        "LINK": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.68122,
+          47.3313500000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "County": "Lincoln ",
+        "Facility": "Odessa Clinic",
+        "Address": "510 East Amende Dr",
+        "City": "Odessa",
+        "Zip": 99159,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -118.68122,
+        "Latitude": 47.33135,
+        "GeoDate": 1476806253000,
+        "LINK": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.87786,
+          47.66942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "County": "Lincoln ",
+        "Facility": "Rearden Health Clinic",
+        "Address": "E. 115 Broadway",
+        "City": "Rearden",
+        "Zip": 99029,
+        "Source": "NavteqPoints",
+        "Score": 83,
+        "Accuracy": "Close",
+        "Longitude": -117.87786,
+        "Latitude": 47.66942,
+        "GeoDate": 1476806254000,
+        "LINK": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.70297,
+          47.75826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "County": "Lincoln ",
+        "Facility": "Wilbur Clinic",
+        "Address": "109 Main Street",
+        "City": "Wilbur",
+        "Zip": 99185,
+        "Source": "NavteqPoints",
+        "Score": 92,
+        "Accuracy": "Close",
+        "Longitude": -118.70297,
+        "Latitude": 47.75826,
+        "GeoDate": 1476806254000,
+        "LINK": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1411,
+          47.40601
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "County": "Mason",
+        "Facility": "Hoodsport Family Clinic",
+        "Address": "24261 North US Hwy 101",
+        "City": "Hoodsport",
+        "Zip": 98548,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.1411,
+        "Latitude": 47.40601,
+        "GeoDate": 1476806254000,
+        "LINK": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11567,
+          47.22722
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "County": "Mason",
+        "Facility": "Mt View Women's Health Center",
+        "Address": "2300 Kati Court, Suite A",
+        "City": "Shelton",
+        "Zip": 98584,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.11567,
+        "Latitude": 47.22722,
+        "GeoDate": 1476806254000,
+        "LINK": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11063,
+          47.22469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "County": "Mason",
+        "Facility": "Oakland Bay Pediatrics",
+        "Address": "247 Professional Way",
+        "City": "Shelton",
+        "Zip": 98584,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.11063,
+        "Latitude": 47.22469,
+        "GeoDate": 1476806255000,
+        "LINK": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11164,
+          47.2246400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "County": "Mason",
+        "Facility": "Olympic Physicians",
+        "Address": "219 Professional Way",
+        "City": "Shelton",
+        "Zip": 98584,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.11164,
+        "Latitude": 47.22464,
+        "GeoDate": 1476806255000,
+        "LINK": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11117,
+          47.2248200000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "County": "Mason",
+        "Facility": "Olympic Physicians",
+        "Address": "237 Professional Way",
+        "City": "Shelton",
+        "Zip": 98584,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.11117,
+        "Latitude": 47.22482,
+        "GeoDate": 1476806255000,
+        "LINK": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11315,
+          47.2267200000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "County": "Mason",
+        "Facility": "Shelton Family Medicine",
+        "Address": "939 Mountain View Dr.",
+        "City": "Shelton",
+        "Zip": 98584,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.11315,
+        "Latitude": 47.22672,
+        "GeoDate": 1476806255000,
+        "LINK": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7817,
+          48.0992
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "County": "Okanogan",
+        "Facility": "Confluence Health - Brewster Clinic",
+        "Address": "418 W Main St",
+        "City": "Brewster",
+        "Zip": 98812,
+        "Source": "NavteqStreets",
+        "Score": 91,
+        "Accuracy": "Close",
+        "Longitude": -119.7817,
+        "Latitude": 48.0992,
+        "GeoDate": 1476806255000,
+        "LINK": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5037,
+          48.4225500000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "County": "Okanogan",
+        "Facility": "Confluence Health - Omak Clinic",
+        "Address": "916 Koala Dr.",
+        "City": "Omak",
+        "Zip": 98841,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.5037,
+        "Latitude": 48.42255,
+        "GeoDate": 1476806255000,
+        "LINK": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.43369,
+          48.9406600000002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "County": "Okanogan",
+        "Facility": "Confluence Health - Oroville",
+        "Address": "1617 Main Street",
+        "City": "Oroville",
+        "Zip": 98844,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.43369,
+        "Latitude": 48.94066,
+        "GeoDate": 1476806256000,
+        "LINK": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.43817,
+          48.7082500000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "County": "Okanogan",
+        "Facility": "Confluence Health - Tonasket",
+        "Address": "17 S. Western Ave",
+        "City": "Tonasket",
+        "Zip": 98855,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.43817,
+        "Latitude": 48.70825,
+        "GeoDate": 1476806256000,
+        "LINK": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.54043,
+          48.4035700000002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "County": "Okanogan ",
+        "Facility": "Mid-Valley Medical Group",
+        "Address": "529 Jasmine St",
+        "City": "Omak",
+        "Zip": 98841,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.54043,
+        "Latitude": 48.40357,
+        "GeoDate": 1476806256000,
+        "LINK": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.78284,
+          46.3718100000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "County": "Pacific ",
+        "Facility": "Naselle Clinic",
+        "Address": "21 North Valley Rd",
+        "City": "Naselle",
+        "Zip": 98638,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.78284,
+        "Latitude": 46.37181,
+        "GeoDate": 1476806256000,
+        "LINK": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.04332,
+          46.3096100000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "County": "Pacific ",
+        "Facility": "Ocean Beach Medical Center",
+        "Address": "176 1st Ave N",
+        "City": "Ilwaco",
+        "Zip": 98624,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -124.04332,
+        "Latitude": 46.30961,
+        "GeoDate": 1476806257000,
+        "LINK": 74
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.81242,
+          46.6621600000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "County": "Pacific ",
+        "Facility": "Pacific Family Health Center",
+        "Address": "826 Alder St",
+        "City": "South Bend",
+        "Zip": 98586,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.81242,
+        "Latitude": 46.66216,
+        "GeoDate": 1476806257000,
+        "LINK": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04857,
+          48.18208
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "County": "Pend Oreille ",
+        "Facility": "Family Health Center",
+        "Address": "714 West Pine Street",
+        "City": "Newport",
+        "Zip": 99156,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -117.04857,
+        "Latitude": 48.18208,
+        "GeoDate": 1476806257000,
+        "LINK": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04837,
+          48.1805800000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "County": "Pend Oreille ",
+        "Facility": "Family Medicine Newport",
+        "Address": "100 S. Scott Ave",
+        "City": "Newport",
+        "Zip": 99156,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -117.04837,
+        "Latitude": 48.18058,
+        "GeoDate": 1476806258000,
+        "LINK": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91273,
+          48.5249900000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "County": "San Juan",
+        "Facility": "Lopez Island Medical Clinic",
+        "Address": "103 Washburn Place",
+        "City": "Lopez",
+        "Zip": 98261,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.91273,
+        "Latitude": 48.52499,
+        "GeoDate": 1476806258000,
+        "LINK": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91173,
+          48.70326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "County": "San Juan",
+        "Facility": "Orcas Family Health Center",
+        "Address": "1286 Mt. Baker Road",
+        "City": "Eastsound",
+        "Zip": 98245,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.91173,
+        "Latitude": 48.70326,
+        "GeoDate": 1476806258000,
+        "LINK": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90227,
+          48.7024400000002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "County": "San Juan",
+        "Facility": "Orcas Medical Center PPLC",
+        "Address": "7 Deye Lane",
+        "City": "Eastsound",
+        "Zip": 98245,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.90227,
+        "Latitude": 48.70244,
+        "GeoDate": 1476806258000,
+        "LINK": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02813,
+          48.52983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "County": "San Juan",
+        "Facility": "PeaceHealth Peace Island Medical Center Family Medicine",
+        "Address": "1117 Spring St",
+        "City": "Friday Harbor",
+        "Zip": 98250,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.02813,
+        "Latitude": 48.52983,
+        "GeoDate": 1476806258000,
+        "LINK": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0243,
+          48.5303400000002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "County": "San Juan",
+        "Facility": "San Juan Healthcare Associates",
+        "Address": "689 Airport Center, Ste B",
+        "City": "Friday Harbor",
+        "Zip": 98250,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.0243,
+        "Latitude": 48.53034,
+        "GeoDate": 1476806259000,
+        "LINK": 82
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61741,
+          48.5019400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "County": "Skagit",
+        "Facility": "Anacortes Family Medicine",
+        "Address": "2511 M Ave, Ste. B",
+        "City": "Anacortes",
+        "Zip": 98221,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.61741,
+        "Latitude": 48.50194,
+        "GeoDate": 1476806259000,
+        "LINK": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61609,
+          48.5027600000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "County": "Skagit",
+        "Facility": "Fidalgo Medical Associates",
+        "Address": "1213 24th Street,Ste 100",
+        "City": "Anacortes",
+        "Zip": 98221,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.61609,
+        "Latitude": 48.50276,
+        "GeoDate": 1476806259000,
+        "LINK": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.61741,
+          48.5019400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "County": "Skagit",
+        "Facility": "Island Family Physicians",
+        "Address": "2511 M Ave, Ste. A",
+        "City": "Anacortes",
+        "Zip": 98221,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.61741,
+        "Latitude": 48.50194,
+        "GeoDate": 1476806259000,
+        "LINK": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89686,
+          45.69221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "County": "Skamania ",
+        "Facility": "NorthShore Medical Group",
+        "Address": "875 SW Rock Creek Dr",
+        "City": "Stevenson",
+        "Zip": 98648,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -121.89686,
+        "Latitude": 45.69221,
+        "GeoDate": 1476806259000,
+        "LINK": 86
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.60835,
+          48.25318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "County": "Snohomish",
+        "Facility": "Cascade Valley Darrington Clinic",
+        "Address": "1190 Riddle",
+        "City": "Darrington",
+        "Zip": 98241,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -121.60835,
+        "Latitude": 48.25318,
+        "GeoDate": 1476806260000,
+        "LINK": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28536,
+          48.06505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "County": "Snohomish",
+        "Facility": "Tulalip Tribes Health Clinic",
+        "Address": "7520 Totem Beach Rd",
+        "City": "Marysville",
+        "Zip": 98271,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.28536,
+        "Latitude": 48.06505,
+        "GeoDate": 1476806260000,
+        "LINK": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.46266,
+          47.9508300000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "County": "Spokane ",
+        "Facility": "Deer Park Family Care Clinic",
+        "Address": "905 East D Street",
+        "City": "Deer Park",
+        "Zip": 99006,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -117.46266,
+        "Latitude": 47.95083,
+        "GeoDate": 1476806260000,
+        "LINK": 89
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.71184,
+          48.2749000000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "County": "Stevens ",
+        "Facility": "Chewelah Associated Physicians",
+        "Address": "410 E King Street",
+        "City": "Chewelah",
+        "Zip": 99109,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -117.71184,
+        "Latitude": 48.2749,
+        "GeoDate": 1476806260000,
+        "LINK": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.89163,
+          48.5411300000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "County": "Stevens ",
+        "Facility": "Northeast Washington Medical Group",
+        "Address": "1200 East Columbia",
+        "City": "Colville",
+        "Zip": 99114,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -117.89163,
+        "Latitude": 48.54113,
+        "GeoDate": 1476806261000,
+        "LINK": 91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.05598,
+          48.6051300000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "County": "Stevens ",
+        "Facility": "Northeast Washington Medical Group",
+        "Address": "840 South Meyers St",
+        "City": "Kettle Falls",
+        "Zip": 99141,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -118.05598,
+        "Latitude": 48.60513,
+        "GeoDate": 1476806261000,
+        "LINK": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.08617,
+          46.8213900000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "County": "Thurston",
+        "Facility": "Northwest Pediatric Center - Rochester",
+        "Address": "18313 Paulson St SW #B\r",
+        "City": "Rochester",
+        "Zip": 98579,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.08617,
+        "Latitude": 46.82139,
+        "GeoDate": 1476806261000,
+        "LINK": 93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.08617,
+          46.8213900000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "County": "Thurston",
+        "Facility": "Rochester Family Medical Clinic",
+        "Address": "18313 Paulson St SW #A",
+        "City": "Rochester",
+        "Zip": 98579,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -123.08617,
+        "Latitude": 46.82139,
+        "GeoDate": 1476806261000,
+        "LINK": 94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84968,
+          46.85795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "County": "Thurston",
+        "Facility": "Tenino Family Practice",
+        "Address": "273 E. Sussex",
+        "City": "Tenino",
+        "Zip": 98589,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.84968,
+        "Latitude": 46.85795,
+        "GeoDate": 1476806261000,
+        "LINK": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33112,
+          46.05395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "County": "Walla Walla",
+        "Facility": "Adventist Health Medical Group",
+        "Address": "1111 South 2nd Ave\r",
+        "City": "Walla Walla",
+        "Zip": 99362,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -118.33112,
+        "Latitude": 46.05395,
+        "GeoDate": 1476806262000,
+        "LINK": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.15455,
+          46.26935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "County": "Walla Walla ",
+        "Facility": "Waitsburg Clinic",
+        "Address": "235 East Main St",
+        "City": "Waitsburg",
+        "Zip": 99361,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -118.15455,
+        "Latitude": 46.26935,
+        "GeoDate": 1476806262000,
+        "LINK": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33134,
+          46.0487200000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "County": "Walla Walla ",
+        "Facility": "Walla Walla Clinic",
+        "Address": "55 West Tietan",
+        "City": "Walla Walla",
+        "Zip": 99362,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -118.33134,
+        "Latitude": 46.04872,
+        "GeoDate": 1476806263000,
+        "LINK": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74867,
+          48.9357300000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "County": "Whatcom",
+        "Facility": "Birch Bay Family Medicine",
+        "Address": "8097 Harborview Rd.",
+        "City": "Blaine",
+        "Zip": 98230,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.74867,
+        "Latitude": 48.93573,
+        "GeoDate": 1476806263000,
+        "LINK": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33738,
+          48.9204000000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "County": "Whatcom",
+        "Facility": "Everson Family Medicine",
+        "Address": "407 E. Main",
+        "City": "Everson",
+        "Zip": 98247,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.33738,
+        "Latitude": 48.9204,
+        "GeoDate": 1476806263000,
+        "LINK": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.57702,
+          48.8429000000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "County": "Whatcom",
+        "Facility": "Ferndale Family Medical Center",
+        "Address": "5580 Nordic Way",
+        "City": "Ferndale",
+        "Zip": 98248,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.57702,
+        "Latitude": 48.8429,
+        "GeoDate": 1476806263000,
+        "LINK": 101
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46831,
+          48.9409800000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "County": "Whatcom",
+        "Facility": "Lynden Family Medicine",
+        "Address": "1610 Grover St.",
+        "City": "Lynden",
+        "Zip": 98264,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -122.46831,
+        "Latitude": 48.94098,
+        "GeoDate": 1476806264000,
+        "LINK": 102
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.07525,
+          46.9098000000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "County": "Whitman ",
+        "Facility": "Palouse Health Center",
+        "Address": "235 East Main",
+        "City": "Palouse",
+        "Zip": 99161,
+        "Source": "NavteqStreets",
+        "Score": 91,
+        "Accuracy": "Close",
+        "Longitude": -117.07525,
+        "Latitude": 46.9098,
+        "GeoDate": 1476806264000,
+        "LINK": 103
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16629,
+          46.7204300000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "County": "Whitman ",
+        "Facility": "Palouse Pediatrics",
+        "Address": "1205 SE Professional Mall Blvd, Suite 104",
+        "City": "Pullman",
+        "Zip": 99163,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -117.16629,
+        "Latitude": 46.72043,
+        "GeoDate": 1476806264000,
+        "LINK": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.98147,
+          46.30933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "County": "Yakima",
+        "Facility": "Weaver Medicine",
+        "Address": "2935 Allen Road",
+        "City": "Sunnyside",
+        "Zip": 98944,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.98147,
+        "Latitude": 46.30933,
+        "GeoDate": 1476806264000,
+        "LINK": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.99656,
+          46.32018
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "County": "Yakima",
+        "Facility": "John Hughes Student Health Center",
+        "Address": "1801 East Edison",
+        "City": "Sunnyside",
+        "Zip": 98944,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.99656,
+        "Latitude": 46.32018,
+        "GeoDate": 1476806264000,
+        "LINK": 106
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.01,
+          46.3164700000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "County": "Yakima",
+        "Facility": "Lincoln Avenue Family Medicine",
+        "Address": "803 E. Lincoln Ave.",
+        "City": "Sunnyside",
+        "Zip": 98944,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.01,
+        "Latitude": 46.31647,
+        "GeoDate": 1476806264000,
+        "LINK": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.00561,
+          46.3216100000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "County": "Yakima",
+        "Facility": "Mid-Valley Community Clinic",
+        "Address": "700 S. Eleventh St.",
+        "City": "Sunnyside",
+        "Zip": 98944,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.00561,
+        "Latitude": 46.32161,
+        "GeoDate": 1476806265000,
+        "LINK": 108
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.01041,
+          46.3160600000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "County": "Yakima",
+        "Facility": "Sunnyside Pediatrics",
+        "Address": "812 Miller Ave. Ste C",
+        "City": "Sunnyside",
+        "Zip": 98944,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.01041,
+        "Latitude": 46.31606,
+        "GeoDate": 1476806265000,
+        "LINK": 109
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.98278,
+          46.3248400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "County": "Yakima",
+        "Facility": "Swofford and Halma Clinic",
+        "Address": "2303 Reith Way",
+        "City": "Sunnyside",
+        "Zip": 98944,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.98278,
+        "Latitude": 46.32484,
+        "GeoDate": 1476806265000,
+        "LINK": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.00714,
+          46.3241400000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "County": "Yakima",
+        "Facility": "Valley Internal Medicine",
+        "Address": "1000 E. Edison Ave.",
+        "City": "Sunnyside",
+        "Zip": 98944,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -120.00714,
+        "Latitude": 46.32414,
+        "GeoDate": 1476806265000,
+        "LINK": 111
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.98513,
+          46.31656
+        ]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "County": "Yakima",
+        "Facility": "Valley Regional Urgent Care and Family Practice",
+        "Address": "2705 E. Lincoln Ave",
+        "City": "Sunnyside",
+        "Zip": 98944,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.98513,
+        "Latitude": 46.31656,
+        "GeoDate": 1476806265000,
+        "LINK": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.89943,
+          46.25464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "County": "Yakima ",
+        "Facility": "Birch Street Medical Center",
+        "Address": "222 E. Second St.",
+        "City": "Grandview",
+        "Zip": 98930,
+        "Source": "NavteqPoints",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.89943,
+        "Latitude": 46.25464,
+        "GeoDate": 1476806265000,
+        "LINK": 113
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.91562,
+          46.2541300000001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "County": "Yakima ",
+        "Facility": "Grandview Medical Center",
+        "Address": "208 N. Euclid St.",
+        "City": "Grandview",
+        "Zip": 98930,
+        "Source": "NavteqStreets",
+        "Score": 100,
+        "Accuracy": "Close",
+        "Longitude": -119.91562,
+        "Latitude": 46.25413,
+        "GeoDate": 1476806266000,
+        "LINK": 114
+      }
+    }
+  ]
+}
