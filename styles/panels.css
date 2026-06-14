@@ -218,20 +218,6 @@
   gap: 8px;
 }
 
-.nav-notes {
-  border: 0;
-  background: none;
-  padding: 0;
-  font: inherit;
-  color: #2563eb;
-  cursor: pointer;
-}
-
-.nav-notes[aria-expanded="true"] {
-  color: #0f172a;
-  font-weight: 600;
-}
-
 @media (max-width: 639px) {
   .notes-panel {
     right: 0;
@@ -440,20 +426,6 @@
 
 .chat-error {
   color: #b91c1c;
-}
-
-.nav-chat {
-  border: 0;
-  background: none;
-  padding: 0;
-  font: inherit;
-  color: #2563eb;
-  cursor: pointer;
-}
-
-.nav-chat[aria-expanded="true"] {
-  color: #0f172a;
-  font-weight: 600;
 }
 
 @media (max-width: 639px) {

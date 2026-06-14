@@ -3,6 +3,7 @@ Web application to model a WA rural strategy
 
 ## TODOS
 - [ ] Write up how the system works and what's required to run the web app
+- [ ] Test chat with OpenRouter model
 
 ## Result-first summary [via Hermes/Discord Bot]:
 

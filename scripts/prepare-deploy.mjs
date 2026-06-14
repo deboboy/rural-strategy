@@ -12,6 +12,7 @@ cpSync(join(root, 'styles'), join(dist, 'styles'), { recursive: true });
 cpSync(join(root, 'js'), join(dist, 'js'), { recursive: true });
 copyFileSync(join(root, 'index.html'), join(dist, 'index.html'));
 copyFileSync(join(root, 'about.html'), join(dist, 'about.html'));
+copyFileSync(join(root, 'farmworker-research.html'), join(dist, 'farmworker-research.html'));
 copyFileSync(join(root, 'login.html'), join(dist, 'login.html'));
 copyFileSync(join(root, 'wa-rural-health-clinics-mapbox.png'), join(dist, 'wa-rural-health-clinics-mapbox.png'));
 
