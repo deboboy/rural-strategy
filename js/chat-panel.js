@@ -1,3 +1,4 @@
+(function () {
 const pagePath = window.location.pathname;
 
 function escapeHtml(value) {
@@ -296,3 +297,4 @@ async function initChatPanel() {
 }
 
 initChatPanel();
+})();
