@@ -14,6 +14,12 @@ copyFileSync(join(root, 'index.html'), join(dist, 'index.html'));
 copyFileSync(join(root, 'about.html'), join(dist, 'about.html'));
 copyFileSync(join(root, 'farmworker-research.html'), join(dist, 'farmworker-research.html'));
 copyFileSync(join(root, 'employer-payer-rebuttal.html'), join(dist, 'employer-payer-rebuttal.html'));
+copyFileSync(join(root, 'progressive-eastern-wa-employers.html'), join(dist, 'progressive-eastern-wa-employers.html'));
+mkdirSync(join(dist, 'content'), { recursive: true });
+copyFileSync(
+  join(root, 'docs/progressive-eastern-wa-employers.md'),
+  join(dist, 'content/progressive-eastern-wa-employers.md')
+);
 copyFileSync(join(root, 'login.html'), join(dist, 'login.html'));
 copyFileSync(join(root, 'wa-rural-health-clinics-mapbox.png'), join(dist, 'wa-rural-health-clinics-mapbox.png'));
 

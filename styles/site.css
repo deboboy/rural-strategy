@@ -231,8 +231,43 @@ body.nav-menu-open {
   margin-top: 8px;
 }
 
+.page-wide {
+  max-width: 840px;
+}
+
 .page section + section {
   margin-top: 28px;
+}
+
+.doc-content {
+  margin-top: 20px;
+  line-height: 1.65;
+}
+
+.doc-content hr {
+  border: 0;
+  border-top: 1px solid #e2e8f0;
+  margin: 24px 0;
+}
+
+.doc-content p,
+.doc-content ul,
+.doc-content ol {
+  margin: 0 0 12px;
+  color: #334155;
+}
+
+.doc-content ul,
+.doc-content ol {
+  padding-left: 1.2rem;
+}
+
+.doc-content li + li {
+  margin-top: 4px;
+}
+
+.doc-error {
+  color: #b91c1c;
 }
 
 .page h2 {
