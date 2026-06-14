@@ -1,6 +1,8 @@
 import {
   buildSessionCookie,
   createSessionToken,
+  diagnoseLoginFailure,
+  getAuthDiagnostics,
   validateCredentials,
 } from '../../lib/auth.js';
 
@@ -26,11 +28,17 @@ export default async function handler(request) {
 
   const user = validateCredentials(body.username, body.password);
   if (!user) {
+    const failure = diagnoseLoginFailure(body.username, body.password);
+    const diagnostics = getAuthDiagnostics();
+    console.error('[auth/login] rejected', JSON.stringify({ failure, diagnostics }));
+
     return new Response(JSON.stringify({ error: 'Invalid username or password' }), {
       status: 401,
       headers: { 'Content-Type': 'application/json' },
     });
   }
+
+  console.info('[auth/login] success', JSON.stringify({ username: user.username }));
 
   const token = await createSessionToken(user);
 
