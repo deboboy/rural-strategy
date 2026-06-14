@@ -1,6 +1,9 @@
 # rural-strategy
 Web application to model a WA rural strategy
 
+## TODOS
+- [ ] Write up how the system works and what's required to run the web app
+
 ## Result-first summary [via Hermes/Discord Bot]:
 
 I would not try to enumerate private Signal/WhatsApp/Telegram groups. That would be unsafe and likely counterproductive.
