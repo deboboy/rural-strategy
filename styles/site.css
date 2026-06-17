@@ -206,7 +206,6 @@ body.nav-menu-open {
   padding: 24px 20px;
   max-width: 100%;
   min-width: 0;
-  overflow-x: hidden;
 }
 
 .page h1 {
@@ -245,7 +244,6 @@ body.nav-menu-open {
   line-height: 1.65;
   max-width: 100%;
   min-width: 0;
-  overflow-x: hidden;
 }
 
 .doc-content hr {
@@ -263,11 +261,34 @@ body.nav-menu-open {
 
 .doc-content ul,
 .doc-content ol {
-  padding-left: 1.2rem;
+  margin: 0 0 12px;
+  padding-left: 0;
+  padding-inline-start: 1.75rem;
+}
+
+.doc-content li {
+  margin: 0 0 4px;
+}
+
+.doc-content li > ul,
+.doc-content li > ol {
+  margin-top: 4px;
+  margin-bottom: 0;
+  padding-inline-start: 1.5rem;
 }
 
 .doc-content li + li {
   margin-top: 4px;
+}
+
+.doc-content pre,
+.doc-content code {
+  max-width: 100%;
+}
+
+.doc-content pre {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .doc-table-scroll {
