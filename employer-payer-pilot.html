@@ -53,6 +53,7 @@
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.4/dist/purify.min.js"></script>
   <script src="/js/map-context.js"></script>
   <script src="/js/site-nav.js"></script>
+  <script src="/js/doc-content.js"></script>
   <script src="/js/auth.js"></script>
   <script src="/js/notes-panel.js"></script>
   <script src="/js/chat-panel.js"></script>
@@ -60,19 +61,7 @@
     (async function renderDoc() {
       const container = document.querySelector('[data-doc-content]');
       try {
-        const response = await fetch('/content/employer-payer-pilot.md');
-        if (!response.ok) {
-          throw new Error('Document not found');
-        }
-        const markdown = await response.text();
-        if (!window.marked || !window.DOMPurify) {
-          container.textContent = markdown;
-          return;
-        }
-        container.innerHTML = DOMPurify.sanitize(
-          marked.parse(markdown, { breaks: true, gfm: true })
-        );
-        container.removeAttribute('aria-busy');
+        await loadMarkdownDoc(container, '/content/employer-payer-pilot.md');
       } catch (error) {
         container.innerHTML = '<p class="doc-error">Could not load document. Try rebuilding the site.</p>';
       }

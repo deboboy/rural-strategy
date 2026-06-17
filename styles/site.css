@@ -206,6 +206,7 @@ body.nav-menu-open {
   padding: 24px 20px;
   max-width: 100%;
   min-width: 0;
+  overflow-x: hidden;
 }
 
 .page h1 {
@@ -242,6 +243,9 @@ body.nav-menu-open {
 .doc-content {
   margin-top: 20px;
   line-height: 1.65;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: hidden;
 }
 
 .doc-content hr {
@@ -264,6 +268,46 @@ body.nav-menu-open {
 
 .doc-content li + li {
   margin-top: 4px;
+}
+
+.doc-table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+  margin: 0 0 16px;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+}
+
+.doc-content table {
+  width: max-content;
+  min-width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 14px;
+  color: #334155;
+}
+
+.doc-content th,
+.doc-content td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #e2e8f0;
+  text-align: left;
+  vertical-align: top;
+}
+
+.doc-content tr:last-child td,
+.doc-content tr:last-child th {
+  border-bottom: 0;
+}
+
+.doc-content th {
+  background: #f8fafc;
+  font-weight: 600;
+}
+
+.doc-content td {
+  min-width: 8rem;
 }
 
 .doc-error {
