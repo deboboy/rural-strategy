@@ -34,7 +34,7 @@ The first offer should be framed as:
 The previous two pilots solve different parts of the same access problem:
 
 - **Cascaded Care / Chelan-Douglas:** rural specialty access, especially retinal screening, CHW training, and low-bandwidth telemedicine.
-- **Healthy Workplaces East Washington:** employer-funded mobile cardiometabolic screening and vaccination.
+- **Healthy Workplaces Eastern Washington:** employer-funded mobile cardiometabolic screening and vaccination.
 - **Telehealth layer:** connects the front-door screening event to ongoing care, follow-up, prescriptions, labs, behavioral health, and specialist referrals.
 
 Without telehealth, the model risks becoming episodic: workers get screened, some receive abnormal findings, but follow-up still depends on them finding transportation, time, insurance navigation, and a clinician. The telehealth operator closes that loop.

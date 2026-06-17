@@ -1,4 +1,4 @@
-# Pilot Program: Healthy Workplaces East Washington
+# Pilot Program: Healthy Workplaces Eastern Washington
 Mobile Cardiometabolic Screening + Vaccination Initiative
 
 ## Purpose:
