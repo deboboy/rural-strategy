@@ -20,6 +20,11 @@ copyFileSync(
   join(root, 'docs/progressive-eastern-wa-employers.md'),
   join(dist, 'content/progressive-eastern-wa-employers.md')
 );
+copyFileSync(join(root, 'employer-payer-pilot.html'), join(dist, 'employer-payer-pilot.html'));
+copyFileSync(
+  join(root, 'docs/employer-payer-pilot.md'),
+  join(dist, 'content/employer-payer-pilot.md')
+);
 copyFileSync(join(root, 'login.html'), join(dist, 'login.html'));
 copyFileSync(join(root, 'wa-rural-health-clinics-mapbox.png'), join(dist, 'wa-rural-health-clinics-mapbox.png'));
 

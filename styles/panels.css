@@ -3,6 +3,7 @@
   inset: 0;
   z-index: 40;
   pointer-events: none;
+  overflow: hidden;
 }
 
 .notes-panel-root.is-open {
@@ -28,6 +29,9 @@
   top: 0;
   bottom: 0;
   width: min(100%, 420px);
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: hidden;
   background: #fff;
   box-shadow: -8px 0 32px rgba(15, 23, 42, 0.12);
   display: flex;
@@ -46,8 +50,9 @@
   align-items: center;
   justify-content: space-between;
   gap: 8px;
-  padding: 14px 16px;
+  padding: 14px max(16px, env(safe-area-inset-right)) 14px max(16px, env(safe-area-inset-left));
   border-bottom: 1px solid #e2e8f0;
+  min-width: 0;
 }
 
 .notes-panel-header h2 {
@@ -73,8 +78,12 @@
 
 .notes-panel-body {
   flex: 1;
-  overflow: auto;
-  padding: 16px;
+  min-width: 0;
+  min-height: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 16px max(16px, env(safe-area-inset-right)) 16px max(16px, env(safe-area-inset-left));
   display: grid;
   gap: 16px;
   align-content: start;
@@ -83,17 +92,21 @@
 .notes-compose {
   display: grid;
   gap: 8px;
+  min-width: 0;
 }
 
 .notes-compose textarea,
 .note-edit-form textarea,
 .comment-form textarea {
   width: 100%;
+  max-width: 100%;
+  min-width: 0;
   min-height: 88px;
   border: 1px solid #cbd5e1;
   border-radius: 10px;
   padding: 10px 12px;
   font: inherit;
+  font-size: 16px;
   resize: vertical;
 }
 
@@ -131,6 +144,11 @@
   font-size: 14px;
 }
 
+[data-notes-list] {
+  min-width: 0;
+  max-width: 100%;
+}
+
 .notes-error {
   color: #b91c1c;
 }
@@ -141,6 +159,8 @@
   padding: 12px;
   display: grid;
   gap: 10px;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .note-card-meta {
@@ -175,6 +195,12 @@
   padding-left: 1.2rem;
 }
 
+.note-card-body pre,
+.note-card-body code {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 .note-card-actions {
   display: flex;
   flex-wrap: wrap;
@@ -186,6 +212,15 @@
   padding-top: 10px;
   display: grid;
   gap: 10px;
+  min-width: 0;
+}
+
+.note-edit-form,
+.comment-form {
+  display: grid;
+  gap: 8px;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .note-comments h3 {
@@ -213,18 +248,14 @@
   overflow-wrap: anywhere;
 }
 
-.comment-form {
-  display: grid;
-  gap: 8px;
-}
-
 @media (max-width: 639px) {
   .notes-panel {
     right: 0;
     left: 0;
     top: auto;
-    width: 100%;
-    max-height: min(85vh, 720px);
+    width: auto;
+    max-width: none;
+    max-height: min(85dvh, 720px);
     border-radius: 16px 16px 0 0;
     transform: translateY(100%);
   }
@@ -234,11 +265,19 @@
   }
 }
 
+html.panel-sheet-open,
+body.panel-sheet-open {
+  overflow: hidden;
+  max-width: 100%;
+  overscroll-behavior-x: none;
+}
+
 .chat-panel-root {
   position: fixed;
   inset: 0;
   z-index: 45;
   pointer-events: none;
+  overflow: hidden;
 }
 
 .chat-panel-root.is-open {
@@ -264,6 +303,9 @@
   top: 0;
   bottom: 0;
   width: min(100%, 460px);
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: hidden;
   background: #fff;
   box-shadow: -8px 0 32px rgba(15, 23, 42, 0.12);
   display: flex;
@@ -282,8 +324,9 @@
   align-items: center;
   justify-content: space-between;
   gap: 8px;
-  padding: 14px 16px;
+  padding: 14px max(16px, env(safe-area-inset-right)) 14px max(16px, env(safe-area-inset-left));
   border-bottom: 1px solid #e2e8f0;
+  min-width: 0;
 }
 
 .chat-panel-header h2 {
@@ -310,10 +353,12 @@
 .chat-panel-body {
   flex: 1;
   min-height: 0;
+  min-width: 0;
+  overflow-x: hidden;
   display: grid;
   grid-template-rows: auto 1fr auto auto;
   gap: 12px;
-  padding: 16px;
+  padding: 16px max(16px, env(safe-area-inset-right)) 16px max(16px, env(safe-area-inset-left));
 }
 
 .chat-conversations {
@@ -386,15 +431,19 @@
 .chat-compose {
   display: grid;
   gap: 8px;
+  min-width: 0;
 }
 
 .chat-compose textarea {
   width: 100%;
+  max-width: 100%;
+  min-width: 0;
   min-height: 72px;
   border: 1px solid #cbd5e1;
   border-radius: 10px;
   padding: 10px 12px;
   font: inherit;
+  font-size: 16px;
   resize: vertical;
 }
 
@@ -433,8 +482,9 @@
     right: 0;
     left: 0;
     top: auto;
-    width: 100%;
-    max-height: min(88vh, 760px);
+    width: auto;
+    max-width: none;
+    max-height: min(88dvh, 760px);
     border-radius: 16px 16px 0 0;
     transform: translateY(100%);
   }

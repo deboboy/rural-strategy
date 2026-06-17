@@ -240,7 +240,8 @@ async function loadNotes(root) {
 function setPanelOpen(root, toggle, isOpen) {
   root.classList.toggle('is-open', isOpen);
   toggle.setAttribute('aria-expanded', String(isOpen));
-  document.body.style.overflow = isOpen ? 'hidden' : '';
+  document.documentElement.classList.toggle('panel-sheet-open', isOpen);
+  document.body.classList.toggle('panel-sheet-open', isOpen);
   if (isOpen) {
     loadNotes(root);
   }
