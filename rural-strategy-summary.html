@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>Healthy Workplaces Eastern Washington Pilot — Washington Rural Strategy</title>
+  <title>Washington Rural Strategy — Overview</title>
   <link rel="stylesheet" href="/styles/site.css" />
   <link rel="stylesheet" href="/styles/panels.css" />
 </head>
@@ -19,7 +19,7 @@
         <span class="nav-user" data-user-label></span>
         <div class="site-nav-links">
           <a href="/">Home</a>
-          <a href="/rural-strategy-summary.html">Strategy</a>
+          <a href="/rural-strategy-summary.html" aria-current="page">Strategy</a>
           <a href="/rural-health-clinics-wa-map.html">Map</a>
           <a href="/farmworker-research.html">Research</a>
           <a href="/about.html">About</a>
@@ -35,14 +35,15 @@
 
   <main class="page page-wide">
     <article class="page-card">
-      <h1>Healthy Workplaces Eastern Washington</h1>
+      <h1>Washington Rural Strategy</h1>
       <p class="lede">
-        Pilot program design for employer co-funded, workplace-based cardiometabolic screening and
-        vaccination—free to workers, on-site at participating Eastern Washington employers.
+        Executive overview of the rural health access model—mapping farmworker communities,
+        progressive employer partnerships, workplace screening, virtual care follow-up, and
+        longer-term systemic funding.
       </p>
 
       <p class="note">
-        <a href="https://github.com/deboboy/rural-strategy/blob/main/docs/employer-payer-pilot.md">View source on GitHub (Markdown)</a>
+        <a href="https://github.com/deboboy/rural-strategy/blob/main/docs/rural-strategy-summary.md">View source on GitHub (Markdown)</a>
       </p>
 
       <div class="doc-content" data-doc-content aria-busy="true">
@@ -62,7 +63,7 @@
     (async function renderDoc() {
       const container = document.querySelector('[data-doc-content]');
       try {
-        await loadMarkdownDoc(container, '/content/employer-payer-pilot.md');
+        await loadMarkdownDoc(container, '/content/rural-strategy-summary.md');
       } catch (error) {
         container.innerHTML = '<p class="doc-error">Could not load document. Try rebuilding the site.</p>';
       }

@@ -30,6 +30,11 @@ copyFileSync(
   join(root, 'docs/wa-rural-telehealth-operator.md'),
   join(dist, 'content/wa-rural-telehealth-operator.md')
 );
+copyFileSync(join(root, 'rural-strategy-summary.html'), join(dist, 'rural-strategy-summary.html'));
+copyFileSync(
+  join(root, 'docs/rural-strategy-summary.md'),
+  join(dist, 'content/rural-strategy-summary.md')
+);
 copyFileSync(join(root, 'login.html'), join(dist, 'login.html'));
 copyFileSync(join(root, 'wa-rural-health-clinics-mapbox.png'), join(dist, 'wa-rural-health-clinics-mapbox.png'));
 
