@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>Washington Rural Strategy</title>
+  <title>WA Rural Health Transformation Budget — Washington Rural Strategy</title>
   <link rel="stylesheet" href="/styles/site.css" />
   <link rel="stylesheet" href="/styles/panels.css" />
 </head>
@@ -18,7 +18,7 @@
       <div class="site-nav-panel">
         <span class="nav-user" data-user-label></span>
         <div class="site-nav-links">
-          <a href="/" aria-current="page">Home</a>
+          <a href="/">Home</a>
           <a href="/rural-strategy-summary.html">Strategy</a>
           <a href="/rural-health-clinics-wa-map.html">Map</a>
           <a href="/farmworker-research.html">Research</a>
@@ -33,33 +33,40 @@
     </nav>
   </header>
 
-  <main class="page">
+  <main class="page page-wide">
     <article class="page-card">
-      <h1>Washington Rural Strategy</h1>
+      <h1>Washington Rural Health Transformation budget</h1>
       <p class="lede">
-        Mapping and research tools for Washington rural health clinic outreach strategy.
+        Federal RHT program budget and recipient breakdown for Washington—$906M over five years,
+        six initiative buckets, funding flow mechanisms, and key subcontractors.
       </p>
-      <ul class="link-list">
-        <li><a href="/rural-strategy-summary.html">Washington Rural Strategy overview</a></li>
-        <li><a href="/rural-health-clinics-wa-map.html">Interactive rural health clinics map</a></li>
-        <li><a href="/wa-rural-health-clinics-mapbox.png">Static overview map (PNG)</a></li>
-        <li><a href="/farmworker-research.html">Farmworker social graph research</a></li>
-        <li><a href="/employer-payer-rebuttal.html">Employer-payer healthcare rebuttal</a></li>
-        <li><a href="/progressive-eastern-wa-employers.html">Progressive Eastern WA employers</a></li>
-        <li><a href="/employer-payer-pilot.html">Healthy Workplaces Eastern Washington pilot</a></li>
-        <li><a href="/wa-rural-telehealth-operator.html">Washington rural virtual care operator</a></li>
-        <li><a href="/wa-rural-transformation-budget.html">WA Rural Health Transformation budget</a></li>
-        <li><a href="/about.html">About this project</a></li>
-        <li><a href="https://github.com/deboboy/rural-strategy">Source on GitHub</a></li>
-      </ul>
+
+      <p class="note">
+        <a href="https://github.com/deboboy/rural-strategy/blob/main/docs/wa-rural-transformation-budget-recipient-breakdown.md">View source on GitHub (Markdown)</a>
+      </p>
+
+      <div class="doc-content" data-doc-content aria-busy="true">
+        <p>Loading document…</p>
+      </div>
     </article>
   </main>
   <script src="https://cdn.jsdelivr.net/npm/marked@15.0.7/marked.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.4/dist/purify.min.js"></script>
   <script src="/js/map-context.js"></script>
   <script src="/js/site-nav.js"></script>
+  <script src="/js/doc-content.js"></script>
   <script src="/js/auth.js"></script>
   <script src="/js/notes-panel.js"></script>
   <script src="/js/chat-panel.js"></script>
+  <script>
+    (async function renderDoc() {
+      const container = document.querySelector('[data-doc-content]');
+      try {
+        await loadMarkdownDoc(container, '/content/wa-rural-transformation-budget-recipient-breakdown.md');
+      } catch (error) {
+        container.innerHTML = '<p class="doc-error">Could not load document. Try rebuilding the site.</p>';
+      }
+    })();
+  </script>
 </body>
 </html>

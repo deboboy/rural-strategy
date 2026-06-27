@@ -35,6 +35,11 @@ copyFileSync(
   join(root, 'docs/rural-strategy-summary.md'),
   join(dist, 'content/rural-strategy-summary.md')
 );
+copyFileSync(join(root, 'wa-rural-transformation-budget.html'), join(dist, 'wa-rural-transformation-budget.html'));
+copyFileSync(
+  join(root, 'docs/wa-rural-transformation-budget-recipient-breakdown.md'),
+  join(dist, 'content/wa-rural-transformation-budget-recipient-breakdown.md')
+);
 copyFileSync(join(root, 'login.html'), join(dist, 'login.html'));
 copyFileSync(join(root, 'wa-rural-health-clinics-mapbox.png'), join(dist, 'wa-rural-health-clinics-mapbox.png'));
 
