@@ -1,0 +1,34 @@
+name: research-sync
+
+on:
+  schedule:
+    - cron: "0 14 * * 1" # Mondays 14:00 UTC — weekly refresh
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Refresh findings.json from research markdown
+        run: python3 scripts/research_sync.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "research-sync bot"
+          git config user.email "frank@lastmyle.co"
+          git add web/data/findings.json
+          if git diff --cached --quiet; then
+            echo "No changes to findings"
+          else
+            git commit -m "Weekly research refresh: findings.json"
+            git push
+          fi
