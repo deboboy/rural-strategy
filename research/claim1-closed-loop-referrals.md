@@ -14,6 +14,16 @@ sources:
       (CPT 98160–98162 / G0019, G0022, G0023, G0024, G0322), ~$80.56 for G0019 (60 min)
       and ~$50.26 for G0022 national average. CHWs may work for a community-based
       organization, so a nonprofit CHW tier can be Medicare-billable nationally.
+  - title: "Calendar Year (CY) 2026 Medicare Physician Fee Schedule Final Rule Fact Sheet (CMS-1832-F)"
+    url: https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2026-medicare-physician-fee-schedule-final-rule-cms-1832-f
+    note: >
+      Finalized Oct 31, 2025, effective Jan 1, 2026: expands CHI — Marriage and Family
+      Therapists and Mental Health Counselors join CSWs/RNs as qualifying "certified or
+      trained auxiliary personnel" for G0019; behavioral health visits (psychiatric
+      diagnostic evaluation 90791 and HBAI codes) may now serve as the initiating visit;
+      the G0019 qualifying-service definition broadened from an unmet SDoH need to any
+      unmet upstream driver of the problem addressed. Detail per ICD10monitor analysis
+      (https://medlearn.com/icd10monitor/2026-expansion-for-community-health-integration-coding-g0019/).
   - title: "State Community Health Worker Policies: 2024–2025 Trends (NASHP)"
     url: https://nashp.org/state-community-health-worker-policies-2024-2025-policy-trends/
     note: >
@@ -107,7 +117,7 @@ CHW interventions have strong national evidence, including randomized trials (IM
 Named programs practice close variants: Pathways Community HUB / PCHI (CHW "pathways" tracked to completion, nationally certified, used in many communities), IMPaCT (evidence-based CHW program), and closed-loop referral platforms (Unite Us, findhelp, NowPow) used by health systems nationwide. However, no widely adopted national program combines CHW identification, nurse screening/onboarding, telehealth provider treatment, and mandatory loop closure back to the CHW as a single integrated, tracked workflow — practice is fragmented across these actors.
 
 ### (c) Feasible under national policy? — PARTIALLY
-Medicare now reimburses CHW-delivered Community Health Integration services (CPT 98160–98162 / G0019, G0022, G0023, G0024, G0322 as of CY2024 PFS), and CHWs may be employed by a community-based organization under general supervision — so the model's billing skeleton exists nationally. But Medicaid CHW coverage is state-by-state (certification, scope, and payment pathways vary widely per NASHP/KFF), and the $50B CMS Rural Health Transformation Program (awards to all 50 states from 2026, ~$200M average first-year) provides grant, not sustained fee-for-service, funding. Feasibility is real but uneven by state and dependent on braided funding.
+Medicare now reimburses CHW-delivered Community Health Integration services (CPT 98160–98162 / G0019, G0022, G0023, G0024, G0322 as of CY2024 PFS), and CHWs may be employed by a community-based organization under general supervision — so the model's billing skeleton exists nationally. The CY2026 PFS final rule (effective Jan 1, 2026) further widened the CHI pathway: MFTs and MHCs can serve as auxiliary personnel, behavioral-health visits can initiate CHI, and the G0019 qualifying-service definition now covers any unmet upstream driver — making it easier for safety-net and behavioral-health practices in rural areas to stand up the CHW tier. But Medicaid CHW coverage is state-by-state (certification, scope, and payment pathways vary widely per NASHP/KFF), and the $50B CMS Rural Health Transformation Program (awards to all 50 states from 2026, ~$200M average first-year) provides grant, not sustained fee-for-service, funding. Feasibility is real but uneven by state and dependent on braided funding.
 
 ### (d) Where is the gap? — Mi Salud's integrated loop is the gap
 What is NOT done nationally: (1) systematic tracking of every referral to completion — referral leakage remains high nationally (benchmarks show a large share of referrals never complete); (2) a single accountable workflow spanning CHW identification → nurse screening → telehealth provider → closed-loop return to the CHW — most closed-loop platforms stop at social-service referrals, and most HUB models stop at CHW-to-resource linkage; (3) integrated telehealth provider tier with rural vulnerable-population targeting funded through one coordinated model. This integration is Mi Salud's differentiator; it is nationally applicable in concept but not currently practiced as a unified model nationally.
