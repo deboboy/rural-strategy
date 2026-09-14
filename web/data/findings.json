@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T15:37:48.215989+00:00",
+  "generated": "2026-09-14T15:07:57.376054+00:00",
   "project": "Rural Healthcare Transformation \u2014 National Scope",
   "claims": [
     {
@@ -126,7 +126,7 @@
         },
         {
           "label": "(c) Do policies/mandates support it?",
-          "text": "[SUPPORTED] Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice.\n\nStrongest sources:\n1. Translation and Interpretation Services | Medicaid \u2014 https://www.medicaid.gov/medicaid/financial-management/medicaid-administrative-claiming/translation-and-interpretation-services\n2. CLAS Standards - Think Cultural Health \u2014 https://thinkculturalhealth.hhs.gov/clas/standards\n3. Enrollment and Access Barriers for People with Limited English Proficiency \u2014 https://www.macpac.gov/wp-content/uploads/2024/07/Enrollment-and-Access-Barriers-for-People-with-Limited-English-Proficiency.pdf"
+          "text": "[SUPPORTED] Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. HHS also says many Medicare telehealth flexibilities run through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice.\n\nStrongest sources:\n1. Translation and Interpretation Services | Medicaid \u2014 https://www.medicaid.gov/medicaid/financial-management/medicaid-administrative-claiming/translation-and-interpretation-services\n2. CLAS Standards - Think Cultural Health \u2014 https://thinkculturalhealth.hhs.gov/clas/standards\n3. Enrollment and Access Barriers for People with Limited English Proficiency \u2014 https://www.macpac.gov/wp-content/uploads/2024/07/Enrollment-and-Access-Barriers-for-People-with-Limited-English-Proficiency.pdf\n4. Telehealth policy updates | Telehealth.HHS.gov \u2014 https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates"
         },
         {
           "label": "(d) What is the national gap?",
@@ -152,6 +152,11 @@
         {
           "title": "TELEHEALTH FOR PROVIDERS: WHAT YOU NEED TO KNOW\" url: \"https://www.cms.gov/files/document/telehealth-toolkit-providers.pdf\" note: \"CMS telehealth guidance explicitly discusses non-English-speaking patients and rural populations, and instructs providers to plan workflows that support interpreter use and access barriers.",
           "url": "\"https://www.cms.gov/files/document/telehealth-toolkit-providers.pdf\"",
+          "note": ""
+        },
+        {
+          "title": "Telehealth policy updates | Telehealth.HHS.gov\" url: \"https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates\" note: \"HHS says many Medicare telehealth flexibilities are extended through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation.",
+          "url": "\"https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates\"",
           "note": ""
         },
         {

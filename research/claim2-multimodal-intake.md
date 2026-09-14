@@ -15,6 +15,9 @@ sources:
   - title: "TELEHEALTH FOR PROVIDERS: WHAT YOU NEED TO KNOW"
     url: "https://www.cms.gov/files/document/telehealth-toolkit-providers.pdf"
     note: "CMS telehealth guidance explicitly discusses non-English-speaking patients and rural populations, and instructs providers to plan workflows that support interpreter use and access barriers."
+  - title: "Telehealth policy updates | Telehealth.HHS.gov"
+    url: "https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates"
+    note: "HHS says many Medicare telehealth flexibilities are extended through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation."
   - title: "Healthcare Access in Rural Communities Overview - Rural Health Information Hub"
     url: "https://www.ruralhealthinfo.org/topics/healthcare-access"
     note: "RHIH states rural residents face barriers including transportation, workforce shortages, and confidence communicating with providers, especially when they are not fluent in English or have limited health literacy."
@@ -69,12 +72,13 @@ Strongest sources:
 ## (c) Do policies/mandates support it?
 **Verdict: SUPPORTED**
 
-Rationale: Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice.
+Rationale: Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. HHS also says many Medicare telehealth flexibilities run through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice.
 
 Strongest sources:
 1. Translation and Interpretation Services | Medicaid — https://www.medicaid.gov/medicaid/financial-management/medicaid-administrative-claiming/translation-and-interpretation-services
 2. CLAS Standards - Think Cultural Health — https://thinkculturalhealth.hhs.gov/clas/standards
 3. Enrollment and Access Barriers for People with Limited English Proficiency — https://www.macpac.gov/wp-content/uploads/2024/07/Enrollment-and-Access-Barriers-for-People-with-Limited-English-Proficiency.pdf
+4. Telehealth policy updates | Telehealth.HHS.gov — https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates
 
 ## (d) What is the national gap?
 **Verdict: SUPPORTED**
