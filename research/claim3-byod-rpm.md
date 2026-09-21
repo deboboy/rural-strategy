@@ -27,6 +27,18 @@ sources:
       requires one real-time interaction), lowering the practical billing floor for RPM
       starts; existing RPM/RTM code set unchanged. Code detail per HumHealth analysis
       (https://www.humhealth.com/blog/new-remote-patient-monitoring-cpt-codes-2026/).
+  - title: "Calendar Year (CY) 2027 Medicare Physician Fee Schedule Proposed Rule Fact Sheet (CMS-1848-P)"
+    url: https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-proposed-rule
+    note: >-
+      Proposed Jul 14, 2026 (comment period closed ~Sep 14, 2026; final rule expected
+      ~Nov 2026, effective Jan 1, 2027): CMS proposes tightening RPM/RTM — a separately
+      reportable initiating visit would be required to start RPM or RTM, payment would
+      be allowed only when services are delivered by clinical staff employed by the
+      billing practice (not contractors), RTM would be limited to established patients,
+      and CMS seeks comment on bundling the 17 existing RPM/RTM CPT codes into 4 new
+      G-codes and on revaluing device-supply inputs. Proposals, not final policy; the
+      employed-staff requirement is the main watch item for community-based/CHW-staffed
+      monitoring models.
   - title: "Remote Patient Monitoring | CMS"
     url: "https://www.cms.gov/medicare/coverage/telehealth/remote-patient-monitoring"
     note: "CMS says Medicare broadly covers RPM using connected medical devices that automatically transmit data, with separate setup, device-supply, and management components. CMS also says payment does not depend on the exact type of device used."
@@ -80,7 +92,7 @@ BYOD RPM is nationally feasible and increasingly practical, but it is not unifor
 ## (b) National RPM reimbursement landscape
 **Verdict: SUPPORTED**
 
-**Rationale:** CMS clearly covers remote patient monitoring in Medicare and breaks it into setup, device supply, and treatment-management components. CMS also states the same payment logic applies regardless of the specific device type, and the agency’s MLN guidance ties RPM/RTM to secure electronic transmission, consent, and day-count rules. RTM is also a standing Medicare code family, so nationally there is a reimbursement pathway for both physiologic RPM and therapeutic monitoring. The CY2026 PFS final rule adds short-duration codes 99445 and 99470 (effective Jan 1, 2026), so a rural practice can now bill for monitoring periods as short as 2 days and management under 20 minutes — directly easing the ramp-up burden for low-volume rural RPM programs.
+**Rationale:** CMS clearly covers remote patient monitoring in Medicare and breaks it into setup, device supply, and treatment-management components. CMS also states the same payment logic applies regardless of the specific device type, and the agency’s MLN guidance ties RPM/RTM to secure electronic transmission, consent, and day-count rules. RTM is also a standing Medicare code family, so nationally there is a reimbursement pathway for both physiologic RPM and therapeutic monitoring. The CY2026 PFS final rule adds short-duration codes 99445 and 99470 (effective Jan 1, 2026), so a rural practice can now bill for monitoring periods as short as 2 days and management under 20 minutes — directly easing the ramp-up burden for low-volume rural RPM programs. The CY2027 PFS proposed rule (CMS-1848-P, Jul 14, 2026) would tighten delivery rules — a required initiating visit, payment only for practice-employed (not contracted) clinical staff, and a floated re-bundling of the 17 RPM/RTM codes into 4 G-codes — but these are proposals (comment closed ~Sep 14, 2026; final rule expected ~Nov 2026), and the reimbursement pathway itself remains intact; the employed-staff proposal is the key watch item for community-based delivery models.
 
 **3 strongest sources:**
 1. CMS Remote Patient Monitoring page — Medicare broadly covers RPM and defines the core components
