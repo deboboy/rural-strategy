@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T15:11:09.827728+00:00",
+  "generated": "2026-11-02T15:02:15.414404+00:00",
   "project": "Rural Healthcare Transformation \u2014 National Scope",
   "claims": [
     {
@@ -14,7 +14,7 @@
         },
         {
           "label": "(b) Already practiced nationally?",
-          "text": "[PARTIALLY] Named programs practice close variants: Pathways Community HUB / PCHI (CHW \"pathways\" tracked to completion, nationally certified, used in many communities), IMPaCT (evidence-based CHW program), and closed-loop referral platforms (Unite Us, findhelp, NowPow) used by health systems nationwide. However, no widely adopted national program combines CHW identification, nurse screening/onboarding, telehealth provider treatment, and mandatory loop closure back to the CHW as a single integrated, tracked workflow \u2014 practice is fragmented across these actors."
+          "text": "[PARTIALLY] Named programs practice close variants: Pathways Community HUB / PCHI (CHW \"pathways\" tracked to completion, nationally certified, used in many communities), IMPaCT (evidence-based CHW program), and closed-loop referral platforms (Unite Us, findhelp, NowPow) used by health systems nationwide \u2014 e.g., Sarasota Memorial's Unite Us deployment (Oct 2026) tracks referrals to confirmed completion and reports reduced readmissions. However, no widely adopted national program combines CHW identification, nurse screening/onboarding, telehealth provider treatment, and mandatory loop closure back to the CHW as a single integrated, tracked workflow \u2014 practice is fragmented across these actors."
         },
         {
           "label": "(c) Feasible under national policy?",
@@ -34,6 +34,11 @@
         {
           "title": "Calendar Year (CY) 2026 Medicare Physician Fee Schedule Final Rule Fact Sheet (CMS-1832-F)\" url: https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2026-medicare-physician-fee-schedule-final-rule-cms-1832-f note: > Finalized Oct 31, 2025, effective Jan 1, 2026: expands CHI \u2014 Marriage and Family Therapists and Mental Health Counselors join CSWs/RNs as qualifying \"certified or trained auxiliary personnel\" for G0019; behavioral health visits (psychiatric diagnostic evaluation 90791 and HBAI codes) may now serve as the initiating visit; the G0019 qualifying-service definition broadened from an unmet SDoH need to any unmet upstream driver of the problem addressed. Detail per ICD10monitor analysis (https://medlearn.com/icd10monitor/2026-expansion-for-community-health-integration-coding-g0019/).",
           "url": "https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2026-medicare-physician-fee-schedule-final-rule-cms-1832-f",
+          "note": ""
+        },
+        {
+          "title": "Sarasota Memorial Demonstrates How Closed-Loop Referrals with Unite Us Reduce Hospital Readmissions (South Florida Hospital News, Oct 21, 2026)\" url: https://southfloridahospitalnews.com/2026/10/21/sarasota-memorial-demonstrates-how-closed-loop-referrals-with-unite-us-reduce-hospital-readmissions-across-patient-populations/ note: >- Named health-system deployment (Oct 2026): Sarasota Memorial uses Unite Us' closed-loop referral platform to identify non-medical needs during inpatient stays, coordinate referrals to community organizations, and track outcomes to confirm patients received help \u2014 with reported reductions in hospital readmissions. Real-world, named-outcome evidence that loop-closure tracking tied to readmission outcomes is now in production at US health systems.",
+          "url": "https://southfloridahospitalnews.com/2026/10/21/sarasota-memorial-demonstrates-how-closed-loop-referrals-with-unite-us-reduce-hospital-readmissions-across-patient-populations/",
           "note": ""
         },
         {
@@ -126,7 +131,7 @@
         },
         {
           "label": "(c) Do policies/mandates support it?",
-          "text": "[SUPPORTED] Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. HHS also says many Medicare telehealth flexibilities run through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice.\n\nStrongest sources:\n1. Translation and Interpretation Services | Medicaid \u2014 https://www.medicaid.gov/medicaid/financial-management/medicaid-administrative-claiming/translation-and-interpretation-services\n2. CLAS Standards - Think Cultural Health \u2014 https://thinkculturalhealth.hhs.gov/clas/standards\n3. Enrollment and Access Barriers for People with Limited English Proficiency \u2014 https://www.macpac.gov/wp-content/uploads/2024/07/Enrollment-and-Access-Barriers-for-People-with-Limited-English-Proficiency.pdf\n4. Telehealth policy updates | Telehealth.HHS.gov \u2014 https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates"
+          "text": "[SUPPORTED] Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. HHS also says many Medicare telehealth flexibilities run through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation. The SPEAK Act (signed February 3, 2026, in the Consolidated Appropriations Act, 2026) adds a new statutory layer: HHS must publish telehealth language-access guidance by February 2027, covering interpreter integration across the telehealth visit \u2014 the first federal statute squarely aimed at language access in telehealth. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice.\n\nStrongest sources:\n1. Translation and Interpretation Services | Medicaid \u2014 https://www.medicaid.gov/medicaid/financial-management/medicaid-administrative-claiming/translation-and-interpretation-services\n2. CLAS Standards - Think Cultural Health \u2014 https://thinkculturalhealth.hhs.gov/clas/standards\n3. Enrollment and Access Barriers for People with Limited English Proficiency \u2014 https://www.macpac.gov/wp-content/uploads/2024/07/Enrollment-and-Access-Barriers-for-People-with-Limited-English-Proficiency.pdf\n4. Telehealth policy updates | Telehealth.HHS.gov \u2014 https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates"
         },
         {
           "label": "(d) What is the national gap?",
@@ -157,6 +162,11 @@
         {
           "title": "Telehealth policy updates | Telehealth.HHS.gov\" url: \"https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates\" note: \"HHS says many Medicare telehealth flexibilities are extended through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation.",
           "url": "\"https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates\"",
+          "note": ""
+        },
+        {
+          "title": "SPEAK Act telehealth language-access guidance requirement (Consolidated Appropriations Act, 2026; analysis: Big Language / Martti)\" url: https://biglanguage.com/blog/2026/08/25/two-bills-one-direction-what-the-speak-act-and-the-language-access-for-all-act-mean-for-language-access-programs/ note: >- The SPEAK Act, signed February 3, 2026 as part of the Consolidated Appropriations Act, 2026, directs HHS to establish a task force and publish telehealth language- access guidance (interpreter integration before/during/after visits) by February 2027. First federal statute squarely addressing telehealth language access \u2014 raises the policy floor for language-concordant virtual intake nationally.",
+          "url": "https://biglanguage.com/blog/2026/08/25/two-bills-one-direction-what-the-speak-act-and-the-language-access-for-all-act-mean-for-language-access-programs/",
           "note": ""
         },
         {

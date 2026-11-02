@@ -24,6 +24,15 @@ sources:
       the G0019 qualifying-service definition broadened from an unmet SDoH need to any
       unmet upstream driver of the problem addressed. Detail per ICD10monitor analysis
       (https://medlearn.com/icd10monitor/2026-expansion-for-community-health-integration-coding-g0019/).
+  - title: "Sarasota Memorial Demonstrates How Closed-Loop Referrals with Unite Us Reduce Hospital Readmissions (South Florida Hospital News, Oct 21, 2026)"
+    url: https://southfloridahospitalnews.com/2026/10/21/sarasota-memorial-demonstrates-how-closed-loop-referrals-with-unite-us-reduce-hospital-readmissions-across-patient-populations/
+    note: >-
+      Named health-system deployment (Oct 2026): Sarasota Memorial uses Unite Us'
+      closed-loop referral platform to identify non-medical needs during inpatient
+      stays, coordinate referrals to community organizations, and track outcomes to
+      confirm patients received help — with reported reductions in hospital
+      readmissions. Real-world, named-outcome evidence that loop-closure tracking
+      tied to readmission outcomes is now in production at US health systems.
   - title: "State Community Health Worker Policies: 2024–2025 Trends (NASHP)"
     url: https://nashp.org/state-community-health-worker-policies-2024-2025-policy-trends/
     note: >
@@ -114,7 +123,7 @@ sources:
 CHW interventions have strong national evidence, including randomized trials (IMPaCT: ~$2,500 saved/patient in year 1, 66% of hospital days vs matched controls) and AHRQ's documentation of pay-for-performance closed-loop models. The closed-loop referral concept itself is an established quality-improvement framework (AHRQ care-coordination literature; peer-reviewed work on closed-loop social-care referrals). Evidence specifically combining all three tiers (CHW → nurse → telehealth provider with loop closure) in US rural settings is thinner but the components are each well-evidenced.
 
 ### (b) Already practiced nationally? — PARTIALLY
-Named programs practice close variants: Pathways Community HUB / PCHI (CHW "pathways" tracked to completion, nationally certified, used in many communities), IMPaCT (evidence-based CHW program), and closed-loop referral platforms (Unite Us, findhelp, NowPow) used by health systems nationwide. However, no widely adopted national program combines CHW identification, nurse screening/onboarding, telehealth provider treatment, and mandatory loop closure back to the CHW as a single integrated, tracked workflow — practice is fragmented across these actors.
+Named programs practice close variants: Pathways Community HUB / PCHI (CHW "pathways" tracked to completion, nationally certified, used in many communities), IMPaCT (evidence-based CHW program), and closed-loop referral platforms (Unite Us, findhelp, NowPow) used by health systems nationwide — e.g., Sarasota Memorial's Unite Us deployment (Oct 2026) tracks referrals to confirmed completion and reports reduced readmissions. However, no widely adopted national program combines CHW identification, nurse screening/onboarding, telehealth provider treatment, and mandatory loop closure back to the CHW as a single integrated, tracked workflow — practice is fragmented across these actors.
 
 ### (c) Feasible under national policy? — PARTIALLY
 Medicare now reimburses CHW-delivered Community Health Integration services (CPT 98160–98162 / G0019, G0022, G0023, G0024, G0322 as of CY2024 PFS), and CHWs may be employed by a community-based organization under general supervision — so the model's billing skeleton exists nationally. The CY2026 PFS final rule (effective Jan 1, 2026) further widened the CHI pathway: MFTs and MHCs can serve as auxiliary personnel, behavioral-health visits can initiate CHI, and the G0019 qualifying-service definition now covers any unmet upstream driver — making it easier for safety-net and behavioral-health practices in rural areas to stand up the CHW tier. But Medicaid CHW coverage is state-by-state (certification, scope, and payment pathways vary widely per NASHP/KFF), and the $50B CMS Rural Health Transformation Program (awards to all 50 states from 2026, ~$200M average first-year) provides grant, not sustained fee-for-service, funding. Feasibility is real but uneven by state and dependent on braided funding.

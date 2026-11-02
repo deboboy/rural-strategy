@@ -18,6 +18,14 @@ sources:
   - title: "Telehealth policy updates | Telehealth.HHS.gov"
     url: "https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates"
     note: "HHS says many Medicare telehealth flexibilities are extended through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation."
+  - title: "SPEAK Act telehealth language-access guidance requirement (Consolidated Appropriations Act, 2026; analysis: Big Language / Martti)"
+    url: https://biglanguage.com/blog/2026/08/25/two-bills-one-direction-what-the-speak-act-and-the-language-access-for-all-act-mean-for-language-access-programs/
+    note: >-
+      The SPEAK Act, signed February 3, 2026 as part of the Consolidated Appropriations
+      Act, 2026, directs HHS to establish a task force and publish telehealth language-
+      access guidance (interpreter integration before/during/after visits) by February
+      2027. First federal statute squarely addressing telehealth language access —
+      raises the policy floor for language-concordant virtual intake nationally.
   - title: "Healthcare Access in Rural Communities Overview - Rural Health Information Hub"
     url: "https://www.ruralhealthinfo.org/topics/healthcare-access"
     note: "RHIH states rural residents face barriers including transportation, workforce shortages, and confidence communicating with providers, especially when they are not fluent in English or have limited health literacy."
@@ -72,7 +80,7 @@ Strongest sources:
 ## (c) Do policies/mandates support it?
 **Verdict: SUPPORTED**
 
-Rationale: Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. HHS also says many Medicare telehealth flexibilities run through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice.
+Rationale: Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. HHS also says many Medicare telehealth flexibilities run through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation. The SPEAK Act (signed February 3, 2026, in the Consolidated Appropriations Act, 2026) adds a new statutory layer: HHS must publish telehealth language-access guidance by February 2027, covering interpreter integration across the telehealth visit — the first federal statute squarely aimed at language access in telehealth. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice.
 
 Strongest sources:
 1. Translation and Interpretation Services | Medicaid — https://www.medicaid.gov/medicaid/financial-management/medicaid-administrative-claiming/translation-and-interpretation-services
