@@ -115,6 +115,29 @@ sources:
       The 2024 Medicare CHI launch plus growing state Medicaid CHW pathways are
       expanding sustainability for CHW services nationally, but coverage design still
       differs by state.
+  - title: "Rural Health Transformation Program: Year 2 Awards (CMS Fact Sheet, Nov 9, 2026)"
+    url: https://www.cms.gov/newsroom/fact-sheets/rural-health-transformation-program-year-2-awards
+    note: >-
+      CMS announced $10B in Year 2 RHTP awards to all 50 states on Nov 9, 2026
+      (cumulative $20B of the $50B program; $10B/yr FY2026–FY2030; all funds
+      must be expended by Sept 30, 2032). Each state gets a $100M baseline plus
+      a workload portion weighted by rural population, plan content, state
+      policy actions, and implementation progress; the program's stated goals
+      explicitly name community health workers under workforce development and
+      "innovative care models." Washington's Year 2 award is $177.06M, down
+      from $181.26M in Year 1 (HHS release, Nov 9, 2026). Confirms RHTP remains
+      a live national financing vehicle for CHW-bearing care-coordination
+      models, now performance-informed and competitive year to year.
+  - title: "Findhelp Selected by Hawai'i Department of Corrections and Rehabilitation to Modernize Community Referrals (PR Newswire, Nov 6, 2026)"
+    url: https://www.prnewswire.com/news-releases/findhelp-selected-by-hawaii-department-of-corrections-and-rehabilitation-to-modernize-community-referrals-for-people-in-its-care-302931208.html
+    note: >-
+      A state government agency (not a health system) is deploying a statewide
+      closed-loop referral platform with explicit "closed-loop outcome
+      tracking" — following every referral from initiation to confirmed service
+      delivery — across 470+ registered community organizations and 600+
+      programs. Evidence that closed-loop referral infrastructure is being
+      adopted nationally beyond the health-system buyer set, strengthening the
+      component-level national-availability argument.
 ---
 
 ## Verdict per sub-question
@@ -123,12 +146,12 @@ sources:
 CHW interventions have strong national evidence, including randomized trials (IMPaCT: ~$2,500 saved/patient in year 1, 66% of hospital days vs matched controls) and AHRQ's documentation of pay-for-performance closed-loop models. The closed-loop referral concept itself is an established quality-improvement framework (AHRQ care-coordination literature; peer-reviewed work on closed-loop social-care referrals). Evidence specifically combining all three tiers (CHW → nurse → telehealth provider with loop closure) in US rural settings is thinner but the components are each well-evidenced.
 
 ### (b) Already practiced nationally? — PARTIALLY
-Named programs practice close variants: Pathways Community HUB / PCHI (CHW "pathways" tracked to completion, nationally certified, used in many communities), IMPaCT (evidence-based CHW program), and closed-loop referral platforms (Unite Us, findhelp, NowPow) used by health systems nationwide — e.g., Sarasota Memorial's Unite Us deployment (Oct 2026) tracks referrals to confirmed completion and reports reduced readmissions. However, no widely adopted national program combines CHW identification, nurse screening/onboarding, telehealth provider treatment, and mandatory loop closure back to the CHW as a single integrated, tracked workflow — practice is fragmented across these actors.
+Named programs practice close variants: Pathways Community HUB / PCHI (CHW "pathways" tracked to completion, nationally certified, used in many communities), IMPaCT (evidence-based CHW program), and closed-loop referral platforms (Unite Us, findhelp, NowPow) used by health systems nationwide — e.g., Sarasota Memorial's Unite Us deployment (Oct 2026) tracks referrals to confirmed completion and reports reduced readmissions; separately, Hawai'i's Department of Corrections and Rehabilitation adopted Findhelp's statewide closed-loop network (Nov 2026), spanning 470+ community organizations. However, no widely adopted national program combines CHW identification, nurse screening/onboarding, telehealth provider treatment, and mandatory loop closure back to the CHW as a single integrated, tracked workflow — practice is fragmented across these actors.
 
 ### (c) Feasible under national policy? — PARTIALLY
-Medicare now reimburses CHW-delivered Community Health Integration services (CPT 98160–98162 / G0019, G0022, G0023, G0024, G0322 as of CY2024 PFS), and CHWs may be employed by a community-based organization under general supervision — so the model's billing skeleton exists nationally. The CY2026 PFS final rule (effective Jan 1, 2026) further widened the CHI pathway: MFTs and MHCs can serve as auxiliary personnel, behavioral-health visits can initiate CHI, and the G0019 qualifying-service definition now covers any unmet upstream driver — making it easier for safety-net and behavioral-health practices in rural areas to stand up the CHW tier. But Medicaid CHW coverage is state-by-state (certification, scope, and payment pathways vary widely per NASHP/KFF), and the $50B CMS Rural Health Transformation Program (awards to all 50 states from 2026, ~$200M average first-year) provides grant, not sustained fee-for-service, funding. Feasibility is real but uneven by state and dependent on braided funding.
+Medicare now reimburses CHW-delivered Community Health Integration services (CPT 98160–98162 / G0019, G0022, G0023, G0024, G0322 as of CY2024 PFS), and CHWs may be employed by a community-based organization under general supervision — so the model's billing skeleton exists nationally. The CY2026 PFS final rule (effective Jan 1, 2026) further widened the CHI pathway: MFTs and MHCs can serve as auxiliary personnel, behavioral-health visits can initiate CHI, and the G0019 qualifying-service definition now covers any unmet upstream driver — making it easier for safety-net and behavioral-health practices in rural areas to stand up the CHW tier. But Medicaid CHW coverage is state-by-state (certification, scope, and payment pathways vary widely per NASHP/KFF), and the $50B CMS Rural Health Transformation Program (awards to all 50 states from 2026, ~$200M average first-year) provides grant, not sustained fee-for-service, funding — the Year 2 RHTP awards (Nov 9, 2026) confirmed the program continues at $10B/yr to all 50 states (Washington's Year 2 award: $177.06M, down from $181.26M), now informed by each state's documented implementation progress. Feasibility is real but uneven by state and dependent on braided funding.
 
 ### (d) Where is the gap? — Mi Salud's integrated loop is the gap
 What is NOT done nationally: (1) systematic tracking of every referral to completion — referral leakage remains high nationally (benchmarks show a large share of referrals never complete); (2) a single accountable workflow spanning CHW identification → nurse screening → telehealth provider → closed-loop return to the CHW — most closed-loop platforms stop at social-service referrals, and most HUB models stop at CHW-to-resource linkage; (3) integrated telehealth provider tier with rural vulnerable-population targeting funded through one coordinated model. This integration is Mi Salud's differentiator; it is nationally applicable in concept but not currently practiced as a unified model nationally.
 
-Key numbers: CHI G0019 national rate ~$80.56/month (60 min), G0022 ~$50.26; IMPaCT RCTs: ~$2,500 saved/patient year 1, 66% of hospital days, 94% NPS; CHW referral completion in community-to-facility literature: 34–97% (median 74%); RHT Program: $50B over 5 years, all 50 states, ~$200M average first-year award.
+Key numbers: CHI G0019 national rate ~$80.56/month (60 min), G0022 ~$50.26; IMPaCT RCTs: ~$2,500 saved/patient year 1, 66% of hospital days, 94% NPS; CHW referral completion in community-to-facility literature: 34–97% (median 74%); RHT Program: $50B over 5 years ($10B/yr, FY2026–FY2030), all 50 states, ~$200M average first-year award; Year 2 (FY2027) awards announced Nov 9, 2026, Washington $177.06M (down from $181.26M).

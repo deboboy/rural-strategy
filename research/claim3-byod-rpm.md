@@ -3,9 +3,9 @@ claim: "BYOD (bring-your-own-device) remote patient monitoring is nationally app
 verdict: PARTIALLY
 confidence: 0.84
 sources:
-  - title: "Demographics of Mobile Device Ownership and Adoption in the United States | Pew Research Center"
+  - title: "Americans’ Use of Mobile Devices in 2026 | Pew Research Center"
     url: "https://www.pewresearch.org/internet/fact-sheet/mobile/"
-    note: "Pew’s 2025 mobile fact sheet reports 91% of U.S. adults own a smartphone and 98% own a cellphone. It also shows a steep age gradient, with 78% of adults 65+ owning smartphones."
+    note: "Pew’s Oct 19, 2026 mobile fact sheet (NPORS, fielded Jan 30–Jun 18, 2026) reports 91% of U.S. adults own a smartphone and 98% own a cellphone. It shows a steep age gradient: 79% of adults 65+ own a smartphone while 14% have a cellphone but not a smartphone."
   - title: "Americans’ Use of Mobile Technology and Home Broadband | Pew Research Center"
     url: "https://www.pewresearch.org/internet/2024/01/31/americans-use-of-mobile-technology-and-home-broadband/"
     note: "Pew reports 90% smartphone ownership and 80% home broadband in 2023, with rural adults at 73% home broadband and 15% of adults being smartphone-dependent. It is the clearest single source for community-type digital gaps."
@@ -27,18 +27,24 @@ sources:
       requires one real-time interaction), lowering the practical billing floor for RPM
       starts; existing RPM/RTM code set unchanged. Code detail per HumHealth analysis
       (https://www.humhealth.com/blog/new-remote-patient-monitoring-cpt-codes-2026/).
-  - title: "Calendar Year (CY) 2027 Medicare Physician Fee Schedule Proposed Rule Fact Sheet (CMS-1848-P)"
-    url: https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-proposed-rule
+  - title: "Calendar Year (CY) 2027 Medicare Physician Fee Schedule Final Rule Fact Sheet (CMS-1848-F)"
+    url: https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-final-rule
     note: >-
-      Proposed Jul 14, 2026 (comment period closed ~Sep 14, 2026; final rule expected
-      ~Nov 2026, effective Jan 1, 2027): CMS proposes tightening RPM/RTM — a separately
-      reportable initiating visit would be required to start RPM or RTM, payment would
-      be allowed only when services are delivered by clinical staff employed by the
-      billing practice (not contractors), RTM would be limited to established patients,
-      and CMS seeks comment on bundling the 17 existing RPM/RTM CPT codes into 4 new
-      G-codes and on revaluing device-supply inputs. Proposals, not final policy; the
-      employed-staff requirement is the main watch item for community-based/CHW-staffed
-      monitoring models.
+      Final rule issued Nov 4, 2026 (public inspection; published Nov 9;
+      effective Jan 1, 2027): CMS finalized three of the four proposed RPM/RTM
+      policies — (1) RTM limited to established patients, (2) a separately
+      reportable face-to-face initiating visit (in person or telehealth)
+      required before RPM or RTM onset, and (3) practice-expense revaluation of
+      device-supply/setup codes (CPT 99445, 99453, 99454, 98975–98977, 98984,
+      98985), capped at 19%/yr so the cuts phase in over two years; the
+      treatment-management codes (99457, 99458, 99470, 98979–98981) were NOT
+      cut. The proposed direct-employee clinical-staff requirement was
+      finalized but DELAYED two years to Jan 1, 2029 (third-party contracting
+      remains allowed through Dec 31, 2028; CMS to issue clarifying
+      sub-regulatory guidance on leased employees/independent contractors). The
+      floated bundling of the 17 RPM/RTM codes into 4 G-codes was NOT adopted.
+      CY2027 non-qualifying-APM conversion factor $32.63 (−2.31%). Detail per
+      Nixon Peabody alert (Nov 9, 2026, nixonpeabody.com).
   - title: "Remote Patient Monitoring | CMS"
     url: "https://www.cms.gov/medicare/coverage/telehealth/remote-patient-monitoring"
     note: "CMS says Medicare broadly covers RPM using connected medical devices that automatically transmit data, with separate setup, device-supply, and management components. CMS also says payment does not depend on the exact type of device used."
@@ -82,17 +88,17 @@ BYOD RPM is nationally feasible and increasingly practical, but it is not unifor
 ## (a) Smartphone / smartwatch ownership, including rural and seniors
 **Verdict: PARTIALLY SUPPORTED**
 
-**Rationale:** Pew shows the device base is large enough to make BYOD RPM workable nationally: 91% of U.S. adults own smartphones, and 37% own smartwatches. But adoption drops for older adults (78% smartphone ownership and 24% smartwatch ownership for age 65+), and Pew continues to note that rural adults are less likely than urban adults to own smartphones and less likely than suburban adults to have home broadband. So the demographic base is strong, but BYOD cannot assume every rural or older patient already has the needed device stack.
+**Rationale:** Pew shows the device base is large enough to make BYOD RPM workable nationally: 91% of U.S. adults own smartphones, and 37% own smartwatches. But adoption drops for older adults (79% smartphone ownership and 24% smartwatch ownership for age 65+), and Pew continues to note that rural adults are less likely than urban adults to own smartphones and less likely than suburban adults to have home broadband. So the demographic base is strong, but BYOD cannot assume every rural or older patient already has the needed device stack.
 
 **3 strongest sources:**
-1. Pew mobile fact sheet — 91% smartphone ownership; 78% among adults 65+
+1. Pew mobile fact sheet — 91% smartphone ownership; 79% among adults 65+
 2. Pew 2024 mobile technology/home broadband report — rural broadband and smartphone-dependent gaps
 3. Pew smartwatch charts — 37% overall; 24% for age 65+
 
 ## (b) National RPM reimbursement landscape
 **Verdict: SUPPORTED**
 
-**Rationale:** CMS clearly covers remote patient monitoring in Medicare and breaks it into setup, device supply, and treatment-management components. CMS also states the same payment logic applies regardless of the specific device type, and the agency’s MLN guidance ties RPM/RTM to secure electronic transmission, consent, and day-count rules. RTM is also a standing Medicare code family, so nationally there is a reimbursement pathway for both physiologic RPM and therapeutic monitoring. The CY2026 PFS final rule adds short-duration codes 99445 and 99470 (effective Jan 1, 2026), so a rural practice can now bill for monitoring periods as short as 2 days and management under 20 minutes — directly easing the ramp-up burden for low-volume rural RPM programs. The CY2027 PFS proposed rule (CMS-1848-P, Jul 14, 2026) would tighten delivery rules — a required initiating visit, payment only for practice-employed (not contracted) clinical staff, and a floated re-bundling of the 17 RPM/RTM codes into 4 G-codes — but these are proposals (comment closed ~Sep 14, 2026; final rule expected ~Nov 2026), and the reimbursement pathway itself remains intact; the employed-staff proposal is the key watch item for community-based delivery models.
+**Rationale:** CMS clearly covers remote patient monitoring in Medicare and breaks it into setup, device supply, and treatment-management components. CMS also states the same payment logic applies regardless of the specific device type, and the agency’s MLN guidance ties RPM/RTM to secure electronic transmission, consent, and day-count rules. RTM is also a standing Medicare code family, so nationally there is a reimbursement pathway for both physiologic RPM and therapeutic monitoring. The CY2026 PFS final rule adds short-duration codes 99445 and 99470 (effective Jan 1, 2026), so a rural practice can now bill for monitoring periods as short as 2 days and management under 20 minutes — directly easing the ramp-up burden for low-volume rural RPM programs. The CY2027 PFS final rule (CMS-1848-F, issued Nov 4, 2026, effective Jan 1, 2027) finalized tightening of the remote-monitoring rules — a separately reportable face-to-face initiating visit (in person or by telehealth) is now required before RPM/RTM onset, and RTM is limited to established patients; both are conditions of payment. CMS also finalized practice-expense reductions to the device-supply/setup codes (99445, 99453, 99454, 98975–98977, 98984, 98985), phased in at no more than 19%/year, while leaving the treatment-management codes uncut, and did not adopt the floated consolidation of the 17 RPM/RTM codes into 4 G-codes. Critically for community-based and CHW-staffed monitoring models, the proposed direct-employee clinical-staff requirement was finalized but delayed to Jan 1, 2029, so third-party staffing remains permitted through Dec 31, 2028. The reimbursement pathway itself remains intact; the 2029 staffing deadline is the key structural watch item, and the new initiating-visit requirement is a modest ramp-up step (satisfiable by an existing visit, and by telehealth through 12/31/2027).
 
 **3 strongest sources:**
 1. CMS Remote Patient Monitoring page — Medicare broadly covers RPM and defines the core components

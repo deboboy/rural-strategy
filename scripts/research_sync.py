@@ -44,6 +44,26 @@ def _scalar(block: str, key: str):
     return val or None
 
 
+def _src_field(entry: str, name: str) -> str:
+    """Extract one field (title/url/note) from a sources-list entry.
+
+    Handles single-line values and folded (>) / literal (|) block scalars, and
+    stops at the next field key so a title never swallows the url/note lines.
+    """
+    m = re.search(
+        rf"^[ \t]*{name}:[ \t]*(.*(?:\n(?![ \t]*(?:title|url|note):)[ \t]+\S.*)*)",
+        entry,
+        re.M,
+    )
+    if not m:
+        return ""
+    val = re.sub(r"\s*\n\s*", " ", m.group(1)).strip()
+    val = re.sub(r"^[>|]+\s*", "", val)  # strip YAML block-scalar markers (>, >-, |)
+    if val.startswith("- "):
+        val = val[2:]
+    return val.strip().strip('"').strip()
+
+
 def parse_claim_md(text: str) -> dict:
     """Parse front matter + sections + sources from a claim markdown file."""
     # Front matter
@@ -63,16 +83,16 @@ def parse_claim_md(text: str) -> dict:
     if src_match:
         block = src_match.group(1)
         for entry in re.split(r"\n(?=[ \t]+-\s)", block):
-            title = re.search(r"title:\s*(.+(?:\n(?![ \t]+-)[ \t]+.*)*)", entry)
-            url = re.search(r"url:\s*(\S+)", entry)
-            note = re.search(r"note:\s*>?\s*\n?((?:[ \t]+.*\n?)*)", entry)
+            # drop the leading "  - " list marker so each field starts a line
+            entry = re.sub(r"^[ \t]*-[ \t]*", "", entry, count=1)
+            title = _src_field(entry, "title")
+            url = _src_field(entry, "url")
+            note = _src_field(entry, "note")
             if title and url:
-                t = re.sub(r"\s*\n\s*", " ", title.group(1)).strip().strip('"')
-                n = re.sub(r"\s*\n\s*", " ", note.group(1)).strip() if note else ""
                 sources.append({
-                    "title": t,
-                    "url": url.group(1).strip(),
-                    "note": n,
+                    "title": title,
+                    "url": url,
+                    "note": note,
                 })
 
     # Verdict keywords → enum
