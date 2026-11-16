@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T16:43:28.053861+00:00",
+  "generated": "2026-11-16T15:02:19.271845+00:00",
   "project": "Rural Healthcare Transformation \u2014 National Scope",
   "claims": [
     {
@@ -14,7 +14,7 @@
         },
         {
           "label": "(b) Already practiced nationally?",
-          "text": "[PARTIALLY] Named programs practice close variants: Pathways Community HUB / PCHI (CHW \"pathways\" tracked to completion, nationally certified, used in many communities), IMPaCT (evidence-based CHW program), and closed-loop referral platforms (Unite Us, findhelp, NowPow) used by health systems nationwide \u2014 e.g., Sarasota Memorial's Unite Us deployment (Oct 2026) tracks referrals to confirmed completion and reports reduced readmissions; separately, Hawai'i's Department of Corrections and Rehabilitation adopted Findhelp's statewide closed-loop network (Nov 2026), spanning 470+ community organizations. However, no widely adopted national program combines CHW identification, nurse screening/onboarding, telehealth provider treatment, and mandatory loop closure back to the CHW as a single integrated, tracked workflow \u2014 practice is fragmented across these actors."
+          "text": "[PARTIALLY] Named programs practice close variants: Pathways Community HUB / PCHI (CHW \"pathways\" tracked to completion, nationally certified, used in many communities), IMPaCT (evidence-based CHW program), and closed-loop referral platforms (Unite Us, findhelp, NowPow) used by health systems nationwide \u2014 e.g., Sarasota Memorial's Unite Us deployment (Oct 2026) tracks referrals to confirmed completion and reports reduced readmissions; separately, Hawai'i's Department of Corrections and Rehabilitation adopted Findhelp's statewide closed-loop network (Nov 2026), spanning 470+ community organizations. Most recently, the North Carolina State Health Plan (540,000 state-funded members) began a statewide rollout of Infina Connect's ICC closed-loop care-coordination platform through its Preferred Provider Program, targeting full deployment by Jan 1, 2027 (Nov 2026) \u2014 closed-loop tracking now reaching a state employee health plan. However, no widely adopted national program combines CHW identification, nurse screening/onboarding, telehealth provider treatment, and mandatory loop closure back to the CHW as a single integrated, tracked workflow \u2014 practice is fragmented across these actors."
         },
         {
           "label": "(c) Feasible under national policy?",
@@ -120,6 +120,11 @@
           "title": "Findhelp Selected by Hawai'i Department of Corrections and Rehabilitation to Modernize Community Referrals (PR Newswire, Nov 6, 2026)",
           "url": "https://www.prnewswire.com/news-releases/findhelp-selected-by-hawaii-department-of-corrections-and-rehabilitation-to-modernize-community-referrals-for-people-in-its-care-302931208.html",
           "note": "A state government agency (not a health system) is deploying a statewide closed-loop referral platform with explicit \"closed-loop outcome tracking\" \u2014 following every referral from initiation to confirmed service delivery \u2014 across 470+ registered community organizations and 600+ programs. Evidence that closed-loop referral infrastructure is being adopted nationally beyond the health-system buyer set, strengthening the component-level national-availability argument."
+        },
+        {
+          "title": "North Carolina State Health Plan Begins Statewide Rollout of Infina Connect's Care Coordination Platform for 540,000 State-Funded Members (PR Newswire, Nov 10, 2026)",
+          "url": "https://pr.bluemountaineagle.com/article/North-Carolina-State-Health-Plan-Begins-Statewide-Rollout-of-Infina-Connects-Care-Coordination-Platform-for-540000-State-Funded-Members/6af31e5e45631dcbed09ba24",
+          "note": "A statewide public payer (NC State Health Plan, 750,000 covered lives, 540,000 state-funded members) is deploying Infina Connect's Intelligent Care Coordinator (ICC) closed-loop care-coordination platform across its new Preferred Provider Program, with statewide rollout targeted for Jan 1, 2027. ICC gives primary care a network-tier view, EHR-agnostic clinical document exchange, and tracks whether a referred member was scheduled, seen, and reported back on. The release calls it \"one of the largest statewide rollouts of coordinated care technology in the country,\" extending the closed-loop-referral buyer set from health systems and corrections departments to a state employee health plan \u2014 further evidence the referral-tracking infrastructure is national and in production at payer scale."
         }
       ],
       "id": 1,
