@@ -38,6 +38,21 @@ sources:
   - title: "Enrollment and Access Barriers for People with Limited English Proficiency"
     url: "https://www.macpac.gov/wp-content/uploads/2024/07/Enrollment-and-Access-Barriers-for-People-with-Limited-English-Proficiency.pdf"
     note: "MACPAC summarizes that LEP is linked to worse access and health outcomes, that Medicaid agencies must provide meaningful access, and that the 2024 Section 1557 final rule requires top-15-language notices and accessible communications."
+  - title: "Attorney General Memorandum on Implementing English as the Official Language; Request for Information (Federal Register, Nov 12, 2026)"
+    url: https://www.federalregister.gov/documents/2026/11/12/2026-22966/attorney-general-memorandum-on-implementing-english-as-the-official-language-request-for-information
+    note: >-
+      Federal counter-current to track alongside the language-access mandates:
+      Executive Order 14224 (Mar 2025) revoked EO 13166, the 2000 order behind
+      nearly 25 years of general federal LEP guidance, and the Attorney General's
+      implementation memorandum was published for comment on Nov 12, 2026. Several
+      agencies rescinded their general Title VI/LEP guidance during 2026 (e.g.,
+      Treasury, Mar 4, 2026), and a 2026 Medicare rule removed the Medicare
+      Advantage notice of available language assistance. The health-care-specific
+      Section 1557 rules (45 CFR 92.11, 92.201), ADA/Section 504 duties, and
+      Medicaid language requirements remain in force, and HHS telehealth LEP
+      guidance under the SPEAK Act is still due by Feb 2027 (not yet issued as of
+      mid-Nov 2026). Context per Access Multilingual's Federal Language Access
+      Tracker (https://accessmultilingual.com/resources/language-access-toolkit/federal-language-access-tracker).
   - title: "A Systematic Review of the Impact of Patient-Physician Non-English Language Concordance on Quality of Care and Outcomes - PubMed"
     url: "https://pubmed.ncbi.nlm.nih.gov/31147980/"
     note: "Systematic review found that in the majority of situations, language-concordant care improves outcomes; 25 of 33 studies favored language-concordant care on at least one outcome."
@@ -80,7 +95,7 @@ Strongest sources:
 ## (c) Do policies/mandates support it?
 **Verdict: SUPPORTED**
 
-Rationale: Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. HHS also says many Medicare telehealth flexibilities run through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation. The SPEAK Act (signed February 3, 2026, in the Consolidated Appropriations Act, 2026) adds a new statutory layer: HHS must publish telehealth language-access guidance by February 2027, covering interpreter integration across the telehealth visit — the first federal statute squarely aimed at language access in telehealth. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice.
+Rationale: Section 1557, CLAS, Title VI/Section 504-linked Medicaid language access obligations, and CMS/CHIPRA reimbursement pathways all support language access and translation/interpretation services. The policy direction is clear: covered entities must provide meaningful access, plain-language information, notices in top languages, and no-cost language assistance; Medicaid states may reimburse interpretation costs and can claim enhanced match in some cases. HHS also says many Medicare telehealth flexibilities run through December 31, 2027, including home-based non-behavioral telehealth, no geographic restrictions for non-behavioral services, audio-only for non-behavioral services, and FQHC/RHC distant-site participation. The SPEAK Act (signed February 3, 2026, in the Consolidated Appropriations Act, 2026) adds a new statutory layer: HHS must publish telehealth language-access guidance by February 2027, covering interpreter integration across the telehealth visit — the first federal statute squarely aimed at language access in telehealth. These policies do not mandate the exact multimodal intake architecture Mi Salud uses, but they do strongly support the underlying practice. One counter-current to note: EO 14224 (Mar 2025) revoked EO 13166, and several agencies rescinded their general Title VI/LEP guidance during 2026 (Treasury Mar 4, 2026; the AG implementation memorandum was published for comment Nov 12, 2026), so the general federal guidance layer has weakened — though the health-care-specific Section 1557 language rules, ADA/Section 504 duties, and Medicaid language requirements remain in force and SPEAK Act telehealth guidance is still due by Feb 2027.
 
 Strongest sources:
 1. Translation and Interpretation Services | Medicaid — https://www.medicaid.gov/medicaid/financial-management/medicaid-administrative-claiming/translation-and-interpretation-services
